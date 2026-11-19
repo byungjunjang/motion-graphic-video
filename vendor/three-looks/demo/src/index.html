@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>three-looks 시험 페이지</title>
+<style>
+@font-face{font-family:"Pretendard";font-weight:400;src:url("../../../../templates/starter/assets/fonts/Pretendard-Regular.woff2") format("woff2");}
+@font-face{font-family:"Pretendard";font-weight:600;src:url("../../../../templates/starter/assets/fonts/Pretendard-SemiBold.woff2") format("woff2");}
+*{box-sizing:border-box;margin:0;padding:0;}
+html,body{background:#000;}
+body{font-family:"Pretendard",sans-serif;-webkit-font-smoothing:antialiased;}
+#stage{position:relative;width:1920px;height:1080px;overflow:hidden;background:#000;}
+#stage *{position:absolute;}
+#gl{left:0;top:0;width:1920px;height:1080px;}
+#step{left:120px;top:110px;font-size:26px;font-weight:600;letter-spacing:.18em;white-space:nowrap;}
+#ttl{left:116px;top:150px;font-size:104px;font-weight:600;letter-spacing:-.03em;white-space:nowrap;}
+#tag{left:0;top:0;font-size:26px;font-weight:600;white-space:nowrap;padding:8px 18px;border-radius:999px;background:#fff;color:#1b1d29;transform-origin:0 0;box-shadow:0 4px 14px rgba(40,50,90,.18);}
+</style>
+</head>
+<body>
+<div id="stage">
+  <canvas id="gl" width="1920" height="1080"></canvas>
+  <div id="step"></div>
+  <div id="ttl"></div>
+  <div id="tag">언어 모델</div>
+</div>
+<script src="../../../three/three.min.js"></script>
+<script src="../../looks.js"></script>
+<script>
+const $ = id => document.getElementById(id), W = 1920, H = 1080, L = LOOKS;
+const clamp = (v, a = 0, b = 1) => Math.min(b, Math.max(a, v)), pr = (t, t0, d) => clamp((t - t0) / d);
+const out3 = u => 1 - Math.pow(1 - u, 3), back = u => { const c = 1.70158; return 1 + (c + 1) * Math.pow(u - 1, 3) + c * Math.pow(u - 1, 2); };
+
+const gl = new THREE.WebGLRenderer({ canvas: $('gl'), antialias: false, preserveDrawingBuffer: true });
+gl.setPixelRatio(1); gl.setSize(W, H, false);
+gl.shadowMap.enabled = true; gl.shadowMap.type = THREE.VSMShadowMap;
+const cam = new THREE.PerspectiveCamera(35, W / H, 0.1, 200);
+const post = L.post(gl, { w: W, h: H });
+const ENV = { dome: L.env(gl, 'dome'), strips: L.env(gl, 'strips'), studio: L.env(gl, 'studio') };
+
+// ── 1. 글래스모픽 ──
+const S1 = new THREE.Scene(); S1.environment = ENV.dome;
+S1.add(L.dome({ base: ['#14204a', '#3a1d5c'], blobs: [
+  { dir: [-1, 0.5, -0.6], color: '#8b3fd6', size: 0.75, power: 0.9 }, { dir: [-1, -0.4, 0.2], color: '#c4572c', size: 0.6, power: 0.55 },
+  { dir: [0.9, -0.5, -0.5], color: '#2456c9', size: 0.7, power: 0.8 }, { dir: [0.6, 0.8, -0.4], color: '#b0489a', size: 0.55, power: 0.45 }] }));
+const s1orbs = L.orbs(160, { seed: 3, spread: [16, 8, 10], color: '#6fb6ff', size: 0.09, power: 2.4 }); S1.add(s1orbs);
+const chat = L.panel(4.6, 0.82, { radius: 0.41, depth: 0.08 }); S1.add(chat);
+const card = L.panel(2.5, 3.0, { radius: 0.22, depth: 0.07 }); S1.add(card);
+const card2 = new THREE.Mesh(card.body.geometry, L.glass({ roughness: 0.5 })); S1.add(card2);
+const gSphere = new THREE.Mesh(new THREE.SphereGeometry(0.45, 64, 48), L.clearGlass()); S1.add(gSphere);
+const gRing = new THREE.Mesh(new THREE.TorusGeometry(0.42, 0.07, 24, 96), L.clearGlass({ dispersion: 6 })); S1.add(gRing);
+const gIco = new THREE.Mesh(new THREE.IcosahedronGeometry(0.4, 0), L.clearGlass({ dispersion: 8 })); S1.add(gIco);
+const s1trail = L.trail([[-6, -1.6, 1], [-2.5, -1.3, 0.6], [-0.2, -0.9, 0.9], [1.6, -1.2, 0.2], [4.2, -0.4, -1.2], [6.5, 1.2, -3]], { color: '#ffb070', radius: 0.022 }); S1.add(s1trail);
+const TASKS = ['데이터 모델 설계', '습관 목록 화면', '연속 기록 통계', '테스트 작성'];
+
+// ── 2. 액체 금속 ──
+const S2 = new THREE.Scene(); S2.environment = ENV.strips;
+S2.add(L.dome({ base: ['#0d0e10', '#4a4b50'], blobs: [{ dir: [0, 0.25, -1], color: '#6c6d73', size: 0.6, power: 0.6 }] }));
+const metal = L.liquidMetal();
+const blobG = new THREE.SphereGeometry(1, 160, 120);
+const blobs = [0, 1, 2, 3, 4].map(() => { const m = new THREE.Mesh(blobG, metal); S2.add(m); return m; });
+const mir = L.mirror(blobs, -0.75); S2.add(mir);
+const s2floor = new THREE.Mesh(new THREE.PlaneGeometry(40, 40), new THREE.MeshStandardMaterial({ color: '#0c0c0e', roughness: 0.6, metalness: 0, transparent: true, opacity: 0.86 }));
+s2floor.rotation.x = -Math.PI / 2; s2floor.position.y = -0.75; S2.add(s2floor);
+const s2arcs = [[0, 4], [1, 4], [2, 4]].map(([a, b], i) => { const x0 = -2.4 + a * 1.2, x1 = -2.4 + b * 1.2, hgt = 0.9 + (b - a) * 0.28;
+  const m = L.trail([[x0, 0.45, 0], [(x0 + x1) / 2, 0.45 + hgt, 0], [x1, 0.45, 0]], { color: '#c8ff3d', radius: 0.018 + i * 0.006, power: 2.6, head: 3 }); S2.add(m); return m; });
+
+// ── 3. 클레이 ──
+const S3 = new THREE.Scene(); S3.environment = ENV.studio;
+S3.add(L.dome({ base: ['#c9ccd4', '#eceef2'] }));
+S3.add(new THREE.HemisphereLight('#ffffff', '#b8bdd0', 1.1));
+const key = new THREE.DirectionalLight('#fff4e8', 2.4); key.position.set(-4, 7, 5); key.castShadow = true;
+key.shadow.mapSize.set(2048, 2048); key.shadow.radius = 9; key.shadow.blurSamples = 16; key.shadow.bias = -0.0004;
+Object.assign(key.shadow.camera, { left: -7, right: 7, top: 7, bottom: -7, near: 1, far: 22 }); S3.add(key);
+const fill = new THREE.DirectionalLight('#cfe0ff', 0.7); fill.position.set(5, 3, -2); S3.add(fill);
+const s3floor = L.floor({}); S3.add(s3floor);
+const NB = 180, ballG = new THREE.SphereGeometry(1, 32, 24), aShow = new THREE.InstancedBufferAttribute(new Float32Array(NB), 1);
+ballG.setAttribute('aShow', aShow);
+const balls = new THREE.InstancedMesh(ballG, L.clay('#ffffff', { instanced: true }), NB); balls.castShadow = true; S3.add(balls);
+const PASTEL = ['#f6b6a0', '#a9c4f5', '#f4d58a', '#a8e0bf'], CEN = [[-2.6, 1.9, 0], [0.4, 2.2, -0.6], [-1.2, 0.8, 0.8], [1.2, 0.9, 0.4]];
+const BALL = (() => { const r = L.rng(11), a = []; for (let i = 0; i < NB; i++) { const c = i % 4, g = () => (r() + r() + r() - 1.5) * 0.9;
+  a.push({ c, p: [CEN[c][0] + g(), Math.max(CEN[c][1] + g() * 0.8, 0.2), CEN[c][2] + g()], s: 0.09 + r() * 0.09, at: r() * 1.1 }); } return a; })();
+BALL.forEach((b, i) => balls.setColorAt(i, new THREE.Color(PASTEL[b.c])));
+const orb3 = new THREE.Mesh(new THREE.SphereGeometry(0.85, 64, 48), L.clay('#6a63ee', { rim: '#c9c6ff', rimPower: 0.5 })); orb3.castShadow = true; S3.add(orb3);
+const ringM = L.clay('#f4f4f7');
+const rings3 = [0, 1].map(() => { const m = new THREE.Mesh(new THREE.TorusGeometry(1.25, 0.045, 16, 120), ringM); m.castShadow = true; S3.add(m); return m; });
+const _m4 = new THREE.Matrix4(), _q = new THREE.Quaternion(), _v = new THREE.Vector3(), _s = new THREE.Vector3();
+
+// ── 4. 망점 인쇄 ──
+const S4 = new THREE.Scene(); S4.background = new THREE.Color('#e9e2d8');
+const hgt = (x, z) => 0.55 * Math.sin(x * 0.9 + 0.4) * Math.cos(z * 0.8) + 0.35 * Math.sin(x * 0.5 - z * 1.1) + 0.12 * (x - z) * 0.5;
+const surfG = new THREE.PlaneGeometry(7, 7, 180, 180); surfG.rotateX(-Math.PI / 2);
+{ const p = surfG.attributes.position; for (let i = 0; i < p.count; i++) p.setY(i, hgt(p.getX(i), p.getZ(i))); surfG.computeVertexNormals(); }
+const surf = new THREE.Mesh(surfG, L.halftone({ ink: '#2f7fb8', paper: '#e9e2d8', cell: 6, dark: 1.25, contour: { color: '#d6337a', step: 0.16, width: 1.3 }, side: THREE.DoubleSide })); S4.add(surf);
+const ball4 = new THREE.Mesh(new THREE.SphereGeometry(0.16, 32, 24), L.halftone({ ink: '#d6337a', paper: '#f3c7d8', cell: 4, dark: 1.3 })); S4.add(ball4);
+const PATH4 = t => { const u = out3(t), x = -1.9 + u * 2.6, z = -1.6 + u * 2.3; return [x, hgt(x, z) + 0.16, z]; };
+
+// ── 5. 홀로그램 ──
+const S5 = new THREE.Scene(); S5.background = new THREE.Color('#01040b');
+S5.add(L.orbs(900, { seed: 5, spread: [60, 34, 2], color: '#9fc8ff', size: 0.05, power: 1.0, positions: (() => { const r = L.rng(5), a = new Float32Array(2700); for (let i = 0; i < 900; i++) { a[i * 3] = (r() - 0.5) * 60; a[i * 3 + 1] = (r() - 0.5) * 34; a[i * 3 + 2] = -22 - r() * 6; } return a; })() }));
+const globe = new THREE.Group(); S5.add(globe);
+// 시험용 가짜 육지 마스크다. 실제 영상에서는 육지 자료로 만든 mask 를 넘긴다
+const fake = (lat, lon) => Math.sin(lon * 0.045 + 1.2) * Math.cos(lat * 0.07) + 0.6 * Math.sin(lon * 0.11 - lat * 0.05) + 0.35 * Math.cos(lat * 0.16 + lon * 0.02) > 0.42 && Math.abs(lat) < 78;
+const land = L.holoPoints(L.fib(30000, fake), { size: 0.011 }); globe.add(land);
+globe.add(L.ocean({}));
+const atmo = L.atmosphere({}); S5.add(atmo);
+const CITY = [L.latLon(51.5, -0.1), L.latLon(50.1, 8.7), L.latLon(1.35, 103.8), L.latLon(35.7, 139.7)];
+const hops = [0, 1, 2].map(i => { const m = L.trail(L.arc(CITY[i], CITY[i + 1], 0.5), { color: '#ffd9a0', radius: 0.004, power: 2.4, head: 8 }); globe.add(m); return m; });
+
+const SC = [
+  { s: S1, name: '글래스모픽', step: 'LOOK 01', ink: '#ffffff', acc: '#ff8a4c', post: { tone: 'neutral', bloom: 0.7, threshold: 1.0, ca: 0.0014, vignette: 0.3, grain: 0.03, scan: 0, exposure: 1 } },
+  { s: S2, name: '액체 금속', step: 'LOOK 02', ink: '#f2f2f2', acc: '#c8ff3d', post: { tone: 'neutral', bloom: 0.8, threshold: 1.1, ca: 0.001, vignette: 0.35, grain: 0.035, scan: 0, exposure: 1 } },
+  { s: S3, name: '클레이', step: 'LOOK 03', ink: '#1b1d29', acc: '#4f46e5', post: { tone: 'neutral', bloom: 0.5, threshold: 1.25, ca: 0.0006, vignette: 0.12, grain: 0.02, scan: 0, exposure: 1 } },
+  { s: S4, name: '망점 인쇄', step: 'LOOK 04', ink: '#2f7fb8', acc: '#d6337a', post: { tone: 'none', bloom: 0, threshold: 1, ca: 0, vignette: 0.12, grain: 0.05, scan: 0, exposure: 1 } },
+  { s: S5, name: '홀로그램', step: 'LOOK 05', ink: '#e8f6ff', acc: '#ffb547', post: { tone: 'aces', bloom: 1.1, threshold: 0.7, ca: 0.0016, vignette: 0.3, grain: 0.03, scan: 0.1, exposure: 1 } },
+];
+const FLY = [
+  [{ at: [0, 1.3], pos: [-0.6, 0.5, 9.5], look: [-0.4, 0.1, 0], drift: [0.25, 0, -0.5] }, { at: [1.9, 3], pos: [2.6, 0.2, 7.4], look: [1.9, 0.1, 0], drift: [0.2, 0.05, -0.3] }],
+  [{ at: [0, 3], pos: [0, 0.6, 9], look: [0, 0.3, 0], drift: [0.5, 0.15, -1.2] }],
+  [{ at: [0, 1.4], pos: [-1, 2.6, 10.5], look: [-0.4, 1.4, 0], drift: [0.5, 0, -0.6] }, { at: [2, 3], pos: [5.2, 2.2, 7.5], look: [3.4, 1.3, 0], drift: [0.2, 0, -0.3] }],
+  [{ at: [0, 3], pos: [4.6, 4.4, 6.6], look: [0.2, -0.2, 0], drift: [-1.4, 0.2, 0.3] }],
+  [{ at: [0, 3], pos: [0.9, 0.5, 4.3], look: [0.9, 0, 0], drift: [-0.2, 0.1, -0.5] }],
+];
+
+function drawChat(u) {
+  chat.draw((c, w, h) => {
+    const s = h / 100; c.font = `600 ${34 * s}px Pretendard`; c.fillStyle = '#fff'; c.textBaseline = 'middle';
+    const txt = '습관 기록 앱을 만들어 줘'; c.fillText(txt.slice(0, Math.round(txt.length * clamp(u / 0.9))), 44 * s, 52 * s);
+    c.beginPath(); c.arc(w - 50 * s, 50 * s, 30 * s, 0, 7); c.fillStyle = u > 0.9 ? '#ff8a4c' : 'rgba(255,255,255,.25)'; c.fill();
+    c.strokeStyle = '#1b1030'; c.lineWidth = 5 * s; c.lineCap = 'round'; c.beginPath(); c.moveTo(w - 50 * s, 64 * s); c.lineTo(w - 50 * s, 38 * s); c.moveTo(w - 62 * s, 49 * s); c.lineTo(w - 50 * s, 37 * s); c.lineTo(w - 38 * s, 49 * s); c.stroke();
+  });
+}
+function drawCard(u) {
+  card.draw((c, w, h) => {
+    const s = w / 500; c.textBaseline = 'middle'; c.font = `600 ${26 * s}px Pretendard`; c.fillStyle = 'rgba(255,255,255,.7)'; c.fillText('계획 · 4단계', 44 * s, 66 * s);
+    TASKS.forEach((tx, i) => { const y = (150 + i * 105) * s, on = u > 0.25 + i * 0.18;
+      c.lineWidth = 4 * s; c.strokeStyle = on ? '#ff8a4c' : 'rgba(255,255,255,.8)'; c.fillStyle = on ? '#ff8a4c' : 'rgba(255,255,255,0)';
+      c.beginPath(); c.roundRect(44 * s, y - 20 * s, 40 * s, 40 * s, 9 * s); c.fill(); c.stroke();
+      if (on) { c.strokeStyle = '#1b1030'; c.lineWidth = 5 * s; c.beginPath(); c.moveTo(53 * s, y); c.lineTo(62 * s, y + 9 * s); c.lineTo(76 * s, y - 9 * s); c.stroke(); }
+      c.font = `600 ${34 * s}px Pretendard`; c.fillStyle = on ? 'rgba(255,255,255,.55)' : '#fff'; c.fillText(tx, 108 * s, y + 2 * s);
+      if (on) { c.fillRect(104 * s, y, c.measureText(tx).width + 8 * s, 3 * s); }
+    });
+  });
+}
+
+window.seek = function (t) {
+  const i = Math.min(Math.floor(t / 3), 4), u = t - i * 3, k = SC[i];
+  Object.assign(post.o, k.post);
+  $('ttl').textContent = k.name; $('ttl').style.color = k.ink; $('step').textContent = k.step; $('step').style.color = k.acc;
+  $('tag').style.opacity = 0;
+  cam.fov = 35; cam.updateProjectionMatrix(); L.fly(cam, FLY[i], u);
+
+  if (i === 0) {
+    chat.position.set(-0.6, 0.15, 0); chat.rotation.set(-0.06, 0.16, 0.02); drawChat(pr(u, 0.1, 1.1));
+    card.position.set(3.1, 0.15, 0); card.rotation.set(-0.04, -0.3 + 0.06 * u, 0.02); drawCard(pr(u, 1.2, 1.6));
+    card2.position.set(3.22, 0.27, -0.22); card2.rotation.copy(card.rotation);
+    gSphere.position.set(-2.6, -1.9 + 0.12 * Math.sin(t * 1.3), -0.6);
+    gRing.position.set(1.0, -1.5, -0.6); gRing.rotation.set(1.1 + t * 0.5, 0.4 + t * 0.3, 0);
+    gIco.position.set(5.6, 1.9, -1.5); gIco.rotation.set(t * 0.6, t * 0.4, 0);
+    s1orbs.position.set(0, 0, -2 + 0.2 * t);
+    s1trail.u.uP.value = pr(u, 0.2, 2.6);
+  } else if (i === 1) {
+    metal.u.uLmT.value = t * 1.6; const sp = out3(pr(u, 0.7, 1.0));
+    metal.u.uLmAmp.value = 0.16 - 0.1 * sp;
+    blobs.forEach((b, j) => { const x = (j - 2) * 1.2 * sp, r = 0.95 - 0.47 * sp; b.position.set(x, 0.45 + 0.05 * Math.sin(t * 2 + j), 0); b.scale.setScalar(r); b.rotation.y = t * 0.3 + j; });
+    mir.sync();
+    s2arcs.forEach((a, j) => { a.u.uP.value = out3(pr(u, 1.7 + j * 0.2, 0.8)); a.visible = u > 1.7 + j * 0.2; });
+  } else if (i === 2) {
+    BALL.forEach((b, j) => { const a = pr(u, b.at, 0.7), s = b.s * back(clamp(a * 1.2));
+      _v.set(b.p[0], b.p[1], b.p[2]); _s.setScalar(Math.max(s, 0.0001)); balls.setMatrixAt(j, _m4.compose(_v, _q, _s)); aShow.array[j] = a; });
+    balls.instanceMatrix.needsUpdate = true; aShow.needsUpdate = true;
+    const o = pr(u, 1.5, 0.9); orb3.position.set(3.5, 1.35, 0); orb3.scale.setScalar(0.4 + 0.6 * out3(o)); orb3.material.u.uShow.value = o;
+    rings3.forEach((r, j) => { r.position.copy(orb3.position); r.rotation.set(1.2 + j * 0.9 + t * (0.7 + j * 0.3), t * 0.5 + j, 0); r.scale.setScalar(orb3.scale.x); r.material.u.uShow.value = pr(u, 1.9, 0.7); });
+    const p = L.pin([3.5, 2.75, 0], cam, W, H);
+    $('tag').style.opacity = pr(u, 2.3, 0.3); $('tag').style.transform = `translate(${p.x.toFixed(2)}px,${p.y.toFixed(2)}px) translate(-50%,-50%)`;
+  } else if (i === 3) {
+    surf.material.u.uFade.value = out3(pr(u, 0, 0.9)); surf.rotation.y = 0.15 * u;
+    const p = PATH4(pr(u, 1.0, 1.7)); ball4.position.set(p[0], p[1], p[2]); ball4.visible = u > 0.9;
+  } else {
+    globe.rotation.set(0.35, -1.1 + 0.5 * u, 0); land.u.uReveal.value = pr(u, 0.1, 1.3);
+    hops.forEach((h, j) => { h.u.uP.value = out3(pr(u, 1.2 + j * 0.45, 0.6)); h.visible = u > 1.2 + j * 0.45; });
+  }
+  post.render(k.s, cam, t);
+};
+Promise.all([document.fonts.load('400 40px Pretendard'), document.fonts.load('600 40px Pretendard')]).then(() => document.fonts.ready).then(() => { window.seek(0); window.__ready = true; });
+</script>
+</body>
+</html>

@@ -1,0 +1,9989 @@
+{
+ "gh:kaiyu-ai-762929": {
+  "tones": [
+   "anime",
+   "ink"
+  ],
+  "by": "x-frames8",
+  "note": "세로 일본어 문구의 극화풍 만화 장면",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:jackfriks-338762": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "해변 돼지 커플 만화 캐릭터",
+  "date": "2026-10-19"
+ },
+ "gh:theparuchh-013286": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "시계 제품, 흰 배경",
+  "date": "2026-10-19"
+ },
+ "gh:essjaykay755-847163": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "x-frames8",
+  "note": "검은 바탕 큰 타이포 쇼릴, 가는선 HUD 오버레이",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:dhanrajdc-602284": {
+  "tones": [
+   "infographic",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "검은 바탕 숫자·도트 데이터 설명 화면",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "pm:sab8a-364a5a": {
+  "tones": [],
+  "by": "frames3",
+  "note": "해당 없음: 실사 인물 영상",
+  "date": "2026-10-19",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "gh:smallhusk-272056": {
+  "tones": [
+   "voxel"
+  ],
+  "by": "frames3",
+  "note": "회색 블록 건물 도시 3D",
+  "date": "2026-10-19"
+ },
+ "gh:kenjiphang-750512": {
+  "tones": [
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "어두운 게임 HUD 카드",
+  "date": "2026-10-19"
+ },
+ "gh:teleboost-app-521507": {
+  "tones": [],
+  "by": "unknown",
+  "note": "포스터 검은 화면·영상 없음·프롬프트에 스타일 지시 없음",
+  "date": "2026-10-19"
+ },
+ "gh:henritoivar-445215": {
+  "tones": [
+   "pixel",
+   "hand-drawn"
+  ],
+  "by": "frames3",
+  "note": "손글씨와 픽셀 LEVEL UP",
+  "date": "2026-10-19"
+ },
+ "gh:xanderwow-a-597063": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "평면 만화 인물과 달 장면",
+  "date": "2026-10-19"
+ },
+ "gh:enhanced-jp-776726": {
+  "tones": [],
+  "by": "unknown",
+  "note": "포스터 검은 화면·영상 없음·프롬프트에 스타일 지시 없음",
+  "date": "2026-10-19"
+ },
+ "gh:wilzerjb-007630": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "어두운 단색 배경에 UI 카드와 큰 산세리프",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:janlaywss-379361": {
+  "tones": [
+   "minimal-ui",
+   "voxel"
+  ],
+  "by": "frames8",
+  "note": "브라우저 폰 화면 속 블록 차 주차 퍼즐",
+  "confidence": "low",
+  "date": "2026-10-19"
+ },
+ "gh:mdaman010-610173": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "사실적 3D 텃밭·나무 풍경, 깊은 조명",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:washow-cfo-175311": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 큰 한자 타이포",
+  "date": "2026-10-19"
+ },
+ "pm:ghinaiya-nirmal-5d8fec": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 큰 글자 THINGS·GLITCH, 계기선",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:muhamma61700589-512003": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "야경 3D 도시",
+  "date": "2026-10-19"
+ },
+ "gh:godsboy7777-150194": {
+  "tones": [
+   "cutaway",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "구슬 컴퓨터 기계 구조 비교 화면",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:oab10don-457273": {
+  "tones": [
+   "neon",
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "네온 댄스플로어 3D 캐릭터 무대",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "pm:stephanlivera-df17a2": {
+  "tones": [
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 패턴, HUD 오버레이",
+  "date": "2026-10-19"
+ },
+ "pm:twoclipping-5cba86": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "흰 바탕 플레이어·토스트 UI",
+  "date": "2026-10-19"
+ },
+ "pm:shneural-2abdfa": {
+  "tones": [
+   "kinetic-type",
+   "chrome"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 큰 문구와 크롬 3D 오브젝트, 도트 패턴",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:ajith-io-b5626e": {
+  "tones": [
+   "kinetic-type",
+   "particle"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 큰 글자·원형 타이포, 점 입자 패턴",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:twoclipping-221cab": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "사진 갤러리·상품 카드 UI, 단정한 밝은 배경",
+  "confidence": "high",
+  "date": "2026-10-19",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "pm:twoclipping-d89be5": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "랜딩 페이지 3D 목업",
+  "date": "2026-10-19"
+ },
+ "pm:himanshutwtxs-5f4b43": {
+  "tones": [
+   "kinetic-type",
+   "hand-drawn"
+  ],
+  "by": "frames8",
+  "note": "큰 MOVE 타이포와 손글씨 주석, 곡선 그래프",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:gabrielbuzziv-4ff0c6": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "아이콘 격자, 상품 카드 UI",
+  "date": "2026-10-19"
+ },
+ "pm:lexnlin-038035": {
+  "tones": [
+   "printmaking",
+   "kinetic-type"
+  ],
+  "by": "frames4",
+  "note": "세로 흰 화면, 동판화 도판과 명조 큰 글자",
+  "date": "2026-10-24",
+  "confidence": "mid",
+  "was": {
+   "tones": [
+    "editorial",
+    "hand-drawn"
+   ],
+   "by": "frames8",
+   "note": "흰 바탕 판화풍 삽화와 세리프 문구",
+   "confidence": "mid",
+   "date": "2026-10-19"
+  },
+  "flags": [
+   "실존",
+   "실자료"
+  ]
+ },
+ "pm:ror-fly-9950f1": {
+  "tones": [
+   "editorial",
+   "infographic"
+  ],
+  "by": "frames8",
+  "note": "크림 바탕 잔 일러스트, 단계 진행 표시",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:notdwd-c2037d": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "앱 화면 비교 카드",
+  "date": "2026-10-19"
+ },
+ "pm:thismacapital-dfba20": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "산세리프 문구, 카드, 풍경",
+  "date": "2026-10-19"
+ },
+ "pm:ajith-io-c52e09": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "흰 바탕 앱 카드 UI와 단정한 문구",
+  "confidence": "high",
+  "date": "2026-10-19",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "pm:twoclipping-6dd14e": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "입력 폼·폰 목업, 어두운 배경 사진 카드",
+  "confidence": "mid",
+  "date": "2026-10-19",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "pm:samuel-yostt-891f87": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "밝은 배경 큰 문구와 폰 목업",
+  "confidence": "high",
+  "date": "2026-10-19",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "pm:emollick-8661a8": {
+  "tones": [
+   "ascii",
+   "cartoon"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 터미널 코드, 만화, 레트로 웹 혼재",
+  "confidence": "low",
+  "date": "2026-10-19"
+ },
+ "pm:steventey-0d20e4": {
+  "tones": [
+   "infographic",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "검은 대시보드 차트, 파트너 망",
+  "date": "2026-10-19"
+ },
+ "pm:alex-prompter-1ea044": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "연청 바탕 단정한 문구, 카드·입력창 UI",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:majin-appsheet-2d3c1a": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "검은 바탕 큰 일본어·SLIDES 타이포",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:tdinh-me-815acb": {
+  "tones": [],
+  "by": "frames8",
+  "note": "해당 없음: 로우폴리 뇌 조립 후 로고",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:thayto-dev-44b911": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "세리프 문구, 가격 카드",
+  "date": "2026-10-19"
+ },
+ "pm:davidmarcus-a28a60": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "세로 밝은 바탕 단정한 문구, 로고",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:ultimaxbt-bbebf5": {
+  "tones": [
+   "kinetic-type",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "큰 글자 토글, 그래프, 3D 글자",
+  "date": "2026-10-19"
+ },
+ "pm:rossaxbt-94583b": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "슬라이더·키보드 UI",
+  "date": "2026-10-19"
+ },
+ "pm:itsolelehmann-e47532": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "평면 채색 창밖 풍경",
+  "date": "2026-10-19",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "pm:linearuncle-5d2bae": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "frames8",
+  "note": "감색 바탕 함수 그래프 강의",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:jacksonfall-54b2ac": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "로고 마크, 카드, 선",
+  "date": "2026-10-19"
+ },
+ "pm:kloss-xyz-fe0c31": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames8",
+  "note": "큰 제목, 가는 선 주석, 막대 차트",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:jasonzhou1993-8595e0": {
+  "tones": [
+   "particle",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 입자 형상과 큰 글자, 차트 혼재",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:robj3d3-b18fad": {
+  "tones": [
+   "kinetic-type",
+   "particle"
+  ],
+  "by": "frames8",
+  "note": "어두운 바탕 큰 문구, 입자 흩어짐",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:ho-ba-f3f0e9": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "밝은 바탕 세리프 문구, 앱 창, 아이콘",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:itisrazak-3ad902": {
+  "tones": [
+   "hand-drawn",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 손그림 설명도, 카드 그리드, 로고",
+  "confidence": "low",
+  "date": "2026-10-19"
+ },
+ "pm:notdwd-7de38a": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "흰 바탕 앱 UI와 카드",
+  "date": "2026-10-19"
+ },
+ "pm:viktoroddy-98c1d8": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "검은 바탕 사이트 카드와 큰 숫자·글자",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:ismailfahmi-557268": {
+  "tones": [
+   "particle",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "감색 바탕 입자 지도와 그래프",
+  "date": "2026-10-19"
+ },
+ "pm:melvynx-6cde6c": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "밝은 바탕 작은 문구, 점 격자",
+  "date": "2026-10-19"
+ },
+ "pm:rossaxbt-3085b7": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "흰 바탕 타이핑 문구, 이미지와 슬라이더 UI",
+  "confidence": "mid",
+  "date": "2026-10-19",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "pm:tequilafunks-97f6c9": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 큰 글자 위주, 타임코드 오버레이",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:sudo-kiran-49176d": {
+  "tones": [
+   "kinetic-type",
+   "particle"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 큰 글자 화면, 점·입자 구",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:lukasersil-0ed38e": {
+  "tones": [
+   "particle",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 점 격자, 빛 입자 폭발",
+  "date": "2026-10-19"
+ },
+ "pm:nft-chen-5f8bb0": {
+  "tones": [
+   "cinematic-3d",
+   "anime"
+  ],
+  "by": "frames8",
+  "note": "노을 구름 속 셀톤 복엽기 3D 비행",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:axtonliu-0b861d": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "노을 부두 자전거 3D 장면",
+  "date": "2026-10-19"
+ },
+ "pm:gizakdag-cf4ae6": {
+  "tones": [
+   "collage"
+  ],
+  "by": "frames8",
+  "note": "세로 사이키델릭 콜라주, 일부 검은 화면",
+  "confidence": "low",
+  "date": "2026-10-19"
+ },
+ "pm:mandelduck-95fd08": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "별이 빛나는 밤 3D 게임 화면",
+  "date": "2026-10-19"
+ },
+ "pm:gorden-sun-041f56": {
+  "tones": [
+   "cinematic-3d",
+   "neon"
+  ],
+  "by": "frames3",
+  "note": "어두운 3D 동굴 발광 생물",
+  "date": "2026-10-19"
+ },
+ "pm:ajith-io-4c248f": {
+  "tones": [
+   "cinematic-3d",
+   "particle"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 어두운 3D 공간, 금빛 입자, 카드 군집",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:polydao-7a572b": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "터미널 카드 UI 위주, 큰 JEV 글자",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:ajith-io-ea7f2d": {
+  "tones": [
+   "hand-drawn",
+   "cinematic-3d"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 손그림 종이 장면, 우주 궤도 빛",
+  "confidence": "low",
+  "date": "2026-10-19"
+ },
+ "pm:ayushunleashed-ece3e3": {
+  "tones": [
+   "hud",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "검은 격자 HUD, 큰 CLAUDE 글자",
+  "date": "2026-10-19"
+ },
+ "pm:chatgptastra-0d95c7": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames8",
+  "note": "큰 글자, 타임코드 점격자 궤적 오버레이",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:ultimaxbt-2ddf1e": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "폰 목업 AI 입력창, 흰 화면",
+  "date": "2026-10-19",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "pm:monokern-ade5b6": {
+  "tones": [
+   "neon"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 발광 눈과 무지개 덩어리",
+  "date": "2026-10-19"
+ },
+ "pm:kloss-xyz-15182a": {
+  "tones": [
+   "kinetic-type",
+   "ascii"
+  ],
+  "by": "frames3",
+  "note": "터미널 배경 큰 글자 세로 화면",
+  "date": "2026-10-19"
+ },
+ "pm:0xnfrith-5be616": {
+  "tones": [
+   "minimal-ui",
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "굵은 외곽선 타이머 카드 UI",
+  "date": "2026-10-19"
+ },
+ "pm:math-files-39c9d0": {
+  "tones": [
+   "neon",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "발광 파이 기호와 프랙털",
+  "date": "2026-10-19"
+ },
+ "pm:hanifproduktif-54bdee": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "검은 바탕 큰 원리 단어가 주인공",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:nikolajankovic-ce4ff4": {
+  "tones": [
+   "whiteboard",
+   "hand-drawn"
+  ],
+  "by": "frames3",
+  "note": "화이트보드 손글씨와 수치 메모",
+  "date": "2026-10-19"
+ },
+ "pm:ddryo-loos-300829": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "흰 화면 앱 UI와 코드 패널",
+  "date": "2026-10-19"
+ },
+ "pm:eyishazyer-af035b": {
+  "tones": [
+   "kinetic-type",
+   "infographic"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 큰 단어 카드, 점그리드·차트",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:blue-clarity-ef56d0": {
+  "tones": [
+   "hud",
+   "particle"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 계기선 오버레이, 입자 구·산포",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:roundtablespace-d3a1be": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 큰 CLAUDE·NEVER, 가는 선 오버레이",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:1littlecoder-9fef89": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "파란 단색 바탕 큰 산세리프 단어",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:sayan-shanky-f850d8": {
+  "tones": [
+   "cutaway",
+   "cinematic-3d"
+  ],
+  "by": "frames8",
+  "note": "데이터센터 랙 3D 분해·단면 설명",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:yunn260414-60d996": {
+  "tones": [
+   "infographic",
+   "ascii"
+  ],
+  "by": "frames8",
+  "note": "남색 바탕 Git 도식과 터미널 명령",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:brainextends-e19ac3": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "녹색 그라데이션 Spotify 카드 UI",
+  "date": "2026-10-19"
+ },
+ "pm:pankajkumar-dev-0bee87": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "크림 격자 바탕 거대 글자 포스터",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:sudo-kiran-b055de": {
+  "tones": [
+   "infographic",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "어두운 바탕 책·개념 도식과 브랜드 문구",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:raphaelaubryy-4b137e": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "큰 SHOW 글자, 주황 바탕 원 형태",
+  "date": "2026-10-19"
+ },
+ "pm:arjunsh1607-93005d": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "검은 바탕 웹·앱 화면과 큰 산세리프",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:codestackr-c071bf": {
+  "tones": [
+   "particle",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 점 격자·입자와 큰 글자",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:hqmank-7c61f1": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "베이지 큰 문구와 웹 UI",
+  "date": "2026-10-19"
+ },
+ "pm:ratheejaisal-1f4538": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "밝은 배경 UI 카드와 큰 문구",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:tankazunori0914-0fc886": {
+  "tones": [
+   "hud",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "어두운 화면 요일 큰 글자·타임코드",
+  "date": "2026-10-19"
+ },
+ "pm:prasad-pilla-2c0cba": {
+  "tones": [
+   "editorial",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "흰 바탕 문구와 흐름 도식",
+  "date": "2026-10-19"
+ },
+ "pm:dale-vaz-cc612a": {
+  "tones": [
+   "infographic",
+   "particle"
+  ],
+  "by": "frames3",
+  "note": "별 입자와 폰 차트 화면",
+  "date": "2026-10-19"
+ },
+ "pm:sarut0bisasuke-cefa43": {
+  "tones": [
+   "hand-drawn",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "크림 바탕 손글씨 칵테일 레시피",
+  "date": "2026-10-19"
+ },
+ "pm:maxalexweber-67688b": {
+  "tones": [
+   "particle",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "광속 입자와 큰 로고 글자",
+  "date": "2026-10-19"
+ },
+ "pm:ezshine-c90d73": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "어두운 바탕 모델 카드·바둑판 UI",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:samuel-spitz-974923": {
+  "tones": [
+   "kinetic-type",
+   "chrome"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 도형·큰 글자·크롬 구체",
+  "confidence": "low",
+  "date": "2026-10-19"
+ },
+ "pm:tak3sh8-be5012": {
+  "tones": [
+   "whiteboard",
+   "hand-drawn"
+  ],
+  "by": "frames3",
+  "note": "화이트보드 손글씨 수식 도식",
+  "date": "2026-10-19"
+ },
+ "pm:hbcoop-de365c": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "크림 종이 점과 튀는 공",
+  "date": "2026-10-19"
+ },
+ "pm:aistocksavvy-3fb9f5": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "남색 바탕 주식 UI 카드와 큰 글자",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:techyoutbe-945b56": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "큰 제목과 가이드북 표지",
+  "date": "2026-10-19"
+ },
+ "pm:micheleharmonic-77628e": {
+  "tones": [
+   "kinetic-type",
+   "chrome"
+  ],
+  "by": "frames8",
+  "note": "흑백 세로화면 큰 글자, 금속 링·크롬 오브제",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:lemomo-ai-0d9cff": {
+  "tones": [
+   "hand-drawn",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "연필 스케치 화이트보드 위 앱 UI 화면",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:triglyceee-bd5b08": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "아랍어 큰 글자와 평면 일러스트",
+  "date": "2026-10-19"
+ },
+ "pm:zheke-38deff": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "큰 글자와 주황 3D 구체",
+  "date": "2026-10-19"
+ },
+ "pm:deifosv-04e4d3": {
+  "tones": [
+   "infographic",
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "3D 테니스장 위 큰 통계",
+  "date": "2026-10-19"
+ },
+ "pm:sudeepsd-1a3485": {
+  "tones": [
+   "infographic",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 숫자·그래프와 가격 카드 UI, 블록 일부",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:visheshbaghell-3aba37": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "흰 배경 문구와 메모 카드",
+  "date": "2026-10-19"
+ },
+ "pm:imthatcarlos-e04bfe": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "녹색 포인트 카드 UI와 큰 카피 문구",
+  "confidence": "high",
+  "date": "2026-10-19",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "pm:paulo-kombucha-96431c": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "흰 배경 겹친 타이포와 UI",
+  "date": "2026-10-19"
+ },
+ "pm:gigabit-million-16b3a0": {
+  "tones": [
+   "minimal-ui",
+   "hud"
+  ],
+  "by": "frames8",
+  "note": "남색 바탕 게임 소개 카드 UI, 가는 선 프레임",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:sudo-kiran-6609ed": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "베이지 문서 더미와 UI 카드",
+  "date": "2026-10-19"
+ },
+ "pm:demonugc-4c5753": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "크림 세로 화면 작은 아이콘",
+  "date": "2026-10-19"
+ },
+ "pm:jhylee95-e1152f": {
+  "tones": [
+   "kinetic-type",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "큰 단어 화면과 밝은 대시보드 데모",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:sachaarbonel-8f14f4": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "파스텔 배경 세리프와 UI 카드",
+  "date": "2026-10-19"
+ },
+ "pm:gdgtify-287ddf": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "녹색 바탕 큰 글자 구조물",
+  "date": "2026-10-19"
+ },
+ "pm:ercankeskinx-ec2568": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "회색 웹 섹션과 건축 사진",
+  "date": "2026-10-19",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "pm:influencer-seo-ce8c33": {
+  "tones": [
+   "kinetic-type",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "보라 톤 큰 글자·프롬프트 카드 UI",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:agonaliu-466a8f": {
+  "tones": [
+   "minimal-ui",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "앱 카드와 타임코드 오버레이",
+  "date": "2026-10-19"
+ },
+ "pm:daniel-haida-8691d4": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "어두운 앱 아이콘과 대시보드",
+  "date": "2026-10-19"
+ },
+ "pm:bthreeagency-b9b8d9": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "폰 목업 배지 해제 화면",
+  "date": "2026-10-19"
+ },
+ "pm:henkvaness-0e06af": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "베이지 배경 세리프 숫자 챕터",
+  "date": "2026-10-19"
+ },
+ "pm:ndhabarde11-f155b4": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "세로 화면 큰 글자 반복",
+  "date": "2026-10-19"
+ },
+ "pm:topi-003-9ca6b5": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "큰 CLAUDE 글자와 프레임 선",
+  "date": "2026-10-19"
+ },
+ "pm:rendesr-86be44": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 큰 타이포·프레임 HUD 오버레이",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:bogdandragomir-35e024": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "세리프 에디토리얼·e리더 목업, 입자 도입",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:en-ra-81c6dd": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "흰 배경 입력창과 결과 카드",
+  "date": "2026-10-19"
+ },
+ "pm:jesscaroline7-1ff7cb": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "세로 폰 UI·큰 숫자·차트 혼재",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:theviableedge-9065be": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "흰 배경 메모 카드와 앱 창",
+  "date": "2026-10-19"
+ },
+ "pm:0xfemyn-e114d3": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "주황 큰 글자와 API 카드",
+  "date": "2026-10-19"
+ },
+ "pm:misbahsy-80eaec": {
+  "tones": [
+   "ascii",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "어두운 코드 칩과 큰 숫자",
+  "date": "2026-10-19"
+ },
+ "pm:reyzostyle-b55864": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "다크 카드 UI·스크립트 화면, 큰 문구",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:mdaman010-e7226a": {
+  "tones": [
+   "cinematic-3d",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "흰 3D 데이터센터 설명도",
+  "date": "2026-10-19"
+ },
+ "pm:motiondsgnr-9dcfa6": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "주황·노랑 배경 큰 글자",
+  "date": "2026-10-19"
+ },
+ "pm:astrodevil-3f2054": {
+  "tones": [
+   "kinetic-type",
+   "infographic"
+  ],
+  "by": "frames8",
+  "note": "큰 숫자·LAUNCHES 글자, 그래프",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:hoyoyoda-3a5c08": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "frames3",
+  "note": "픽셀아트 보름달 밤 축제",
+  "date": "2026-10-19"
+ },
+ "pm:macrohou-33959d": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "크림 배경 산세리프·알약 카드·폰",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:madhav-xo-f97f20": {
+  "tones": [
+   "particle",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "입자 형상 장면과 큰 이름 타이포",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:buildfastwithai-ed9447": {
+  "tones": [
+   "cinematic-3d",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "3D 프로펠러기와 설정 패널",
+  "date": "2026-10-19"
+ },
+ "pm:rames-jusso-589f80": {
+  "tones": [
+   "ascii"
+  ],
+  "by": "frames3",
+  "note": "터미널 코드 라이브코딩",
+  "date": "2026-10-19"
+ },
+ "pm:topi-003-b0e12c": {
+  "tones": [
+   "anime",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "애니 메이드 캐릭터 댄스와 큰 글자",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:ik-builds-b8bdcf": {
+  "tones": [
+   "hand-drawn",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "종이 바탕 손글씨 메모·공 궤적, 큰 글자",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:wani-shola-16ca7a": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "크림색 웹페이지 화면과 세리프 문구",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:manuelogomigo-f33ca9": {
+  "tones": [
+   "editorial",
+   "particle"
+  ],
+  "by": "frames3",
+  "note": "점으로 된 아이콘과 세리프",
+  "date": "2026-10-19"
+ },
+ "pm:mrtanviir-132457": {
+  "tones": [
+   "editorial",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "단색 배경 도형과 프레임 선",
+  "date": "2026-10-19"
+ },
+ "pm:0xevinho-3777d8": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "frames3",
+  "note": "도트 마법사, 밤 호수, 차트",
+  "date": "2026-10-19"
+ },
+ "pm:chrisjdimarco-f068db": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "붉은 해 앞 사무라이 실루엣",
+  "date": "2026-10-19"
+ },
+ "pm:jayscambler-3f8889": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "도트 하트 로고 후 웹 UI 화면",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:utopyaszx-1b2f94": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 큰 문구, 타임코드",
+  "date": "2026-10-19"
+ },
+ "pm:aschapmann-131210": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "레딧 카드와 타임라인 UI",
+  "date": "2026-10-19"
+ },
+ "pm:marklaunches-3b9492": {
+  "tones": [
+   "minimal-ui",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "어두운 문구, 산 지도 숫자",
+  "date": "2026-10-19"
+ },
+ "pm:web3wesley-7bb108": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: TYPE·FORM 큰 글자, 이력서 카드",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:reflex-cloud-72ffe5": {
+  "tones": [
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "망막 데이터 박스, 선 도형",
+  "date": "2026-10-19"
+ },
+ "pm:1stnoel-c20a89": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "베이지 배경 독서 앱 카드",
+  "date": "2026-10-19"
+ },
+ "pm:ryzoft-4f85bd": {
+  "tones": [
+   "cartoon",
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "우주선 안 3D 만화 캐릭터",
+  "date": "2026-10-19"
+ },
+ "pm:kamstudiolabs-c9bb28": {
+  "tones": [
+   "ascii"
+  ],
+  "by": "frames8",
+  "note": "코드 줄 사이를 나는 반딧불",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:devius-maximus-beab45": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "큰 글자, 막대인간, 폰",
+  "date": "2026-10-19"
+ },
+ "pm:elliot-garreffa-f334bc": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "흰 배경 검색·카드 UI 화면",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:adamdesgns-478d6d": {
+  "tones": [
+   "kinetic-type",
+   "blueprint"
+  ],
+  "by": "frames3",
+  "note": "검은 격자 큰 글자 치수",
+  "date": "2026-10-19"
+ },
+ "pm:andginja-333d32": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "로고, 웹 목업, 큰 숫자",
+  "date": "2026-10-19"
+ },
+ "pm:l3d1c-0e35a3": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "세로 폰 앱 화면",
+  "date": "2026-10-19"
+ },
+ "pm:wozu-co-242285": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "회색 배경 문구와 UI 카드",
+  "date": "2026-10-19"
+ },
+ "pm:buildfastwithai-53234e": {
+  "tones": [
+   "infographic",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "인도 문자·도시 도해",
+  "date": "2026-10-19"
+ },
+ "pm:allforbigfire-86ff3c": {
+  "tones": [
+   "anime"
+  ],
+  "by": "frames3",
+  "note": "합체 로봇 3D 애니풍",
+  "date": "2026-10-19"
+ },
+ "pm:tstfully-0aa6b4": {
+  "tones": [
+   "kinetic-type",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "어두운 배경 문구, 코드 카드",
+  "date": "2026-10-19"
+ },
+ "pm:bizibeast-10f264": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "굵은 문구, 채팅 UI",
+  "date": "2026-10-19"
+ },
+ "pm:heyiammallik-e72d17": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "큰 PRODUCTS, 60x 숫자",
+  "date": "2026-10-19"
+ },
+ "pm:sudiyasa-f48ac9": {
+  "tones": [
+   "infographic",
+   "hud"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 숫자 100 데이터·계기선 화면",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:davidshulmanfl-371638": {
+  "tones": [
+   "clay",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "클레이 인형과 소품",
+  "date": "2026-10-19"
+ },
+ "pm:demitiyageekzen-7770ad": {
+  "tones": [
+   "cinematic-3d",
+   "ink"
+  ],
+  "by": "frames3",
+  "note": "노을 강가 누각",
+  "date": "2026-10-19"
+ },
+ "pm:faroukzy-9ff23e": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "3D 로봇과 등대 내부",
+  "date": "2026-10-19"
+ },
+ "pm:m1n9-k7-ff9ab9": {
+  "tones": [
+   "particle",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 점 격자·입자 도넛, 큰 글자",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:quickdesignio-dd93d0": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "검은 격자 문구, 숫자",
+  "date": "2026-10-19"
+ },
+ "pm:rebutonepress-810f78": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "블랙홀 강착원반 3D",
+  "date": "2026-10-19"
+ },
+ "pm:slvdev-64c45a": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "컬러 도형과 굵은 질문",
+  "date": "2026-10-19"
+ },
+ "pm:sudo-kiran-4f8b59": {
+  "tones": [
+   "kinetic-type",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "문서 카드와 로고 문구",
+  "date": "2026-10-19"
+ },
+ "pm:xelandre-363f00": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "세리프 한 줄, 주황 단색",
+  "date": "2026-10-19"
+ },
+ "pm:justincooperman-e7bbc4": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "밝은 배경 채팅·이메일 UI 카드 중심",
+  "confidence": "high",
+  "date": "2026-10-19",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "pm:henkpoley-3d3407": {
+  "tones": [
+   "minimal-ui",
+   "old-film"
+  ],
+  "by": "frames8",
+  "note": "해당 없음에 가까움: 조잡한 낡은 웹페이지 플레이어",
+  "confidence": "low",
+  "date": "2026-10-19"
+ },
+ "pm:fractadev-149adc": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "흰 배경 통화 카드·캘린더 UI",
+  "date": "2026-10-19"
+ },
+ "pm:gautam-mer1-2ae354": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "검은 화면 폰 목업과 문구",
+  "date": "2026-10-19"
+ },
+ "pm:levabashidze-2d713a": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 스위스풍 큰 글자·단색 면 위주",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:miskinho-443898": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "흰 배경 입력창·카드 UI",
+  "date": "2026-10-19"
+ },
+ "pm:zaqailo-212ad3": {
+  "tones": [
+   "particle",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 입자 소용돌이·큰 글자·3D 혼재",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:crazyalphaaa-bc7e75": {
+  "tones": [
+   "hud",
+   "neon"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 검은 바탕 계기판 선·발광 육각",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:fionntobin-97b7af": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "크림 격자 파란 도형·큰 글자",
+  "date": "2026-10-19"
+ },
+ "pm:francoxavier33-d2dfd2": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "크림 배경 세리프 문구·앱 카드",
+  "date": "2026-10-19"
+ },
+ "pm:itsuki-dev-10942d": {
+  "tones": [
+   "hud",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 어두운 HUD 선·큰 글자·기하 패턴",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:kangaroohere-b10f8d": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "큰 세리프·원색 패널 카드",
+  "date": "2026-10-19"
+ },
+ "pm:kyonax-on-tech-aabc1d": {
+  "tones": [
+   "pixel",
+   "ascii"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 도트 그림·코드",
+  "date": "2026-10-19"
+ },
+ "pm:loicrambo-ad6830": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames8",
+  "note": "평면 채색 만화 인물의 일생 이야기",
+  "confidence": "high",
+  "date": "2026-10-19",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "pm:madebyjmayala-b9204d": {
+  "tones": [
+   "ascii",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "숫자 텍스트 배경 세리프 문구",
+  "date": "2026-10-19"
+ },
+ "pm:tolgayhickiran-e90799": {
+  "tones": [
+   "hud",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 궤도 HUD 선·연두 큰 글자",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:antonio-kodheli-490109": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "흰 웹사이트 카드·프롬프트 UI",
+  "date": "2026-10-19"
+ },
+ "pm:oliahmed205-3e31c4": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "어두운 바탕 큰 굵은 글자",
+  "date": "2026-10-19"
+ },
+ "pm:aisongman-71ffac": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "frames3",
+  "note": "픽셀 카드 게임 화면",
+  "date": "2026-10-19"
+ },
+ "pm:danilowm-d3720d": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "흰 바탕 큰 글자·민트 카드",
+  "date": "2026-10-19"
+ },
+ "pm:kmasiff-cc72cb": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "보라 바탕 큰 문구와 API UI 카드",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:pluginplay-3d4006": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "frames3",
+  "note": "픽셀 노을 캐릭터",
+  "date": "2026-10-19"
+ },
+ "pm:rammanq-f5a90f": {
+  "tones": [
+   "infographic",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "도넛·선 차트와 앱 카드 화면",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:robvjourney-ce3e1a": {
+  "tones": [
+   "ascii",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "검은 터미널·도트 글자·큰 문구",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:vanshwtfff-db0466": {
+  "tones": [
+   "blueprint",
+   "particle"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 감색 격자 화면과 점·입자 구",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:3xtihor-0f6911": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 큰 글자 링·검은 바탕 계기선",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:amol909s-27533e": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "베이지 로고와 작업 보드 UI 화면",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:cansincengiz-me-cf68dd": {
+  "tones": [
+   "cinematic-3d",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "검은 배경 3D 노트북·로고",
+  "date": "2026-10-19"
+ },
+ "pm:johnsavage-ai-b091c0": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 큰 MOTION·CLAUDE 글자 화면",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:leonkohli-6dc01b": {
+  "tones": [
+   "editorial",
+   "cinematic-3d"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 단색 로고 화면과 3D 타일",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:marouanegazouzi-6071d5": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "큰 세리프 글자·타임코드",
+  "date": "2026-10-19"
+ },
+ "pm:mehul4795-4a7007": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "흰 배경 앱 카드 UI 세로 영상",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:safarkhanshuvo-ffd52d": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 큰 글자와 HUD 프레임 교차",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:sahildesigner23-ee3155": {
+  "tones": [
+   "kinetic-type",
+   "chrome"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: MOTION 글자, 금속 3D, 블록",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:abderrahmen-g-9e8ed0": {
+  "tones": [
+   "hand-drawn"
+  ],
+  "by": "frames3",
+  "note": "종이 위 크레용 동물 그림",
+  "date": "2026-10-19",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "pm:palashbagchi11-0a4b6b": {
+  "tones": [
+   "kinetic-type",
+   "infographic"
+  ],
+  "by": "frames8",
+  "note": "큰 문구·숫자와 점 차트 프로모",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:x4b47x-9cc84f": {
+  "tones": [
+   "collage"
+  ],
+  "by": "frames3",
+  "note": "종이 오림 그림자극 집",
+  "date": "2026-10-19",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "pm:kamstudiolabs-447565": {
+  "tones": [
+   "neon",
+   "particle"
+  ],
+  "by": "frames3",
+  "note": "어두운 바탕 발광 점 충돌",
+  "date": "2026-10-19"
+ },
+ "pm:grace-sunnyy-29bc61": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames8",
+  "note": "빨강 큰 글자, HUD 프레임 오버레이",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:blueoctopusai-dd17bd": {
+  "tones": [
+   "cinematic-3d",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "3D 미식축구 경기장",
+  "date": "2026-10-19"
+ },
+ "pm:apoorvjain25-d24184": {
+  "tones": [
+   "particle",
+   "hud"
+  ],
+  "by": "frames8",
+  "note": "빛 입자 여정, 수치 오버레이와 큰 글자",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:deebeeeff-50fcd0": {
+  "tones": [
+   "cartoon",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "햇살 배경 만화 로고 배지",
+  "date": "2026-10-19"
+ },
+ "pm:listudio-820c7b": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "검은 배경 앱 화면과 문구",
+  "date": "2026-10-19"
+ },
+ "pm:thilina-a-891c09": {
+  "tones": [
+   "minimal-ui",
+   "cartoon"
+  ],
+  "by": "frames8",
+  "note": "앱 업데이트 폰 UI, 평면 아이콘",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:amitsingha89-150378": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "크림 배경 세리프, 직물 사진 브랜드",
+  "confidence": "high",
+  "date": "2026-10-19",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "pm:blushpetal795-0c85c2": {
+  "tones": [
+   "kinetic-type",
+   "infographic"
+  ],
+  "by": "frames8",
+  "note": "검은 배경 큰 이름·수치, 지도 데이터",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:ceowinkz-7c776b": {
+  "tones": [
+   "hud",
+   "neon"
+  ],
+  "by": "frames3",
+  "note": "청록 바탕 발광 가격 패널",
+  "date": "2026-10-19"
+ },
+ "pm:ibrahimwasim240-809370": {
+  "tones": [
+   "pixel",
+   "particle"
+  ],
+  "by": "frames3",
+  "note": "도트 글자와 픽셀 게임 화면",
+  "date": "2026-10-19"
+ },
+ "pm:jazzen-chen-4542ae": {
+  "tones": [
+   "neon",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "검은 바탕 발광 알약 UI, 노치 위젯",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:lester-tyy-f897f7": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "흰 배경 검색창과 카드",
+  "date": "2026-10-19",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "pm:majorbaguette-fb11d7": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "어두운 배경 채팅·폼 UI와 노란 포인트",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:nolkeeg-bf062e": {
+  "tones": [
+   "cinematic-3d",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "지구와 큰 숫자 데이터",
+  "date": "2026-10-19"
+ },
+ "pm:souravbhar871-61f424": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "크림 배경 굵은 글자",
+  "date": "2026-10-19"
+ },
+ "pm:spearwtf-3c1fd1": {
+  "tones": [
+   "kinetic-type",
+   "cinematic-3d"
+  ],
+  "by": "frames8",
+  "note": "검은 바탕 큰 글자, 3D 터널·주사위",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:teslachartz-c58b32": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 큰 글자 화면 위주, 타임코드 오버레이",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "pm:ai-baymax-0ef9dd": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "밝은 배경 앱 창 카드와 산세리프 문구",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:anas0ra-e57aea": {
+  "tones": [
+   "clay",
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "둥근 3D 섬 위 가게",
+  "date": "2026-10-19"
+ },
+ "pm:iammxfschr-d68f90": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "베이지 배경 세리프 문구와 앱 창",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:kikelopezdesign-7cc9e8": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "점 격자 배경 포트폴리오 화면",
+  "date": "2026-10-19"
+ },
+ "pm:leadnotifi-e83f94": {
+  "tones": [
+   "editorial",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "검은 배경 원과 형광 도형",
+  "date": "2026-10-19"
+ },
+ "pm:rneayan-474bcf": {
+  "tones": [
+   "collage",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "리소 질감 원과 큰 한글",
+  "date": "2026-10-19"
+ },
+ "pm:rneayan-ea6129": {
+  "tones": [
+   "neon",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 녹색 발광 파형",
+  "date": "2026-10-19"
+ },
+ "pm:samaote-5e2fc2": {
+  "tones": [
+   "hud",
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "일몰 수평선과 타임코드",
+  "date": "2026-10-19"
+ },
+ "pm:shinskinakamoto-20190b": {
+  "tones": [
+   "particle",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 입자 링·파형과 큰 글자, UI 카드 혼재",
+  "confidence": "low",
+  "date": "2026-10-19"
+ },
+ "pm:umangratani-57f86a": {
+  "tones": [
+   "kinetic-type",
+   "particle"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 단색 배경 큰 글자·점 입자 도형 전환",
+  "confidence": "low",
+  "date": "2026-10-19"
+ },
+ "pm:anilraok-eff262": {
+  "tones": [
+   "stop-motion"
+  ],
+  "by": "frames3",
+  "note": "눈 달린 나무 글자 타일 실물 느낌",
+  "date": "2026-10-19"
+ },
+ "pm:kantamk-61f410": {
+  "tones": [
+   "neon"
+  ],
+  "by": "frames3",
+  "note": "검은 배경 발광 동심원 고리",
+  "date": "2026-10-19"
+ },
+ "pm:parkerrex-1a54fe": {
+  "tones": [
+   "infographic",
+   "ascii"
+  ],
+  "by": "frames3",
+  "note": "고정폭 글자 막대·계단 그래프",
+  "date": "2026-10-19"
+ },
+ "pm:charlesmendez-73b6e4": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "검은 배경 초록 포인트 앱 UI 카드와 큰 문구",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "pm:gonzalomacagno-2de1a9": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "파스텔 곡선 배경 축제 라인업 타이포",
+  "date": "2026-10-19"
+ },
+ "pm:kamstudiolabs-0b0824": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "어두운 등대 내부 실루엣 인물",
+  "date": "2026-10-19"
+ },
+ "gh:anabology-491441": {
+  "tones": [
+   "collage",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "망점 인물 사진과 라벨·계기 오버레이",
+  "date": "2026-10-19"
+ },
+ "gh:moritzkremb-466494": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "흰 배경 앱 화면과 헤드라인",
+  "date": "2026-10-19"
+ },
+ "gh:deedydas-252537": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "흰 배경 굵은 문구와 숫자 카드",
+  "date": "2026-10-19"
+ },
+ "gh:daniel-mac8-306214": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "외곽선 캐릭터 평면 채색 장면",
+  "date": "2026-10-19",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "gh:0xvalure-331584": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "검은 배경 반복 로고 글자·흰 큐브 로고 전환",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:verbove-268381": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "흰 배경 카드·검색창 UI",
+  "date": "2026-10-19"
+ },
+ "gh:gandamu-ml-220530": {
+  "tones": [
+   "chrome",
+   "neon"
+  ],
+  "by": "frames3",
+  "note": "무지개 리본·금속 덩어리 데모씬",
+  "date": "2026-10-19"
+ },
+ "gh:ishaaqahamed-107563": {
+  "tones": [
+   "kinetic-type",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "큰 글자 위주, 곡선 그래프·SNS 카드 섞임",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:ann-nnng-852885": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "밝은 배경 채팅 UI 카드와 큰 산세리프 문구",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:0xchuckstock-879327": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "우주 공간 3D 우주선 전투",
+  "date": "2026-10-19"
+ },
+ "gh:morse-369333": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "단색 배경 위 달력·버튼 UI 카드",
+  "date": "2026-10-19"
+ },
+ "gh:prasenx-693512": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "대형 키워드 타이포, 일부 3D 도넛",
+  "date": "2026-10-19"
+ },
+ "gh:1littlecoder-378066": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "극장 관객 실루엣과 스크린 얼굴",
+  "date": "2026-10-19"
+ },
+ "gh:alexalbert-274839": {
+  "tones": [
+   "old-film",
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "흑백 1906년 거리 3D 재현",
+  "date": "2026-10-19"
+ },
+ "gh:zacxbt-944604": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "frames3",
+  "note": "밤하늘 픽셀아트 마법사 고양이",
+  "date": "2026-10-19"
+ },
+ "gh:lexnlin-241739": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "거대 건축물 3D 풍경",
+  "date": "2026-10-19"
+ },
+ "gh:songkeys-384673": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "알 캐릭터와 지구 동화풍 그림",
+  "date": "2026-10-19",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "gh:michaelzsguo-782312": {
+  "tones": [
+   "old-film"
+  ],
+  "by": "frames3",
+  "note": "세피아 모래 질감 역사 실루엣",
+  "date": "2026-10-19"
+ },
+ "gh:majidmanzarpour-927543": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "frames3",
+  "note": "밤하늘 픽셀아트 마법사 주문",
+  "date": "2026-10-19"
+ },
+ "gh:felipemoller-936736": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "폰 화면 아이소 매장·지출 카드",
+  "date": "2026-10-19"
+ },
+ "gh:howdevelop-733090": {
+  "tones": [
+   "neon",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "어두운 배경 발광 노드·음파와 작은 UI 카드",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:miaai-lab-774895": {
+  "tones": [
+   "particle",
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "성운 속 은하 입자",
+  "date": "2026-10-19"
+ },
+ "gh:gouthamjay8-910269": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "밝은 배경 위젯 카드와 헤드라인",
+  "date": "2026-10-19"
+ },
+ "gh:redpersongpt-284430": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "폰 목업 앱 템플릿과 채팅 화면",
+  "date": "2026-10-19"
+ },
+ "gh:mounnna-497266": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "감색 배경 와이어 선과 로고",
+  "date": "2026-10-19"
+ },
+ "gh:johnsavage-ai-427263": {
+  "tones": [
+   "kinetic-type",
+   "neon"
+  ],
+  "by": "frames3",
+  "note": "발광 OPUS 글자와 광선 워프",
+  "date": "2026-10-19"
+ },
+ "gh:froessell-562325": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "폰 목업 탑다운 추격 게임",
+  "date": "2026-10-19"
+ },
+ "gh:wani-shola-459278": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "베이지 배경 포트폴리오 웹 화면",
+  "date": "2026-10-19"
+ },
+ "gh:robvjourney-237474": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 큰 문구와 터미널 지표",
+  "date": "2026-10-19"
+ },
+ "gh:bilimfili1-459762": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "폰 목업 지도 내비 앱",
+  "date": "2026-10-19"
+ },
+ "gh:lester-tyy-480587": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "흰 배경 콘텐츠 카드와 검색창",
+  "date": "2026-10-19"
+ },
+ "gh:sahilvermaai-189237": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "격자 포스터 위 큰 FOR·NO 글자",
+  "date": "2026-10-19"
+ },
+ "gh:pound75423-464968": {
+  "tones": [
+   "anime"
+  ],
+  "by": "frames8",
+  "note": "애니 소녀 스티커, 무지개 만화경 글리치",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:ved-cj-066575": {
+  "tones": [],
+  "by": "frames3",
+  "note": "해당 없음: 로우폴리 FPS 게임 화면",
+  "date": "2026-10-19"
+ },
+ "gh:doubleunplussed-181894": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames8",
+  "note": "평면 채색 만화 캐릭터 교육 장면",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:bizibeast-505124": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "노랑·빨강 배경 가격·플로우 카드",
+  "date": "2026-10-19"
+ },
+ "gh:groundcontrol-230877": {
+  "tones": [
+   "infographic",
+   "hand-drawn"
+  ],
+  "by": "frames3",
+  "note": "손그림 일본 지도 폭염 기록",
+  "date": "2026-10-19"
+ },
+ "gh:tak3sh8-441895": {
+  "tones": [
+   "whiteboard"
+  ],
+  "by": "frames3",
+  "note": "화이트보드 수식·트리 그래프",
+  "date": "2026-10-19"
+ },
+ "gh:astrothewizard-618782": {
+  "tones": [
+   "cartoon",
+   "infographic"
+  ],
+  "by": "frames8",
+  "note": "광자 캐릭터 우주 일러스트, 숫자 표기",
+  "confidence": "mid",
+  "date": "2026-10-19",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "gh:nolit64-347627": {
+  "tones": [],
+  "by": "frames3",
+  "note": "해당 없음: 2D 횡스크롤 RPG 게임 화면",
+  "date": "2026-10-19"
+ },
+ "gh:chrisjdimarco-808196": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "베이지 큰 빨간 문구와 막대",
+  "date": "2026-10-19"
+ },
+ "gh:dzhohola-249003": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "세로 화면 UI 카드 모핑",
+  "date": "2026-10-19"
+ },
+ "gh:hicallmechai-878304": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "밝은 배경 터미널·검색창 UI",
+  "date": "2026-10-19"
+ },
+ "gh:annacher-433425": {
+  "tones": [
+   "minimal-ui",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "ROAS 그래프 카드와 입력 UI",
+  "date": "2026-10-19"
+ },
+ "gh:nummanali-340931": {
+  "tones": [
+   "infographic",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 AI 벤치마크 그래프",
+  "date": "2026-10-19"
+ },
+ "gh:advait-jayant-712107": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "큰 산세리프 단어, 단색 배경 미니멀 아이콘",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:abhinayguptha-259981": {
+  "tones": [
+   "old-film"
+  ],
+  "by": "frames8",
+  "note": "어두운 등고선 무늬, 검열 문서 빈티지 타이틀",
+  "confidence": "low",
+  "date": "2026-10-19"
+ },
+ "gh:stewchan2-369810": {
+  "tones": [
+   "infographic",
+   "neon"
+  ],
+  "by": "frames3",
+  "note": "어두운 배경 발광 노드 그래프",
+  "date": "2026-10-19"
+ },
+ "gh:l3d1c-752011": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "폰 목업 AI 사진 편집 앱",
+  "date": "2026-10-19"
+ },
+ "gh:thegrootdev-966114": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "포켓몬 능력치 UI 카드",
+  "date": "2026-10-19"
+ },
+ "gh:charliie-334026": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "어두운 배경 폰 목업 링크 페이지",
+  "date": "2026-10-19"
+ },
+ "gh:leanzubrezki-766171": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "밝은 배경 큰 숫자와 메일 카드",
+  "date": "2026-10-19"
+ },
+ "gh:onewaysidewalks-440008": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "감색 브랜드 필름, 큰 글자와 UI 카드",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:anas0ra-952637": {
+  "tones": [
+   "clay",
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "3D 상점 앞 말풍선 캐릭터",
+  "date": "2026-10-19"
+ },
+ "gh:nezbuilds-294391": {
+  "tones": [
+   "minimal-ui",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "밝은 배경 검은 차트·플레이어 카드",
+  "date": "2026-10-19"
+ },
+ "gh:buildfastwithai-597035": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "로우폴리 탑과 벚나무 3D 공간",
+  "date": "2026-10-19"
+ },
+ "gh:fire-ozgur-130104": {
+  "tones": [
+   "infographic",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "주식 차트·성장 곡선과 브랜드 카드",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:iamtanzil-120030": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "어두운 배경 전기자전거 제품",
+  "date": "2026-10-19"
+ },
+ "gh:sanjeevn72-457691": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "밝은 배경 플레이어·슬라이더·토글",
+  "date": "2026-10-19"
+ },
+ "gh:madpencil-753990": {
+  "tones": [
+   "cartoon",
+   "voxel"
+  ],
+  "by": "frames3",
+  "note": "노란 배경 만화 표지 아이소 건물",
+  "date": "2026-10-19"
+ },
+ "gh:opener-ai-843891": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "frames3",
+  "note": "레트로 전략 게임 도트 지도",
+  "date": "2026-10-19"
+ },
+ "gh:hugon001-609629": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "순위표 카드와 폰 키보드 UI",
+  "date": "2026-10-19"
+ },
+ "gh:raphaelaubryy-687877": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 폰 화면 격자",
+  "date": "2026-10-19"
+ },
+ "gh:techhalla-498547": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 거대 글자 라임색",
+  "date": "2026-10-19"
+ },
+ "gh:tomandrieu96707-875264": {
+  "tones": [
+   "collage",
+   "hand-drawn"
+  ],
+  "by": "frames3",
+  "note": "지도 위 인물 사진 오려붙임",
+  "date": "2026-10-19",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "gh:mtvneo-148436": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "단색 바탕 캐릭터와 큰 세리프 문구",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:hsanat-012699": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "분홍 배경 폰과 가격 카드",
+  "date": "2026-10-19"
+ },
+ "gh:drrickio-009558": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "어두운 배경 영상 창과 웹 화면",
+  "date": "2026-10-19"
+ },
+ "gh:andre-lucaxxs-846347": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "파스텔 배경 기록 앱 폰",
+  "date": "2026-10-19"
+ },
+ "gh:supremebeme-306746": {
+  "tones": [
+   "ascii",
+   "collage"
+  ],
+  "by": "frames8",
+  "note": "터미널 슬롯머신과 밈 이미지 붙임",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:vahidf24-121886": {
+  "tones": [
+   "minimal-ui",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "어두운 덱 점수 분석 UI",
+  "date": "2026-10-19"
+ },
+ "gh:ishuagra02-922825": {
+  "tones": [
+   "anime",
+   "cyberpunk"
+  ],
+  "by": "frames8",
+  "note": "애니 셀 채색 캐릭터와 네온 야경",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:retropunkai-277590": {
+  "tones": [
+   "old-film",
+   "collage"
+  ],
+  "by": "frames3",
+  "note": "빈티지 공연 포스터 카드",
+  "date": "2026-10-19",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "gh:jake11moran-414633": {
+  "tones": [],
+  "by": "frames3",
+  "note": "해당 없음: 데스크톱 화면 캡처",
+  "date": "2026-10-19"
+ },
+ "gh:andriyfernandes-807308": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "바다 위 해적선 평면 만화",
+  "date": "2026-10-19"
+ },
+ "gh:techtactician-144474": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "밝은 배경 슬라이드·가격 카드",
+  "date": "2026-10-19"
+ },
+ "gh:anirockshady-032809": {
+  "tones": [
+   "cinematic-3d",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "손실 곡면 3D 그래프",
+  "date": "2026-10-19"
+ },
+ "gh:mycodecoach-459574": {
+  "tones": [],
+  "by": "frames3",
+  "note": "해당 없음: 3D 게임 화면·메뉴",
+  "date": "2026-10-19"
+ },
+ "gh:pbteja1998-651644": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "베이지·검은 배경 문구와 앱",
+  "date": "2026-10-19"
+ },
+ "gh:anjmaxx-459455": {
+  "tones": [
+   "collage",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "신문 활자 오려붙임과 큰 글자, 픽셀 인물",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:mattbean-917572": {
+  "tones": [
+   "hand-drawn"
+  ],
+  "by": "frames3",
+  "note": "손그림 스케치 UI 로봇",
+  "date": "2026-10-19"
+ },
+ "gh:niegramotny-197521": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "로우폴리 설산 도로 추격",
+  "date": "2026-10-19"
+ },
+ "gh:suryarajendhran-730437": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "어두운 글자 격자 세리프 문구",
+  "date": "2026-10-19"
+ },
+ "gh:eric-khun-667455": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "곰 캐릭터 방사선·달밤 배경",
+  "date": "2026-10-19"
+ },
+ "gh:lepadev-475414": {
+  "tones": [
+   "infographic",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "베이지 배경 격자 데이터 숫자",
+  "date": "2026-10-19"
+ },
+ "gh:modaalbuilder-868989": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "흰 바탕 폰 목업 안 원형 UI",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:charlesmendez-476517": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "검은 배경 채팅 광고 UI와 큰 글자",
+  "date": "2026-10-19"
+ },
+ "gh:jrayon-054015": {
+  "tones": [
+   "stop-motion",
+   "cinematic-3d"
+  ],
+  "by": "frames8",
+  "note": "종이·판지 질감 레이어 프랙탈 3D 조명",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:ehsanik-162993": {
+  "tones": [
+   "minimal-ui",
+   "pixel"
+  ],
+  "by": "frames8",
+  "note": "JS Paint 앱 화면 녹화와 픽셀 모나리자",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:fornyapayzeka-795431": {
+  "tones": [
+   "particle",
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "호수 위 불꽃놀이 입자",
+  "date": "2026-10-19"
+ },
+ "gh:zeezomb-726206": {
+  "tones": [],
+  "by": "frames3",
+  "note": "해당 없음: 유리 금박 모자이크 벽화",
+  "date": "2026-10-19"
+ },
+ "gh:ishuagra02-678129": {
+  "tones": [
+   "particle",
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "입자로 그린 해변 3D 풍경",
+  "date": "2026-10-19"
+ },
+ "gh:nemtudo-614053": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "평면 만화풍 토스터 장면",
+  "date": "2026-10-19"
+ },
+ "gh:fornyapayzeka-135914": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "지평선 위 운석 충돌 섬광",
+  "date": "2026-10-19"
+ },
+ "gh:0xrathi-511319": {
+  "tones": [
+   "neon",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "발광 트랙 레이싱 게임 화면",
+  "date": "2026-10-19"
+ },
+ "gh:0xlangeai-178533": {
+  "tones": [
+   "whiteboard",
+   "hand-drawn"
+  ],
+  "by": "frames3",
+  "note": "흰 바탕 손글씨 흐름도",
+  "date": "2026-10-19"
+ },
+ "gh:stephanferraro-224281": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "절차적 산과 물줄기 3D",
+  "date": "2026-10-19"
+ },
+ "gh:chudry223-081860": {
+  "tones": [
+   "cinematic-3d",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "렌즈 속 로우폴리 디오라마",
+  "date": "2026-10-19"
+ },
+ "gh:voxyz-ai-345550": {
+  "tones": [
+   "cinematic-3d",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "블랙홀과 망원경 3D 장면",
+  "date": "2026-10-19"
+ },
+ "gh:explorations-iq-921682": {
+  "tones": [
+   "minimal-ui",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "분자 궤도 시뮬 UI 패널",
+  "date": "2026-10-19"
+ },
+ "gh:nybobs-680050": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "파스텔 블록 물리 시뮬",
+  "date": "2026-10-19"
+ },
+ "gh:garmdotcom-987439": {
+  "tones": [
+   "hand-drawn",
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "종이질감 스케치 사람과 로봇",
+  "date": "2026-10-19"
+ },
+ "gh:cyrilxbt-149036": {
+  "tones": [
+   "particle"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 모래 입자 물리",
+  "date": "2026-10-19"
+ },
+ "gh:miguel07code-091611": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "감색 배경 푸리에 초상 카드",
+  "date": "2026-10-19"
+ },
+ "gh:kureshirfan-386691": {
+  "tones": [
+   "infographic",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "단층 변형 다이어그램 설명",
+  "date": "2026-10-19"
+ },
+ "gh:amberpromptai-345137": {
+  "tones": [
+   "ink"
+  ],
+  "by": "frames3",
+  "note": "수묵 산수와 보름달",
+  "date": "2026-10-19"
+ },
+ "gh:iniyanai-856596": {
+  "tones": [
+   "cinematic-3d",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "키스위치 3D 렌더·분해도와 큰 글자",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:acoramaa-053577": {
+  "tones": [
+   "cutaway",
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "CPU 쿨러 분해 3D",
+  "date": "2026-10-19"
+ },
+ "gh:kgonia7-746268": {
+  "tones": [
+   "cinematic-3d",
+   "hud"
+  ],
+  "by": "frames8",
+  "note": "바다에서 우주로 줌아웃, 가는 라벨",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:nathanwilbanks-981110": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "어둠 속 타오르는 모닥불",
+  "date": "2026-10-19"
+ },
+ "gh:hunzai-842605": {
+  "tones": [
+   "cartoon",
+   "cutaway"
+  ],
+  "by": "frames3",
+  "note": "평면 일러스트 나무뿌리 단면",
+  "date": "2026-10-19"
+ },
+ "gh:konstantinsaifo-501736": {
+  "tones": [
+   "cutaway",
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "로켓 엔진 단면 3D",
+  "date": "2026-10-19"
+ },
+ "gh:rakhsh-tech-544921": {
+  "tones": [
+   "ink"
+  ],
+  "by": "frames3",
+  "note": "한지 위 붓글씨 한자",
+  "date": "2026-10-19"
+ },
+ "gh:arthurkatcher-604161": {
+  "tones": [
+   "infographic",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 토큰 막대그래프",
+  "date": "2026-10-19"
+ },
+ "gh:moguzbulbul-215591": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "CRM 앱 화면 목업",
+  "date": "2026-10-19"
+ },
+ "gh:irinatoxi-962937": {
+  "tones": [
+   "cinematic-3d",
+   "cutaway"
+  ],
+  "by": "frames8",
+  "note": "폰 내부 칩에서 원자까지 3D 줌인",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:konstantinsaifo-587629": {
+  "tones": [
+   "cutaway",
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "핵융합로 내부 3D 단면",
+  "date": "2026-10-19"
+ },
+ "gh:stefanostraus-971191": {
+  "tones": [
+   "cutaway",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "엔진 피스톤 분해 3D UI",
+  "date": "2026-10-19"
+ },
+ "gh:demitiyageekzen-818523": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "노을 강가와 밤 누각 3D",
+  "date": "2026-10-19"
+ },
+ "gh:gmgmgm1545-245507": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "심해 수정 사이 기계 게",
+  "date": "2026-10-19"
+ },
+ "gh:jarvis11x-544635": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "골목길 걷는 3D 캐릭터",
+  "date": "2026-10-19"
+ },
+ "gh:kewai386772-276947": {
+  "tones": [
+   "cinematic-3d",
+   "chrome"
+  ],
+  "by": "frames3",
+  "note": "발광 유리 다면체 공간",
+  "date": "2026-10-19"
+ },
+ "gh:nft-chen-350878": {
+  "tones": [
+   "anime",
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "보라 구름 속 붉은 비행기",
+  "date": "2026-10-19"
+ },
+ "gh:0xsolty-735200": {
+  "tones": [
+   "cinematic-3d",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "우주 속 행성과 수치 UI",
+  "date": "2026-10-19"
+ },
+ "gh:curieuxexplorer-272483": {
+  "tones": [
+   "cinematic-3d",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "타지마할 3D와 패널",
+  "date": "2026-10-19"
+ },
+ "gh:myonisto-923578": {
+  "tones": [
+   "cinematic-3d",
+   "neon"
+  ],
+  "by": "frames3",
+  "note": "네온 뉴스 스튜디오 3D",
+  "date": "2026-10-19"
+ },
+ "gh:truenyl-447745": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "호수와 초원 3D 풍경",
+  "date": "2026-10-19"
+ },
+ "gh:builtbysketch-114092": {
+  "tones": [
+   "cinematic-3d",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "폰 화면 야구장 3D",
+  "date": "2026-10-19"
+ },
+ "gh:per-simmons-944727": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "음료 웹사이트와 큰 글자",
+  "date": "2026-10-19"
+ },
+ "gh:nicolamanzini-156628": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "어항 속 물고기 3D",
+  "date": "2026-10-19"
+ },
+ "gh:0xwast3-222104": {
+  "tones": [
+   "particle",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "보라 입자 와이어 대시보드",
+  "date": "2026-10-19"
+ },
+ "gh:wzarok-283635": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "툰 고양이와 횡단보도",
+  "date": "2026-10-19"
+ },
+ "gh:goofyninjaaa-315331": {
+  "tones": [
+   "minimal-ui",
+   "blueprint"
+  ],
+  "by": "frames3",
+  "note": "평면도와 3D 방 앱",
+  "date": "2026-10-19"
+ },
+ "gh:friskyggg-054427": {
+  "tones": [
+   "particle"
+  ],
+  "by": "frames3",
+  "note": "입자 폭발과 빛 고리",
+  "date": "2026-10-19"
+ },
+ "gh:ai-ba-reza-113363": {
+  "tones": [
+   "cinematic-3d",
+   "cutaway"
+  ],
+  "by": "frames8",
+  "note": "사실적 3D 칩 내부 구조로 확대해 들어감",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:souradip3000-800291": {
+  "tones": [
+   "kinetic-type",
+   "particle"
+  ],
+  "by": "frames3",
+  "note": "큰 글자와 빛 입자 나무",
+  "date": "2026-10-19"
+ },
+ "gh:techartist-786274": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "호수 운하 보트 3D",
+  "date": "2026-10-19"
+ },
+ "gh:lribes4-742305": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "숲속 성 디오라마 3D",
+  "date": "2026-10-19"
+ },
+ "gh:eigeorguy-813651": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "흰 배경 폰 속 스노글로브",
+  "date": "2026-10-19"
+ },
+ "gh:kum1ta-740521": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "3D 사무실 캐릭터와 자막",
+  "date": "2026-10-19"
+ },
+ "gh:vectorcrossprod-436573": {
+  "tones": [
+   "cinematic-3d",
+   "cutaway"
+  ],
+  "by": "frames8",
+  "note": "3D 케이스 분해도와 부품 주석 라벨",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:sanjay-khadka07-620029": {
+  "tones": [
+   "minimal-ui",
+   "voxel"
+  ],
+  "by": "frames3",
+  "note": "뉴스 UI와 아이소 도시",
+  "date": "2026-10-19"
+ },
+ "gh:ksmialowski-473410": {
+  "tones": [
+   "clay"
+  ],
+  "by": "frames3",
+  "note": "둥근 3D 캐릭터 산책",
+  "date": "2026-10-19"
+ },
+ "gh:acoramaa-248467": {
+  "tones": [
+   "hud",
+   "chrome"
+  ],
+  "by": "frames3",
+  "note": "금속 눈알과 계기 UI",
+  "date": "2026-10-19"
+ },
+ "gh:maruo-0314-998343": {
+  "tones": [
+   "blueprint"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 타워 치수선",
+  "date": "2026-10-19"
+ },
+ "gh:aayush4soni-644283": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "사실적 주택 실내 3D",
+  "date": "2026-10-19"
+ },
+ "gh:allforbigfire-029657": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "평면 채색 합체 로봇",
+  "date": "2026-10-19"
+ },
+ "gh:ewashoku-201053": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "흰 배경 자전거 제품",
+  "date": "2026-10-19"
+ },
+ "gh:ajthemongol-318512": {
+  "tones": [
+   "minimal-ui",
+   "blueprint"
+  ],
+  "by": "frames3",
+  "note": "주택 도면 웹 앱",
+  "date": "2026-10-19"
+ },
+ "gh:happycapyai-634965": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "파스텔 게임 보드",
+  "date": "2026-10-19"
+ },
+ "gh:mrblock-096062": {
+  "tones": [
+   "cinematic-3d",
+   "hud"
+  ],
+  "by": "frames8",
+  "note": "주황 협곡 3D 레이싱, 속도·랩 HUD",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:op7418-814408": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "만화풍 전설 보물상자 연출",
+  "date": "2026-10-19"
+ },
+ "gh:0xpai-eth-635565": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "frames3",
+  "note": "픽셀 미로·테트리스 게임",
+  "date": "2026-10-19"
+ },
+ "gh:op7418-818226": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "빛나는 카드 소환 연출",
+  "date": "2026-10-19"
+ },
+ "gh:akokoi1-469188": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "초원 위 3D 기차",
+  "date": "2026-10-19"
+ },
+ "gh:ggsimm-535814": {
+  "tones": [
+   "ascii",
+   "pixel"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 문자 미로",
+  "date": "2026-10-19"
+ },
+ "gh:mozetech-471882": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "frames3",
+  "note": "탑뷰 픽셀 숲 마을",
+  "date": "2026-10-19"
+ },
+ "gh:janeloic-905802": {
+  "tones": [
+   "pixel",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "채팅 UI 옆 플랫폼 게임",
+  "date": "2026-10-19"
+ },
+ "gh:agentgamesbot-355554": {
+  "tones": [
+   "pixel",
+   "hand-drawn"
+  ],
+  "by": "frames3",
+  "note": "베이지 픽셀 스케치 레이스",
+  "date": "2026-10-19"
+ },
+ "gh:curieuxexplorer-519730": {
+  "tones": [
+   "cinematic-3d",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "어두운 타일 3D 게임",
+  "date": "2026-10-19"
+ },
+ "gh:redp314-642106": {
+  "tones": [
+   "minimal-ui",
+   "infographic"
+  ],
+  "by": "frames8",
+  "note": "2048 게임 UI 카드, 마지막 승률 그래프",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:jasperdeboer-157391": {
+  "tones": [
+   "kinetic-type",
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "큰 제목과 개미 3D",
+  "date": "2026-10-19"
+ },
+ "gh:curieuxexplorer-772215": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "저폴리 거리 3인칭",
+  "date": "2026-10-19"
+ },
+ "gh:rehan-shei-839416": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "frames3",
+  "note": "밤하늘 픽셀 플랫포머",
+  "date": "2026-10-19"
+ },
+ "gh:rush3rx-342153": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "구름 위 판타지 섬",
+  "date": "2026-10-19"
+ },
+ "gh:maxthelion-649723": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "어두운 지하철역 3D",
+  "date": "2026-10-19"
+ },
+ "gh:zacxbt-234711": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "노을 해변 3D 캐릭터",
+  "date": "2026-10-19"
+ },
+ "gh:jstjs-129051": {
+  "tones": [
+   "ascii",
+   "cyberpunk"
+  ],
+  "by": "frames8",
+  "note": "고정폭 터미널 글자, 네온 도시 야경 게임",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:dreyk0o0-165270": {
+  "tones": [
+   "voxel",
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "노을 블록 지형과 섬",
+  "date": "2026-10-19"
+ },
+ "gh:boona11-415751": {
+  "tones": [
+   "hand-drawn"
+  ],
+  "by": "frames3",
+  "note": "손그림 파도 세로 게임",
+  "date": "2026-10-19"
+ },
+ "gh:dmowlin-221566": {
+  "tones": [
+   "pixel",
+   "neon"
+  ],
+  "by": "frames3",
+  "note": "우주 네온 레이싱",
+  "date": "2026-10-19"
+ },
+ "gh:nqaze-939886": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "바다 위 비행 3D",
+  "date": "2026-10-19"
+ },
+ "gh:anduraio-570761": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "들판 승마 3D 게임",
+  "date": "2026-10-19"
+ },
+ "gh:kepochnik-237752": {
+  "tones": [
+   "voxel"
+  ],
+  "by": "frames3",
+  "note": "블록 닭 정보창",
+  "date": "2026-10-19"
+ },
+ "gh:angie-carel-954689": {
+  "tones": [
+   "neon",
+   "clay"
+  ],
+  "by": "frames3",
+  "note": "신스웨이브 격자 젤리 캐릭터",
+  "date": "2026-10-19"
+ },
+ "gh:deeprajo1-834106": {
+  "tones": [
+   "cinematic-3d",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "서핑 3D와 퀴즈 UI",
+  "date": "2026-10-19"
+ },
+ "gh:vibechine-465008": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "홍수 도시 제트스키 3D",
+  "date": "2026-10-19"
+ },
+ "gh:blitast-studio-257328": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "달밤 운하 검은 고양이",
+  "date": "2026-10-19"
+ },
+ "gh:waseemkhalo-636267": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "frames3",
+  "note": "세로 픽셀 게임 화면",
+  "date": "2026-10-19"
+ },
+ "gh:taylorbereiter-189192": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "레트로 다이너 만화풍",
+  "date": "2026-10-19"
+ },
+ "gh:lisp-mi-139812": {
+  "tones": [
+   "cutaway",
+   "voxel"
+  ],
+  "by": "frames3",
+  "note": "아이소메트릭 건물 단면 물류망",
+  "date": "2026-10-19"
+ },
+ "gh:itsjdraven-557760": {
+  "tones": [
+   "voxel",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "폰 화면 로우폴리 러너 게임",
+  "date": "2026-10-19"
+ },
+ "gh:izmaelmag-282849": {
+  "tones": [
+   "voxel",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "폰 속 아이소메트릭 주사위 보드",
+  "date": "2026-10-19"
+ },
+ "gh:llama3dstudio-012980": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "가을 호숫가 물수제비 3D",
+  "date": "2026-10-19"
+ },
+ "gh:hellovyom-800659": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "3D 식물 대 좀비 보드 화면",
+  "date": "2026-10-19"
+ },
+ "gh:realfedeuru-475858": {
+  "tones": [
+   "clay"
+  ],
+  "by": "frames3",
+  "note": "파스텔 하늘 스카이다이빙 게임",
+  "date": "2026-10-19"
+ },
+ "gh:brainwavepub-812667": {
+  "tones": [
+   "minimal-ui",
+   "hand-drawn"
+  ],
+  "by": "frames3",
+  "note": "손글씨 라벨 투석기 시뮬레이터",
+  "date": "2026-10-19"
+ },
+ "gh:alex-vainshtein-195332": {
+  "tones": [
+   "cinematic-3d",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "탑뷰 도시 교차로와 미니맵",
+  "date": "2026-10-19"
+ },
+ "gh:brenbuilds-386902": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "실사풍 온천 풍경 3D",
+  "date": "2026-10-19"
+ },
+ "gh:mayuresh-empire-687553": {
+  "tones": [
+   "cinematic-3d",
+   "particle"
+  ],
+  "by": "frames3",
+  "note": "불꽃 입자 밤 전투 3D",
+  "date": "2026-10-19"
+ },
+ "gh:tonnusos-006126": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "frames3",
+  "note": "탑뷰 마법 폭발 게임",
+  "date": "2026-10-19"
+ },
+ "gh:codrops-340299": {
+  "tones": [
+   "cinematic-3d",
+   "neon"
+  ],
+  "by": "frames8",
+  "note": "3D 오락실 공간과 네온 간판",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:zhang-baoqing-920413": {
+  "tones": [
+   "particle",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "어두운 웹사이트 입자 생물",
+  "date": "2026-10-19"
+ },
+ "gh:sciencedegens-843325": {
+  "tones": [
+   "particle"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 금빛 입자 덩어리",
+  "date": "2026-10-19"
+ },
+ "gh:timguignard-623571": {
+  "tones": [
+   "ascii",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "코드와 신발 카드 UI",
+  "date": "2026-10-19"
+ },
+ "gh:joao-felixl-809438": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "밝은 바탕 앱 카드 UI와 로고",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:vince-builds-355650": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "베이지 웹 카드 전후 비교",
+  "date": "2026-10-19"
+ },
+ "gh:mappletour-334921": {
+  "tones": [
+   "neon"
+  ],
+  "by": "frames3",
+  "note": "청록 배경 발광선 물고기",
+  "date": "2026-10-19"
+ },
+ "gh:itsahmedharoon-544194": {
+  "tones": [
+   "infographic",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "검은 격자 차트·큰 숫자와 큰 문구",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:stokebuilder-356793": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "흑백 문서 카드 나열과 큰 자막",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:ik-builds-585923": {
+  "tones": [
+   "editorial",
+   "hand-drawn"
+  ],
+  "by": "frames8",
+  "note": "밝은 배경 공·스케치 메모, 큰 타이틀 혼재",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:petert-540960": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "VR 고글 제품 광고 세로영상",
+  "date": "2026-10-19"
+ },
+ "gh:petert-635793": {
+  "tones": [
+   "editorial",
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "유자 캔 제품 광고",
+  "date": "2026-10-19"
+ },
+ "gh:petert-350098": {
+  "tones": [
+   "minimal-ui",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "폰 목업 가계부 원형 차트",
+  "date": "2026-10-19"
+ },
+ "gh:georgejimenez98-431559": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "썸네일 카드와 입력 폼",
+  "date": "2026-10-19"
+ },
+ "gh:majin-appsheet-693327": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "붉은 띠 큰 일본어 타이틀",
+  "date": "2026-10-19"
+ },
+ "gh:javi-llofriu-059888": {
+  "tones": [
+   "editorial",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "크림 배경 주황 점 그래프",
+  "date": "2026-10-19"
+ },
+ "gh:georgejimenez98-427173": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "폰 알림 카드와 작업 목록",
+  "date": "2026-10-19"
+ },
+ "gh:l3d1c-632524": {
+  "tones": [
+   "editorial",
+   "collage"
+  ],
+  "by": "frames3",
+  "note": "뉴스 사진 기사 세로 광고",
+  "date": "2026-10-19"
+ },
+ "gh:wustep-884086": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "흰 배경 노션 표 UI와 큰 산세리프 문구",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:apoorvjain25-309680": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "어두운 채팅 앱 UI 카드",
+  "date": "2026-10-19"
+ },
+ "gh:pranavclickks-254816": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "승인 대시보드 표 UI",
+  "date": "2026-10-19"
+ },
+ "gh:rpa-dake-593915": {
+  "tones": [
+   "neon"
+  ],
+  "by": "frames3",
+  "note": "네온 연도와 선화 아이콘",
+  "date": "2026-10-19"
+ },
+ "gh:zakisbuilding-495680": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "그라데이션 배경 폰 목업 앱 UI, 큰 글자",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:aschapmann-724497": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "어두운 배경 레딧 카드 UI와 큰 카피",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:itsyashf-692347": {
+  "tones": [
+   "ascii",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "터미널 로그와 카드 그리드",
+  "date": "2026-10-19"
+ },
+ "gh:dannyverkissen-101463": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "운동 앱 폰 목업",
+  "date": "2026-10-19"
+ },
+ "gh:chapi13-131449": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "파스텔 배경 앱 폰 목업",
+  "date": "2026-10-19"
+ },
+ "gh:qinelke-271655": {
+  "tones": [
+   "kinetic-type",
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "발광 PRO 글자와 캐릭터",
+  "date": "2026-10-19"
+ },
+ "gh:genelab-999-088672": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "큰 글자와 타임코드 프레임",
+  "date": "2026-10-19"
+ },
+ "gh:inoue-aix-234322": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "밝은 배경 큰 일본어 카피",
+  "date": "2026-10-19"
+ },
+ "gh:daniel-haida-636937": {
+  "tones": [
+   "minimal-ui",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "어두운 회계 대시보드 차트",
+  "date": "2026-10-19"
+ },
+ "gh:pisajeski-168993": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "밝은 웹 입력창 UI",
+  "date": "2026-10-19"
+ },
+ "gh:dustindavis-644806": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "예산 앱 폰 목업과 카피",
+  "date": "2026-10-19"
+ },
+ "gh:signalz-jp-918002": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "잡지풍 용어집 지면",
+  "date": "2026-10-19"
+ },
+ "gh:djadkison-394122": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "챗봇·편집기 창 UI",
+  "date": "2026-10-19"
+ },
+ "gh:mousszy-baby-014197": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 큰 글자 화면과 단색 도형 브랜드 컷",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:fr-sorrentino-871017": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "워치 선택 버튼 UI",
+  "date": "2026-10-19",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "gh:proanaliteg-458642": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "윈도우 대화상자와 파일 표",
+  "date": "2026-10-19"
+ },
+ "gh:kingokings-992769": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "이력서 편집 앱 UI",
+  "date": "2026-10-19"
+ },
+ "gh:dys-hay-749645": {
+  "tones": [
+   "editorial",
+   "infographic"
+  ],
+  "by": "frames8",
+  "note": "단색 배경 차량 브랜드 필름, 속도 수치",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:ambiguous-ai-389509": {
+  "tones": [
+   "blueprint",
+   "pixel"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 한자 運 설계도·픽셀·손글씨 등 변주",
+  "confidence": "low",
+  "date": "2026-10-19"
+ },
+ "gh:heymrzak-349060": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "밝은 단색 배경 큰 산세리프, 앱 카드 UI",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:ambiguous-ai-505873": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "큰 알파벳이 화면 채우고 밝은 바탕 마무리",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:lnkiai-544254": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "앱 목업과 세리프 카피",
+  "date": "2026-10-19"
+ },
+ "gh:tejasthange3-128242": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "큰 문구와 X 로고, 검은·파랑 단색 바탕",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:helloshiva0801-438284": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "베이지 배경 편집기 UI",
+  "date": "2026-10-19"
+ },
+ "gh:itakahashikun-990109": {
+  "tones": [
+   "editorial",
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "3D 장면 위 일본어 카피",
+  "date": "2026-10-19"
+ },
+ "gh:als-link-301108": {
+  "tones": [
+   "collage",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "형광 배경 스티커 활자",
+  "date": "2026-10-19"
+ },
+ "gh:cboyack-407181": {
+  "tones": [
+   "kinetic-type",
+   "old-film"
+  ],
+  "by": "frames3",
+  "note": "큰 숫자와 빈티지 지폐",
+  "date": "2026-10-19"
+ },
+ "gh:salmanr2d2-661615": {
+  "tones": [
+   "old-film",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "세피아 종이 연표 아이콘",
+  "date": "2026-10-19"
+ },
+ "gh:piyushaaryan2-196586": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "흰 UI 카드 위주, 다크 로고, 실사 1컷",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:thuggy-juice-072370": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "다크 타이머 대시보드와 폰",
+  "date": "2026-10-19"
+ },
+ "gh:ninjaswebcom-684126": {
+  "tones": [
+   "hand-drawn",
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "손그림 헤드폰 쇼핑 창과 인물",
+  "date": "2026-10-19"
+ },
+ "gh:iammukeshm-421585": {
+  "tones": [
+   "infographic",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "보라 배경 수치·타임라인",
+  "date": "2026-10-19"
+ },
+ "gh:yarhmm-341449": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "아랍어·영문 큰 글자 반복",
+  "date": "2026-10-19"
+ },
+ "gh:t4k1ra-cg-110846": {
+  "tones": [
+   "stop-motion",
+   "clay"
+  ],
+  "by": "frames3",
+  "note": "종이공작풍 언덕과 카메라",
+  "date": "2026-10-19"
+ },
+ "gh:francoxavier33-341663": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "밝은 배경 식단 앱 카드",
+  "date": "2026-10-19"
+ },
+ "gh:tony-tt-872147": {
+  "tones": [
+   "voxel",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "아이소메트릭 플로어와 코드 화면",
+  "date": "2026-10-19"
+ },
+ "gh:thallisribeiro-829318": {
+  "tones": [
+   "infographic",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "큰 숫자와 문서 카드",
+  "date": "2026-10-19"
+ },
+ "gh:tycenjm-098014": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "레시피 카드 격자와 터미널",
+  "date": "2026-10-19"
+ },
+ "gh:samissudo-927179": {
+  "tones": [
+   "hand-drawn",
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "크레용풍 페니실린 그림",
+  "date": "2026-10-19"
+ },
+ "gh:imthatcarlos-133592": {
+  "tones": [
+   "editorial",
+   "ascii"
+  ],
+  "by": "frames3",
+  "note": "밝은 문구·터미널·로고 화면",
+  "date": "2026-10-19"
+ },
+ "gh:iamshankhadeep-506266": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "다크 브라우저 UI와 큰 문구",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:safaelmali-004843": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "다크 웹 UI, 컨트롤러 제품 문구",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:localjulius-625706": {
+  "tones": [
+   "cartoon",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "평면 캐릭터 화상통화 창",
+  "date": "2026-10-19"
+ },
+ "gh:alanschwegler-629665": {
+  "tones": [
+   "minimal-ui",
+   "cartoon"
+  ],
+  "by": "frames3",
+  "note": "흰 배경 QR 폰과 인물",
+  "date": "2026-10-19"
+ },
+ "gh:seantiffonnet-675262": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "다크 앱 체크리스트 폰",
+  "date": "2026-10-19"
+ },
+ "gh:priyansh0327-206409": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames8",
+  "note": "항공권 비교 UI 카드, 도시 사진",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:goldiez2599-685869": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "밝은 배경 폰 목업 캘린더",
+  "date": "2026-10-19"
+ },
+ "gh:bridgemindai-286423": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "후디 제품 필름과 큰 문구",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:arumii-movie-622720": {
+  "tones": [
+   "cinematic-3d",
+   "chrome"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 3D 조명 로고·금속 구체·복셀 C",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:arumii-movie-249613": {
+  "tones": [
+   "chrome",
+   "clay"
+  ],
+  "by": "frames8",
+  "note": "쇼릴: 금속 Z·유리 구체·무광 3D 로고",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:dheepanratnam-706454": {
+  "tones": [
+   "hud",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "틸트시프트 항구 라벨 박스",
+  "date": "2026-10-19"
+ },
+ "gh:soumymaheshwri-825921": {
+  "tones": [
+   "minimal-ui",
+   "blueprint"
+  ],
+  "by": "frames3",
+  "note": "평면도 카드와 폰 화면",
+  "date": "2026-10-19"
+ },
+ "gh:tankazunori0914-156748": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "FRIDAY 큰 글자와 타임코드",
+  "date": "2026-10-19"
+ },
+ "gh:leandroriviello-827135": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "하늘 배경 금융앱 카드",
+  "date": "2026-10-19"
+ },
+ "gh:0xlangeai-597929": {
+  "tones": [
+   "whiteboard",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "흰 바탕 선 아이콘 카드",
+  "date": "2026-10-19"
+ },
+ "gh:maxhirsch13-600983": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "스포트라이트 큰 문구",
+  "date": "2026-10-19"
+ },
+ "gh:xamfonos-004331": {
+  "tones": [
+   "whiteboard",
+   "ascii"
+  ],
+  "by": "frames3",
+  "note": "흰 바탕 선화와 코드 출력",
+  "date": "2026-10-19"
+ },
+ "gh:saadpastadev-347341": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "흰 배경 주문 앱 화면",
+  "date": "2026-10-19"
+ },
+ "gh:envoldev-017555": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames8",
+  "note": "다크 배경 딜 카드·폼 UI 중심",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:dengent-412996": {
+  "tones": [
+   "minimal-ui",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "폰 차트와 일본어 큰 문구",
+  "date": "2026-10-19"
+ },
+ "gh:apoorvjain25-150112": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "검은 배경 앱 폰 목업 통계",
+  "date": "2026-10-19"
+ },
+ "gh:smitjaineditor-843957": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "크림 배경 카드와 큰 숫자",
+  "date": "2026-10-19"
+ },
+ "gh:argbeknwn-466818": {
+  "tones": [
+   "particle"
+  ],
+  "by": "frames3",
+  "note": "검은 배경 입자 소용돌이",
+  "date": "2026-10-19"
+ },
+ "gh:leowenai-125931": {
+  "tones": [
+   "pixel",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "녹색 하프톤 도트와 큰 글자",
+  "date": "2026-10-19"
+ },
+ "gh:humzaakhalid-537875": {
+  "tones": [
+   "particle",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "파란 바탕 입자 산포, 큰 타이틀",
+  "confidence": "mid",
+  "date": "2026-10-19"
+ },
+ "gh:xenit-v0-532873": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "갈색 배경 폰 목업 세리프",
+  "date": "2026-10-19"
+ },
+ "gh:sonali-sahu-09-350200": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "파란 판과 흰 배경 큰 문구",
+  "date": "2026-10-19"
+ },
+ "gh:aijipusi75693-284735": {
+  "tones": [
+   "particle",
+   "neon"
+  ],
+  "by": "frames3",
+  "note": "보라 배경 입자 비둘기 글자",
+  "date": "2026-10-19"
+ },
+ "gh:seri-nonnon-231813": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "흰 배경 일본어 앱 폰",
+  "date": "2026-10-19"
+ },
+ "gh:tetsu-tetsu333-576886": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "SEO 도구 모달 화면",
+  "date": "2026-10-19"
+ },
+ "gh:0xrapzz-433554": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "검은 배경 큰 문구 타임코드",
+  "date": "2026-10-19"
+ },
+ "gh:rishit30g-568278": {
+  "tones": [
+   "cartoon",
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "풍경 속 박스 캐릭터",
+  "date": "2026-10-19"
+ },
+ "gh:alex-leiro-867087": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "다크 배경 가격표 카드",
+  "date": "2026-10-19"
+ },
+ "gh:asei-ikarashi-437835": {
+  "tones": [
+   "infographic",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "노랑 배경 실적 숫자 도식",
+  "date": "2026-10-19"
+ },
+ "gh:nehalmax-802479": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames8",
+  "note": "앱 카드·채팅 UI, 중앙 문구 타이포",
+  "confidence": "high",
+  "date": "2026-10-19"
+ },
+ "gh:colecornelll-047465": {
+  "tones": [
+   "infographic",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "검은 배경 큰 금액 숫자",
+  "date": "2026-10-19"
+ },
+ "gh:allodev-069765": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "검은 배경 NFT 아바타 UI",
+  "date": "2026-10-19"
+ },
+ "gh:aylmerth-356252": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "검은 바탕 국가별 막대 차트",
+  "date": "2026-10-19"
+ },
+ "gh:falcong-j-277506": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "어두운 바탕 큰 일본어 글자",
+  "date": "2026-10-19"
+ },
+ "gh:saxxyweb3-690124": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames3",
+  "note": "어두운 배경 결제 앱 목업",
+  "date": "2026-10-19"
+ },
+ "gh:ayumi-t820-871023": {
+  "tones": [
+   "anime",
+   "kinetic-type"
+  ],
+  "by": "frames3",
+  "note": "애니 캐릭터와 큰 일본어 글자",
+  "date": "2026-10-19"
+ },
+ "gh:heyiamnick-119558": {
+  "tones": [
+   "blueprint",
+   "hand-drawn"
+  ],
+  "by": "frames3",
+  "note": "격자 종이와 파란 도면 선",
+  "date": "2026-10-19"
+ },
+ "gh:mondemsuraj-691517": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames3",
+  "note": "안개 낀 금문교 3D",
+  "date": "2026-10-19"
+ },
+ "gh:aichrislee-408244": {
+  "tones": [
+   "cutaway"
+  ],
+  "by": "frames3",
+  "note": "카메라 렌즈 분해 단면 3D",
+  "date": "2026-10-19"
+ },
+ "gh:0xspikez-483865": {
+  "tones": [
+   "cutaway",
+   "hud"
+  ],
+  "by": "frames3",
+  "note": "터보팬 엔진 단면 라벨",
+  "date": "2026-10-19"
+ },
+ "gh:eyadnour-172216": {
+  "tones": [
+   "voxel",
+   "infographic"
+  ],
+  "by": "frames3",
+  "note": "QR 코드 블록 설명 화면",
+  "date": "2026-10-19"
+ },
+ "gh:aichrislee-378670": {
+  "tones": [
+   "cutaway"
+  ],
+  "by": "frames3",
+  "note": "심장 해부 분해 3D 라벨",
+  "date": "2026-10-19"
+ },
+ "gh:aichrislee-476025": {
+  "tones": [
+   "cutaway"
+  ],
+  "by": "frames3",
+  "note": "기계식 시계 분해도 3D",
+  "date": "2026-10-19"
+ },
+ "gh:thebuggeddev-482912": {
+  "tones": [
+   "old-film",
+   "blueprint"
+  ],
+  "by": "frames3",
+  "note": "빈티지 지면 대포와 도면",
+  "date": "2026-10-19"
+ },
+ "gh:thesethian-384517": {
+  "tones": [
+   "cinematic-3d",
+   "particle"
+  ],
+  "by": "frames3",
+  "note": "우주 행성 3D와 입자 고리",
+  "date": "2026-10-19"
+ },
+ "gh:spacyapps-157886": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "frames3",
+  "note": "밝은 배경 젤리 주사위 3D",
+  "date": "2026-10-19"
+ },
+ "gh:adrianduta96-992248": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "x-frames8",
+  "note": "토킹헤드 위 종이 배경 글자 애니메이션 삽입",
+  "date": "2026-10-19",
+  "confidence": "low"
+ },
+ "gh:pagustafsson-566609": {
+  "tones": [
+   "particle",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "유체 연기 시뮬레이션과 컨트롤 패널 UI",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:youwareai-300653": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "구름 위 밤 성 3D 풍경",
+  "date": "2026-10-19"
+ },
+ "gh:juancarlos17626-429530": {
+  "tones": [
+   "chrome",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "세로 로고 3D 인트로 썸네일",
+  "date": "2026-10-19"
+ },
+ "gh:airobertdaily-416945": {
+  "tones": [
+   "editorial",
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "쇼릴: 애플 연대기, 제품 필름과 3D·입자 혼합",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:thusatharan-433543": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "절차적 3D 저택 정원, 낮밤 조명 전환",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:arixxbt-292438": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "3D 젠 정원 모래 시뮬레이션, 조명 변화",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:n01ennn-597182": {
+  "tones": [
+   "minimal-ui",
+   "infographic"
+  ],
+  "by": "x-frames8",
+  "note": "세 모델 비교 대시보드 카드와 막대 차트",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:rubenssoto-ai-802657": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "Three.js F1 피트스톱 3D 장면",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:thusatharan-640926": {
+  "tones": [
+   "cinematic-3d",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "코끼리 3D 모델 4분할 비교 화면",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:utsavchopra30-560359": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "prompt",
+  "note": "브랜드 기능 티저 영상",
+  "date": "2026-10-19"
+ },
+ "gh:0xkarmi-129839": {
+  "tones": [
+   "hud",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "선 나비 렌더와 카운터·패널 대시보드",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:shunshu32385143-944719": {
+  "tones": [
+   "cinematic-3d",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "기년전 3D 구축, 흰 배경 단정한 연출",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:chang-200908": {
+  "tones": [
+   "infographic",
+   "cutaway"
+  ],
+  "by": "x-frames8",
+  "note": "페달 구조 분해와 수치·차트 설명",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:buildfastwithai-844291": {
+  "tones": [
+   "kinetic-type",
+   "ascii"
+  ],
+  "by": "x-frames8",
+  "note": "검은 바탕 큰 타이포와 코드 화면 쇼릴",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:drake5112-661428": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "prompt",
+  "note": "네트워크 효과 슬라이더 설명",
+  "date": "2026-10-19"
+ },
+ "gh:aichrislee-938609": {
+  "tones": [
+   "cinematic-3d",
+   "cutaway"
+  ],
+  "by": "x-frames8",
+  "note": "발사대 위 3D 새턴V, 부품 라벨 분해 표시",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:screeendev-981790": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "흰 바탕 큰 검은 문구",
+  "date": "2026-10-19"
+ },
+ "gh:juancarlos17626-382690": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "용암 램프와 큰 스페인어 제목",
+  "date": "2026-10-19"
+ },
+ "gh:cryptowluha-060792": {
+  "tones": [
+   "cinematic-3d",
+   "hand-drawn"
+  ],
+  "by": "x-frames8",
+  "note": "스케치 선에서 사실적 3D 주택으로 완성",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:fleyta88-443662": {
+  "tones": [
+   "ascii",
+   "infographic"
+  ],
+  "by": "x-frames8",
+  "note": "어두운 터미널풍 고정폭 다이어그램·타임라인 막대",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:flxrnc-251921": {
+  "tones": [
+   "minimal-ui",
+   "pixel"
+  ],
+  "by": "x-frames8",
+  "note": "흰 바탕 다크 UI 카드 위주, 픽셀 캐릭터 시작·끝",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:tonysurix-596746": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "안개 낀 산길 3D 자동차 추격 프리비즈",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:0xverdao-776363": {
+  "tones": [
+   "voxel"
+  ],
+  "by": "x-frames8",
+  "note": "실제 거리뷰 위 마인크래프트 블록·TNT 폭발",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:simonasltu1-981181": {
+  "tones": [
+   "particle",
+   "neon"
+  ],
+  "by": "x-frames8",
+  "note": "검은 바탕 발광 입자 링·크리스털, 세리프 문구",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:khlaseek-dsgner-877659": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "Jitter 앱 화면 녹화 세로 영상",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:btcup99-311469": {
+  "tones": [
+   "kinetic-type",
+   "neon"
+  ],
+  "by": "x-frames8",
+  "note": "AI 역사 큰 연도·제목 타이포, 발광 격자",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:kewai386772-262769": {
+  "tones": [],
+  "by": "unknown",
+  "note": "검은 바탕 흰 원 하나",
+  "date": "2026-10-19"
+ },
+ "gh:mdaman010-207866": {
+  "tones": [
+   "cinematic-3d",
+   "infographic"
+  ],
+  "by": "x-frames8",
+  "note": "3D 지형 위 경로선 따라가는 중간계 지도",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:wikiwayne-080350": {
+  "tones": [
+   "clay",
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "무광 머그·화분 3D 장면 모델별 비교",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:wikiwayne-486055": {
+  "tones": [
+   "clay",
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "무광 3D 종이비행기 장면 6분할 비교",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:cgclick-497325": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "prompt",
+  "note": "점이 검색창으로 변함",
+  "date": "2026-10-19"
+ },
+ "gh:federicoaltepo1-312496": {
+  "tones": [
+   "editorial",
+   "collage"
+  ],
+  "by": "poster",
+  "note": "흑백 사진과 큰 Copy 글자",
+  "date": "2026-10-19"
+ },
+ "gh:eleanorina-653042": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "x-frames8",
+  "note": "3b1b식 산점도·수식·표 데이터 설명",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:okazaky-084783": {
+  "tones": [
+   "kinetic-type",
+   "neon"
+  ],
+  "by": "x-frames8",
+  "note": "세로 화면 큰 글자, 검정 바탕 붉은 발광 격자",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:twoclipping-041659": {
+  "tones": [
+   "kinetic-type",
+   "pixel"
+  ],
+  "by": "x-frames8",
+  "note": "단어 중심 타이포, 도트 아이콘·열화상 실루엣",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:mrkindey-267498": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "사실적 3D 언덕 주택 단계별 구축, 작은 UI",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:ilyapion-072443": {
+  "tones": [
+   "editorial",
+   "hud"
+  ],
+  "by": "x-frames8",
+  "note": "감색 브랜드 필름, 가는 선·숫자 오버레이",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:tkz-aiart-864352": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "poster",
+  "note": "턴테이블 트랙 카드",
+  "date": "2026-10-19"
+ },
+ "gh:thegreatola-738411": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "흰 배경 Vano 로고",
+  "date": "2026-10-19"
+ },
+ "gh:aicreataro-864070": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "x-frames8",
+  "note": "세로쓰기 일본어 활자가 화면 주인공",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:nakazakifam-831964": {
+  "tones": [
+   "neon",
+   "clay"
+  ],
+  "by": "x-frames8",
+  "note": "쇼릴: 스케치·도트·레트로UI·신스웨이브 혼재",
+  "date": "2026-10-19",
+  "confidence": "low"
+ },
+ "gh:incognitoprince-849212": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "베이지 바탕 키네틱 글자",
+  "date": "2026-10-19"
+ },
+ "gh:nft-chen-068069": {
+  "tones": [
+   "infographic",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "어두운 슬라이드형 카드에 차트·수치 설명",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:tanabe-fragm-322001": {
+  "tones": [
+   "cinematic-3d",
+   "anime"
+  ],
+  "by": "x-frames8",
+  "note": "3D 타일이 흩어져 애니풍 배너 이미지 형성",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:atif-0075-639088": {
+  "tones": [
+   "cinematic-3d",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "사실적 3D 소 달리기와 조작 패널 UI",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:earthwalkerx17-912577": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "prompt",
+  "note": "3D 중간계 여정",
+  "date": "2026-10-19"
+ },
+ "gh:techartist-697078": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "서재 실내 사실적 3D, 도미노와 금속 깔때기",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:llama3dstudio-918962": {
+  "tones": [
+   "cinematic-3d",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "붉은 배경 3D 조리 장면에 세리프 자막",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:rossaxbt-312793": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "poster",
+  "note": "흰 바탕 Generate 버튼",
+  "date": "2026-10-19"
+ },
+ "gh:thegawdstiles-738178": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "결제 앱 UI 카드와 큰 산세리프 브랜드 필름",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:rafiroutes-596199": {
+  "tones": [
+   "cartoon",
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "굵은 외곽선 캐릭터, 3D 하늘·우주 배경",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:jiro-aicompany-487818": {
+  "tones": [
+   "ascii",
+   "kinetic-type"
+  ],
+  "by": "x-frames8",
+  "note": "터미널 화면 위 큰 일본어 자막 카드",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:rashadmirza404-020971": {
+  "tones": [
+   "infographic",
+   "particle"
+  ],
+  "by": "poster",
+  "note": "녹조류 세포 과학 시각화",
+  "date": "2026-10-19"
+ },
+ "gh:aichrislee-922082": {
+  "tones": [
+   "cutaway",
+   "neon"
+  ],
+  "by": "x-frames8",
+  "note": "검은 바탕 발광 V8 엔진 분해 구조",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:0xnicc0-516612": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "베이지 바탕 입력창 UI와 워드마크",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:ivanainai-190629": {
+  "tones": [
+   "chrome",
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "금속 헬멧 비교",
+  "date": "2026-10-19"
+ },
+ "gh:elitzavasileva-591465": {
+  "tones": [],
+  "by": "unknown",
+  "note": "검은 화면",
+  "date": "2026-10-19"
+ },
+ "gh:nilou-salehi-458567": {
+  "tones": [
+   "minimal-ui",
+   "infographic"
+  ],
+  "by": "x-frames8",
+  "note": "흰 바탕 노드 그래프 UI, 마지막 수치 카드",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:aidinzeo-708182": {
+  "tones": [],
+  "by": "x-frames8",
+  "note": "해당 없음: 만델브로 프랙탈 무한 줌",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:rossaxbt-707651": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "주황 토글과 큰 글자",
+  "date": "2026-10-19"
+ },
+ "gh:yatudou14-822057": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "파스텔 바탕 앱 창 UI와 제품 소개 문구",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:ligayabeebe-323995": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "폰 목업 앱 화면 중심 런칭 영상",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:pluvio9yte-662953": {
+  "tones": [
+   "particle",
+   "pixel"
+  ],
+  "by": "x-frames8",
+  "note": "점·입자로 만든 인물, 도트 그리드",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:ivysparkleai-543294": {
+  "tones": [
+   "editorial",
+   "neon"
+  ],
+  "by": "x-frames8",
+  "note": "어두운 배경 세리프 문구와 주황 발광 선화",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:kisaka-ki-859326": {
+  "tones": [
+   "cinematic-3d",
+   "infographic"
+  ],
+  "by": "x-frames8",
+  "note": "3D 지형 위 토사 퇴적 시뮬레이션과 수치 패널",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:gdgtify-393073": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "밝은 배경 큰 글자와 숫자 바퀴 증명",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:mouri45-575311": {
+  "tones": [
+   "minimal-ui",
+   "anime"
+  ],
+  "by": "x-frames8",
+  "note": "쇼릴: UI 카드 목록과 애니풍 PV 혼합",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:financeyf5-462150": {
+  "tones": [
+   "editorial",
+   "hud"
+  ],
+  "by": "poster",
+  "note": "베이지 바탕 가는 선 눈금 레이아웃",
+  "date": "2026-10-19"
+ },
+ "gh:claudecode-ut-314769": {
+  "tones": [
+   "ascii",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "터미널 화면 옆 Gmail 기능 카드 패널",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:konstantinsaifo-169107": {
+  "tones": [
+   "cinematic-3d",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "3D 물류센터 시뮬레이션과 대시보드 UI",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:uinerd-635877": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "x-frames8",
+  "note": "평면 채색 캐릭터의 옥토버페스트 밤 장면",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:yanivm79-158103": {
+  "tones": [
+   "neon"
+  ],
+  "by": "poster",
+  "note": "검은 바탕 빨간 디지털 시계",
+  "date": "2026-10-19"
+ },
+ "gh:sadalbert10-856416": {
+  "tones": [
+   "cinematic-3d",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "폰 화면 속 로우폴리 3D 러너 게임",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:ayi-ainotes-933194": {
+  "tones": [
+   "hand-drawn"
+  ],
+  "by": "prompt",
+  "note": "빈 종이 질감 화면",
+  "date": "2026-10-19"
+ },
+ "gh:thewevr-681887": {
+  "tones": [
+   "cartoon",
+   "collage"
+  ],
+  "by": "x-frames8",
+  "note": "평면 만화 캐릭터와 오려붙인 활자 콜라주",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:archiveexplorer-560622": {
+  "tones": [
+   "kinetic-type",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "큰 문구와 앱 와이어프레임 분할 화면",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:xodud-rkd-160324": {
+  "tones": [],
+  "by": "x-frames8",
+  "note": "해당 없음: 시대별 플랫 일러스트 풍경",
+  "date": "2026-10-19",
+  "confidence": "low"
+ },
+ "gh:leo114119-936422": {
+  "tones": [
+   "ascii",
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "베이지 바탕 흐린 터미널 창",
+  "date": "2026-10-19"
+ },
+ "gh:elkrispis-872980": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "검은 바탕 흰 문구 등장",
+  "date": "2026-10-19"
+ },
+ "gh:shengtang135754-900065": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "prompt",
+  "note": "밝은 바탕 붉은 빛 번짐",
+  "date": "2026-10-19"
+ },
+ "gh:cryptoxorz-359201": {
+  "tones": [
+   "cinematic-3d",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "블랙홀 3D와 큰 중국어 제목",
+  "date": "2026-10-19"
+ },
+ "gh:aichrislee-479847": {
+  "tones": [
+   "cutaway",
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "제트엔진 단면·분해도 3D, 라벨 주석",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:ivanainai-245918": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "검은 바탕 유리 꽃 3D",
+  "date": "2026-10-19"
+ },
+ "gh:dan-proggg-274533": {
+  "tones": [
+   "blueprint",
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "격자 설계도 위 탑 조립, 밝은 바탕",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:riyadbkhsh-300736": {
+  "tones": [
+   "minimal-ui",
+   "cyberpunk"
+  ],
+  "by": "x-frames8",
+  "note": "입찰 UI 카드와 네온 타임스퀘어 야경",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:paripune-657175": {
+  "tones": [
+   "hand-drawn",
+   "kinetic-type"
+  ],
+  "by": "x-frames8",
+  "note": "한 줄 선 드로잉과 세리프 단어 자막",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:haribuilds-007643": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "x-frames8",
+  "note": "지구본 지도 위 포인트 니모 데이터",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:tarunyadav9761-053244": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "x-frames8",
+  "note": "macOS 앱 UI 화면과 큰 문구 카드",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:abyssalld-602690": {
+  "tones": [
+   "cinematic-3d",
+   "hud"
+  ],
+  "by": "x-frames8",
+  "note": "사실적 로켓 발사 3D, 타임코드 오버레이",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:flxrnc-619627": {
+  "tones": [
+   "cinematic-3d",
+   "clay"
+  ],
+  "by": "x-frames8",
+  "note": "무광 3D 고양이 캐릭터, 스튜디오 조명",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:ulyssexbt-205279": {
+  "tones": [
+   "kinetic-type",
+   "infographic"
+  ],
+  "by": "x-frames8",
+  "note": "크림 바탕 큰 글자·블록 막대그래프",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:ponzponz15-145882": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "밝은 단색 메이킹 해설, LP 화면 카드",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:henrygsing-050247": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "poster",
+  "note": "밤하늘 스포트라이트 일러스트",
+  "date": "2026-10-19"
+ },
+ "gh:twoclipping-551116": {
+  "tones": [
+   "collage",
+   "kinetic-type"
+  ],
+  "by": "x-frames8",
+  "note": "오려붙인 사진·카드와 큰 굵은 글자",
+  "date": "2026-10-19",
+  "confidence": "mid",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "gh:michaelraspuzzi-740595": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "x-frames8",
+  "note": "평면 채색 만화풍 장면, 야경 도시",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:woojinrad-455731": {
+  "tones": [
+   "cartoon",
+   "hand-drawn"
+  ],
+  "by": "x-frames8",
+  "note": "크림 배경 동화풍 캐릭터와 카드 UI 설명",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:aimevzulari-256293": {
+  "tones": [
+   "old-film",
+   "hand-drawn"
+  ],
+  "by": "x-frames8",
+  "note": "세피아 양피지 톤, 손글씨 곡선 도해",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:testlandblog-617500": {
+  "tones": [
+   "infographic",
+   "cutaway"
+  ],
+  "by": "x-frames8",
+  "note": "검은 배경 3B1B풍 증기기관 단면 도해",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:minochan0824-827805": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "관리화면 UI 시연과 밝은 런칭 타이틀",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:twoclipping-747965": {
+  "tones": [
+   "cinematic-3d",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "사실적 풍경 위 카드·입력창 UI 오버레이",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:generussai-904308": {
+  "tones": [
+   "cartoon",
+   "particle"
+  ],
+  "by": "x-frames8",
+  "note": "굵은 선 캐릭터와 기하·프랙탈 패턴",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:qianqiongge-246969": {
+  "tones": [
+   "minimal-ui",
+   "neon"
+  ],
+  "by": "x-frames8",
+  "note": "가챠 카드 게임 UI, 발광 연출",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:xanares-738984": {
+  "tones": [
+   "cinematic-3d",
+   "chrome"
+  ],
+  "by": "x-frames8",
+  "note": "크롬 오브젝트 후 사실적 3D 풍경",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:koushikde-937635": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "x-frames8",
+  "note": "쇼릴: 단색 배경 타이포·차트 장면 전환",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:imryven-495965": {
+  "tones": [
+   "ascii",
+   "infographic"
+  ],
+  "by": "x-frames8",
+  "note": "터미널풍 고정폭 대시보드 화면",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:renmu2017-477264": {
+  "tones": [],
+  "by": "unknown",
+  "note": "검은 화면, 내용 불명",
+  "date": "2026-10-19"
+ },
+ "gh:gdgtify-989608": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "x-frames8",
+  "note": "남색 배경 궤도 따라 움직이는 문구",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:gabzofar-852359": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "그라디언트 배경 앱 편집기 UI",
+  "date": "2026-10-19"
+ },
+ "gh:youwareai-259061": {
+  "tones": [
+   "ink",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "수묵 새우·말 그림, 사이사이 프롬프트 UI",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:akakuma0219-658335": {
+  "tones": [
+   "old-film",
+   "hud"
+  ],
+  "by": "x-frames8",
+  "note": "파운드푸티지 VHS 호러, REC·타임코드 오버레이",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:mablesjoseph-735781": {
+  "tones": [
+   "infographic",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "토큰 비용 막대그래프·숫자, 카드 UI 설명",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:chudry223-657142": {
+  "tones": [
+   "particle",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "입자 덩어리 3D, 오른쪽 설정 패널 UI",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:techartist-021472": {
+  "tones": [
+   "cutaway",
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "집 시공 단계 X-ray 단면, 사실적 3D",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:johncodunayo-560372": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "보라 방사형 줄무늬와 원",
+  "date": "2026-10-19"
+ },
+ "gh:gkxspace-923139": {
+  "tones": [
+   "pixel",
+   "neon"
+  ],
+  "by": "x-frames8",
+  "note": "쇼릴: 게임 역사 픽셀·발광 퐁 장면",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:jakubantowski-020905": {
+  "tones": [
+   "clay"
+  ],
+  "by": "prompt",
+  "note": "펠트 블롭 비교, 화면 빈 흰색",
+  "date": "2026-10-19"
+ },
+ "gh:q970270495-497923": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "x-frames8",
+  "note": "흰 바탕 산세리프 스타트업 필름, 큰 글자",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:grace-sunnyy-486816": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "prompt",
+  "note": "검은 우주에 태양, 행성 해설",
+  "date": "2026-10-19"
+ },
+ "gh:x7mdnet-157811": {
+  "tones": [
+   "collage"
+  ],
+  "by": "x-frames8",
+  "note": "찢은 문서·형광펜·테이프 콜라주",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:threeaus-886343": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "베이지 단색 바탕 주황 포인트 모션 비교",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:filicroval-168898": {
+  "tones": [
+   "voxel"
+  ],
+  "by": "x-frames8",
+  "note": "복셀 배·강 풍경 모델 비교 분할화면",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:notdwd-766641": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "밝은 단색 배경 런치 필름, 입력창 UI",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:egeberkina-949521": {
+  "tones": [
+   "cutaway",
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "지각 단층 단면 3D, 지진 시뮬레이션",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:jdverolme-302685": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "prompt",
+  "note": "어두운 화면, AI 역사 설명",
+  "date": "2026-10-19"
+ },
+ "gh:vic305-885957": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "지구 곡면 위 우주 장면",
+  "date": "2026-10-19"
+ },
+ "gh:adomicael-707503": {
+  "tones": [
+   "cinematic-3d",
+   "hud"
+  ],
+  "by": "x-frames8",
+  "note": "어두운 3D 데이터센터·지구, 수치 오버레이",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:everestchris6-399895": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "흑백 단색 배경 폰 제품 필름, 큰 산세리프",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:kopert0x-098349": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "x-frames8",
+  "note": "평면 채색 야경 도시와 로봇·피아노 장면",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:ai9app-989009": {
+  "tones": [
+   "hud"
+  ],
+  "by": "poster",
+  "note": "회색 화면 빛줄기와 타임코드",
+  "date": "2026-10-19"
+ },
+ "gh:sportyblocks-320796": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "파란 배경 컴포넌트 카드 UI 런칭 영상",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:curieuxexplorer-320803": {
+  "tones": [
+   "voxel",
+   "infographic"
+  ],
+  "by": "x-frames8",
+  "note": "아이소메트릭 블록 도시, 차트 패널 일부",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:abhinavflac-251740": {
+  "tones": [
+   "minimal-ui",
+   "anime"
+  ],
+  "by": "x-frames8",
+  "note": "쇼릴: 웹 UI 화면과 만화 컷이 번갈아 나옴",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:humzaakhalid-011081": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "poster",
+  "note": "블로그 목록 화면 전환",
+  "date": "2026-10-19"
+ },
+ "gh:byaiden-vu-755862": {
+  "tones": [
+   "hand-drawn"
+  ],
+  "by": "poster",
+  "note": "손그림 배터리 속 졸라맨",
+  "date": "2026-10-19"
+ },
+ "gh:vignesh-rav-417649": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "단색 배경 종이접기 나비, 해 그라데이션",
+  "date": "2026-10-19",
+  "confidence": "low"
+ },
+ "gh:apoorvjain25-945542": {
+  "tones": [
+   "particle",
+   "hud"
+  ],
+  "by": "x-frames8",
+  "note": "빛 입자 우주 비행, 계기판 숫자 오버레이",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:hahazwei-425483": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "x-frames8",
+  "note": "분홍 배경 픽셀 캐릭터 뮤직비디오",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:obydulme-052905": {
+  "tones": [
+   "ink"
+  ],
+  "by": "x-frames8",
+  "note": "미색 종이 위 먹이 번지는 수묵 화면",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:curieuxexplorer-590917": {
+  "tones": [
+   "infographic",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "미색 배경 그래프·네트워크 데이터 시각화",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:nofollowers2023-974928": {
+  "tones": [
+   "collage",
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "붉은 등고선 지형 위 기지",
+  "date": "2026-10-19"
+ },
+ "gh:btc5887899-288258": {
+  "tones": [
+   "cutaway",
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "GPU를 원자까지 파고드는 3D 분해 줌",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:jamee-now-583635": {
+  "tones": [
+   "hand-drawn",
+   "cartoon"
+  ],
+  "by": "x-frames8",
+  "note": "크림 배경 손그림 종이인형 거리 장면",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:lemcosmos-535145": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "prompt",
+  "note": "노란 세로 화면, X 쇼릴",
+  "date": "2026-10-19"
+ },
+ "gh:king1818888-642123": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "prompt",
+  "note": "감색 빈 화면, 교육 애니",
+  "date": "2026-10-19"
+ },
+ "gh:mochi-agi-421448": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "어두운 심야 승강장 실사풍 호러, 세로 자막",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:lalulu-create-091362": {
+  "tones": [
+   "hand-drawn"
+  ],
+  "by": "x-frames8",
+  "note": "평면 손그림 일러스트, 해변과 노트북",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:charlessieg-370949": {
+  "tones": [
+   "minimal-ui",
+   "ascii"
+  ],
+  "by": "x-frames8",
+  "note": "어두운 배경 앱 화면 카드와 코드 터미널",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:saltyaom-620933": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "쇼릴: 큰 글자 화면과 코드 카드 교차",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:twoclipping-762046": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "흰 배경 말풍선, 플레이어 UI 카드",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:cipherwrk-451155": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "흰 배경 흐릿한 Hello 글자",
+  "date": "2026-10-19"
+ },
+ "gh:dotey-773568": {
+  "tones": [
+   "kinetic-type",
+   "infographic"
+  ],
+  "by": "x-frames8",
+  "note": "쇼릴: 큰 타이포와 차트, 패턴 교차",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:niirajrshah-163739": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "prompt",
+  "note": "밝은 배경 연도 큰 글자 타임라인",
+  "date": "2026-10-19"
+ },
+ "gh:thinkszyg-886066": {
+  "tones": [
+   "editorial",
+   "neon"
+  ],
+  "by": "x-frames8",
+  "note": "검은 배경 폰 제품 필름, 붉은 발광선",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:andrewmichaelsa-385936": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "세리프 문구와 UI 카드 제품 필름",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:deeprajo1-623150": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "어두운 배경 세리프 브랜드 필름, 앱 UI",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:niebin-gg-621849": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "poster",
+  "note": "밝은 배경 Generate 버튼",
+  "date": "2026-10-19"
+ },
+ "gh:punit-io-584518": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "밝은 배경 회색 You 글자",
+  "date": "2026-10-19"
+ },
+ "gh:oxpsats-182908": {
+  "tones": [
+   "hand-drawn",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "낙서 원 손그림과 단정한 중국어 문구",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:noah-z-zhang-765393": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "prompt",
+  "note": "검은 다크모드 UI 모션",
+  "date": "2026-10-19"
+ },
+ "gh:gandamu-ml-124280": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "x-frames8",
+  "note": "어나더월드식 평면 폴리곤 레트로 게임 화면",
+  "date": "2026-10-19",
+  "confidence": "low"
+ },
+ "gh:yanliudesign-839698": {
+  "tones": [
+   "editorial",
+   "blueprint"
+  ],
+  "by": "x-frames8",
+  "note": "밝은 격자 배경에 가는 선 도해, 타임라인",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:deedydas-407965": {
+  "tones": [
+   "infographic",
+   "ascii"
+  ],
+  "by": "x-frames8",
+  "note": "코드 구조 3D 막대 시각화와 코드 화면",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:riverroadlabs-269620": {
+  "tones": [
+   "kinetic-type",
+   "cartoon"
+  ],
+  "by": "x-frames8",
+  "note": "세로 화면 노움 일러스트와 큰 일본어 글자",
+  "date": "2026-10-19",
+  "confidence": "low"
+ },
+ "gh:rohanpaul-ai-500542": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "단색 배경 큰 산세리프 문장, 간단한 차트",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:johnmckeownn-511049": {
+  "tones": [
+   "old-film"
+  ],
+  "by": "poster",
+  "note": "흑백 로봇 고전 영화 장면",
+  "date": "2026-10-19"
+ },
+ "gh:0xcodez-474136": {
+  "tones": [
+   "cartoon",
+   "hand-drawn"
+  ],
+  "by": "x-frames8",
+  "note": "크레용 질감 방 안 피아노와 고양이 만화",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:ryan-morr-666741": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "x-frames8",
+  "note": "다크 앱 UI 카드와 큰 카피 글자",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:diamai-157697": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "poster",
+  "note": "그라데이션 위 입력창 UI",
+  "date": "2026-10-19"
+ },
+ "gh:godsboy7777-005594": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "x-frames8",
+  "note": "평면 채색 펠리컨 애니 6분할 비교",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:thejohnnyhuy-282154": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "poster",
+  "note": "베이지 배경 원형 다이얼",
+  "date": "2026-10-19"
+ },
+ "gh:topi-003-659728": {
+  "tones": [
+   "particle"
+  ],
+  "by": "poster",
+  "note": "보라 하늘 별과 빛줄기",
+  "date": "2026-10-19"
+ },
+ "gh:bitcoinrui-812752": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "prompt",
+  "note": "음성입력 제품 소개 모션",
+  "date": "2026-10-19"
+ },
+ "gh:nonbiri-ai-110674": {
+  "tones": [
+   "kinetic-type",
+   "collage"
+  ],
+  "by": "x-frames8",
+  "note": "쇼릴: 잡지 표지풍 큰 타이틀, 콜라주 섞임",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:koldo2k-741714": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "poster",
+  "note": "어두운 색상환과 빛 선",
+  "date": "2026-10-19"
+ },
+ "gh:curieuxexplorer-408141": {
+  "tones": [
+   "cinematic-3d",
+   "hud"
+  ],
+  "by": "x-frames8",
+  "note": "사실적 3D 미시세계에 가는 선 오버레이",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:linke1427832-343079": {
+  "tones": [
+   "cinematic-3d",
+   "particle"
+  ],
+  "by": "x-frames8",
+  "note": "어두운 시네마틱 공간, 입자로 된 뇌",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:subraiz24-994209": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "갈색 배경 큰 세리프 Mk1.5",
+  "date": "2026-10-19"
+ },
+ "gh:op7418-021491": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "poster",
+  "note": "게임풍 고양이 카드 획득 화면",
+  "date": "2026-10-19"
+ },
+ "gh:gigabit-million-959719": {
+  "tones": [
+   "minimal-ui",
+   "infographic"
+  ],
+  "by": "x-frames8",
+  "note": "다크 카드형 게임 소개 대시보드 화면",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:astroboysoup-861770": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "폰 목업 앱 화면과 단계 목록 카드 UI",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:bradmillscan-839974": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "어두운 조명의 사실적 3D 달·지폐 오브젝트",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:howlemont-503897": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "prompt",
+  "note": "BBC풍 2D 설명 애니",
+  "date": "2026-10-19"
+ },
+ "gh:cagrimbakirci-842869": {
+  "tones": [
+   "cutaway",
+   "hud"
+  ],
+  "by": "x-frames8",
+  "note": "눈 단면 구조도에 숫자·가는선 오버레이",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:notdwd-998633": {
+  "tones": [
+   "old-film",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "흑백 아카이브 필름과 웹 UI 조각 교차",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:iliareingold-486492": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "실루엣 레이어드 풍경, 깊은 조명 서사",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:dan-riverbendai-163640": {
+  "tones": [
+   "hand-drawn",
+   "ink"
+  ],
+  "by": "x-frames8",
+  "note": "한 줄 스케치 파리 거리에 파스텔 수채",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:dotey-927166": {
+  "tones": [
+   "ink",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "붓글씨 타이틀과 선화, 단정한 연표 화면",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:charumitradubey-328233": {
+  "tones": [
+   "kinetic-type",
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "검정·형광 큰 글자 화면과 UI 카드",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:ldataengineer-823010": {
+  "tones": [
+   "infographic",
+   "kinetic-type"
+  ],
+  "by": "x-frames8",
+  "note": "확률 숫자·차트 시각화와 큰 문장 화면",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:aichrislee-961335": {
+  "tones": [
+   "kinetic-type",
+   "infographic"
+  ],
+  "by": "x-frames8",
+  "note": "쇼릴: 큰 글자 큐브와 숫자 카운터 화면",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:kingokings-835071": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "prompt",
+  "note": "어두운 화면 커서, 앱 UI 쇼릴",
+  "date": "2026-10-19"
+ },
+ "gh:sdinesh91-159008": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "검정 배경 브라우저 탭 문구",
+  "date": "2026-10-19"
+ },
+ "gh:tanabe-fragm-706979": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "단색 배경 위 세리프 단어가 주인공",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:egawa-ai-design-092323": {
+  "tones": [],
+  "by": "unknown",
+  "note": "어두운 녹색 화면, 판단 불가",
+  "date": "2026-10-19"
+ },
+ "gh:zhu185178-255661": {
+  "tones": [
+   "anime"
+  ],
+  "by": "x-frames8",
+  "note": "비 오는 밤 역 배경 일본 애니 셀 채색",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:milos-gis-317580": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "x-frames8",
+  "note": "어두운 지도 위 교통망 데이터 시각화",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:zigapoto-942208": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "poster",
+  "note": "밝은 AI 입력창 UI",
+  "date": "2026-10-19"
+ },
+ "gh:kurahu-capten-054506": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "검정 세로 가사 타이틀카드",
+  "date": "2026-10-19"
+ },
+ "gh:yuyudora622-858156": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "poster",
+  "note": "세로 화면 노란 토글 스위치",
+  "date": "2026-10-19"
+ },
+ "gh:yama-kiyo-134910": {
+  "tones": [
+   "neon"
+  ],
+  "by": "x-frames8",
+  "note": "사이키델릭 만화경 VJ 패턴, 발광 색",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:wangyinrec-532344": {
+  "tones": [
+   "old-film",
+   "hand-drawn"
+  ],
+  "by": "x-frames8",
+  "note": "고서 양피지 책 펼침, 빈티지 수기 도해",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:mileson07-065690": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "평면 단색 배경 미니멀 장면, 절제된 색",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:aydenspringer23-227772": {
+  "tones": [
+   "pixel",
+   "hud"
+  ],
+  "by": "poster",
+  "note": "픽셀 지구 원형, 가는 오버레이",
+  "date": "2026-10-19"
+ },
+ "gh:kadaliao-048854": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "prompt",
+  "note": "픽사풍 3D, 어두운 방 모니터",
+  "date": "2026-10-19"
+ },
+ "gh:dotey-522564": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "x-frames8",
+  "note": "어두운 배경 수식·행렬·도표 설명",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:mizugame-22-719199": {
+  "tones": [
+   "hud",
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "어두운 배경 물방울, 타임코드",
+  "date": "2026-10-19"
+ },
+ "gh:bitfish-539054": {
+  "tones": [
+   "hand-drawn"
+  ],
+  "by": "poster",
+  "note": "흰 배경 책상 앞 인물 스케치",
+  "date": "2026-10-19"
+ },
+ "gh:aiaircle34052-950750": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "x-frames8",
+  "note": "쇼릴: 단색 배경 브랜드 필름과 큰 글자",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:0xvalure-354245": {
+  "tones": [
+   "minimal-ui",
+   "hud"
+  ],
+  "by": "poster",
+  "note": "어두운 배경 바 형태, 타임코드",
+  "date": "2026-10-19"
+ },
+ "gh:okapi-fukugyo-166351": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "베이지 배경 버튼·토글·카드 UI",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:annacher-152174": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "poster",
+  "note": "광고 계정 연결 버튼 UI",
+  "date": "2026-10-19"
+ },
+ "gh:yankis0x-174321": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "밝은 배경 플레이어·차트 카드 UI",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:nischalsharma-587738": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "poster",
+  "note": "금박 모자이크 타일 물고기 배",
+  "date": "2026-10-19"
+ },
+ "gh:kisalay-921896": {
+  "tones": [
+   "kinetic-type",
+   "neon"
+  ],
+  "by": "x-frames8",
+  "note": "네온 레이저 위 큰 가사 타이포",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:rebutonepress-688099": {
+  "tones": [
+   "cinematic-3d",
+   "hud"
+  ],
+  "by": "x-frames8",
+  "note": "사실적 블랙홀 3D, 모서리 수치 오버레이",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:syntheticbeef-389075": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "three.js 로봇 실루엣 조명",
+  "date": "2026-10-19"
+ },
+ "gh:sanjeevn72-151834": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "poster",
+  "note": "베이지 배경 Publish 버튼",
+  "date": "2026-10-19"
+ },
+ "gh:hakimieiqbal-762926": {
+  "tones": [
+   "hand-drawn",
+   "collage"
+  ],
+  "by": "prompt",
+  "note": "손그림 콜라주, 삶의 목적",
+  "date": "2026-10-19"
+ },
+ "gh:jasondainter-028222": {
+  "tones": [
+   "kinetic-type",
+   "cartoon"
+  ],
+  "by": "poster",
+  "note": "우주 배경 노란 WAR 대형 글자",
+  "date": "2026-10-19"
+ },
+ "gh:typingmusou-160705": {
+  "tones": [
+   "anime",
+   "kinetic-type"
+  ],
+  "by": "x-frames8",
+  "note": "게임 광고풍 애니 일러스트와 큰 글자",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:drishtantk-356656": {
+  "tones": [
+   "pixel",
+   "particle"
+  ],
+  "by": "x-frames8",
+  "note": "도트풍 방 장면, 창밖 입자 지구",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:tonka1981jp-288376": {
+  "tones": [
+   "cartoon",
+   "infographic"
+  ],
+  "by": "x-frames8",
+  "note": "만화풍 뇌 캐릭터 설명, 수치·타이머 도식",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:fumiyamizuguchi-500632": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "다크 앱 UI 카드 데모와 단정한 산세리프",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:aiwarts-428866": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 베니스 실사풍 인물 영상",
+  "date": "2026-10-19"
+ },
+ "gh:aiwarts-815008": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "x-frames8",
+  "note": "세로 모바일 웹 화면 스크롤 시연 위주",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:mtvneo-819281": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "검은 바탕 원 속 손 캐릭터 인사",
+  "date": "2026-10-19"
+ },
+ "gh:rneayan-417829": {
+  "tones": [
+   "infographic",
+   "particle"
+  ],
+  "by": "x-frames8",
+  "note": "인구 수치를 구슬 입자로 쌓는 데이터 시각화",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:curieuxexplorer-016717": {
+  "tones": [
+   "minimal-ui",
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "다크 대시보드 UI 안의 3D 인체·세포 모델",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:dimoff2000-260969": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "다크 SaaS 카드 UI와 큰 산세리프 카피",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:artless101-964679": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "새벽 바다 로켓 발사 3D",
+  "date": "2026-10-19"
+ },
+ "gh:victortaelin-875778": {
+  "tones": [
+   "cinematic-3d",
+   "voxel"
+  ],
+  "by": "x-frames8",
+  "note": "쇼릴: 3D 랩톱·회로·분자 장면 데모 모음",
+  "date": "2026-10-19",
+  "confidence": "low"
+ },
+ "gh:sammmaing-702076": {
+  "tones": [
+   "voxel",
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "블록 쌓기 닥터둠 3D 조형, 녹색 조명",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:otatechie-035448": {
+  "tones": [
+   "neon",
+   "kinetic-type"
+  ],
+  "by": "x-frames8",
+  "note": "보라 스포트라이트 무대 실루엣 문워크",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:daverogenmoser-899271": {
+  "tones": [
+   "cinematic-3d",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "3D 골프 그린 위 발자국, 세리프 로고 엔딩",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:retropunkai-060898": {
+  "tones": [],
+  "by": "unknown",
+  "note": "거의 빈 크림색 화면",
+  "date": "2026-10-19"
+ },
+ "gh:julianpscheid-494027": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "x-frames8",
+  "note": "폰 목업·앱 카드와 오렌지 포인트 카피",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:pradeepxkapoor-641956": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "은색 스포츠카 3D 렌더",
+  "date": "2026-10-19"
+ },
+ "gh:agioyaz-397647": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "대성당 3D 공간, 스테인드글라스 빛",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:agioyaz-986461": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "어두운 성당 3D, 스테인드글라스 빛 연출",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:thallisribeiro-750805": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "감색 바탕 주황 큰 글자",
+  "date": "2026-10-19"
+ },
+ "gh:so-ainsight-225926": {
+  "tones": [
+   "collage",
+   "hand-drawn"
+  ],
+  "by": "poster",
+  "note": "크라프트지 종이 꽃 콜라주",
+  "date": "2026-10-19"
+ },
+ "gh:1234lust-671954": {
+  "tones": [
+   "ascii"
+  ],
+  "by": "x-frames8",
+  "note": "코드 에디터 줄 위를 뛰는 무스",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:superalesha-970412": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "x-frames8",
+  "note": "평면 채색 쥐 캐릭터 동화풍 애니",
+  "date": "2026-10-19",
+  "confidence": "mid"
+ },
+ "gh:engmoelgaraihy-694832": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "x-frames8",
+  "note": "일본풍 강 배 사실적 3D 풍경",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:perezalexa23-414045": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "그리스 항아리 트로이 목마",
+  "date": "2026-10-19"
+ },
+ "gh:meetarno-782464": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "x-frames8",
+  "note": "다크 앱 UI 카드와 큰 카피 문구",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:fanfulladev-063524": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "x-frames8",
+  "note": "레트로 게임 도트 캐릭터 대결",
+  "date": "2026-10-19",
+  "confidence": "high"
+ },
+ "gh:gdgtify-130294": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "짙은 녹색 바탕 세리프 문구와 세로 굵은 단어, 흐르는 선",
+  "date": "2026-10-21",
+  "confidence": "mid"
+ },
+ "gh:sudo-kiran-670892": {
+  "tones": [
+   "cinematic-3d",
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "어두운 공간에 비스듬히 놓인 종이 한 장, 작은 세리프 문구",
+  "date": "2026-10-21",
+  "confidence": "low"
+ },
+ "cv:showreel-opens-on-a-bold-decision-title-card": {
+  "tones": [
+   "kinetic-type",
+   "particle"
+  ],
+  "by": "frames4",
+  "note": "쇼릴: 큰 굵은 단어, 빨간 점 줄, 입자 구, 줄무늬 원",
+  "date": "2026-10-21",
+  "confidence": "high"
+ },
+ "cv:resume-showreel-radiates-a-dashed-particle-burst": {
+  "tones": [
+   "kinetic-type",
+   "particle"
+  ],
+  "by": "frames4",
+  "note": "주황 바탕 굵은 CLAUDE 타이포, 선 입자 폭발, 점 도형",
+  "date": "2026-10-21",
+  "confidence": "high"
+ },
+ "cv:plush-koala-mascot-introduces-an-ai-agent-platform": {
+  "tones": [
+   "minimal-ui",
+   "clay"
+  ],
+  "by": "frames4",
+  "note": "어두운 바탕 3D 코알라 마스코트와 AI 기능 아이콘·큐브",
+  "date": "2026-10-21",
+  "confidence": "mid"
+ },
+ "cv:kinetic-10-frame-with-cap-height-and-ease-curve-overlay": {
+  "tones": [
+   "kinetic-type",
+   "particle"
+  ],
+  "by": "frames4",
+  "note": "쇼릴: 장마다 다른 기법(입자·액체 숫자·손그림 숫자), 이징 곡선 오버레이",
+  "date": "2026-10-21",
+  "confidence": "mid"
+ },
+ "cv:motion-showreel-tiles-bold-move-kinetic-type": {
+  "tones": [
+   "kinetic-type",
+   "voxel"
+  ],
+  "by": "frames4",
+  "note": "빨강·크림 굵은 MAKE, 원, 입자 은하, 아이소메트릭 블록",
+  "date": "2026-10-21",
+  "confidence": "high"
+ },
+ "cv:omarchy-showreel-showcases-dozens-of-color-palettes": {
+  "tones": [
+   "ascii",
+   "neon"
+  ],
+  "by": "frames4",
+  "note": "터미널 테마 전환, 미로형 사각 도형이 색 팔레트마다 바뀜",
+  "date": "2026-10-21",
+  "confidence": "mid"
+ },
+ "cv:claude-motion-reel-moves-from-a-bouncing-dot-to-a-particle": {
+  "tones": [
+   "kinetic-type",
+   "particle"
+  ],
+  "by": "frames4",
+  "note": "주황 바탕 흐려지는 굵은 글자, 기하 패턴 타일, 선 입자",
+  "date": "2026-10-21",
+  "confidence": "high"
+ },
+ "cv:deep-dish-music-video-rendered-in-ballpoint-pen-style": {
+  "tones": [
+   "collage",
+   "hand-drawn"
+  ],
+  "by": "frames4",
+  "note": "볼펜 스케치 배경과 흑백 인물 사진 콜라주, 오려 붙인 글자",
+  "date": "2026-10-21",
+  "confidence": "high",
+  "flags": [
+   "실자료",
+   "AI이미지"
+  ]
+ },
+ "cv:mounis-app-launch-mocks-up-a-hajj-guidance-screen": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames4",
+  "note": "어두운 바탕 폰 목업과 세리프 문구, 원형 점 로더",
+  "date": "2026-10-21",
+  "confidence": "high"
+ },
+ "cv:cartoon-agent-at-a-desk-acts-out-a-claude-code-session": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames4",
+  "note": "책상 앞 사각 얼굴 캐릭터가 연기하는 만화 장면",
+  "date": "2026-10-21",
+  "confidence": "high"
+ },
+ "cv:portfolio-showreel-displays-past-projects-behind-red-tape": {
+  "tones": [
+   "editorial",
+   "kinetic-type"
+  ],
+  "by": "frames4",
+  "note": "흰 바탕 큰 굵은 글자와 패션·인물 사진, 노트북 목업",
+  "date": "2026-10-21",
+  "confidence": "mid",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "cv:faint-ai-paper-titles-frame-a-1-000-stat": {
+  "tones": [
+   "editorial",
+   "cinematic-3d"
+  ],
+  "by": "frames4",
+  "note": "검은 바탕 흐린 논문 제목 줄과 선 구체, 세리프 큰 문구",
+  "date": "2026-10-21",
+  "confidence": "low"
+ },
+ "cv:resume-showreel-sparks-into-a-no-price-reveal": {
+  "tones": [
+   "particle",
+   "hud"
+  ],
+  "by": "frames4",
+  "note": "검은 바탕 주황 입자 무리와 HUD 숫자 카드",
+  "date": "2026-10-21",
+  "confidence": "high"
+ },
+ "cv:pink-kinetic-type-reel-spelling-development-through-a-lens": {
+  "tones": [
+   "kinetic-type",
+   "minimal-ui"
+  ],
+  "by": "frames4",
+  "note": "분홍 바탕 굵은 DESIGN, 도형 패턴, 흰 UI 화면",
+  "date": "2026-10-21",
+  "confidence": "high"
+ },
+ "cv:app-launch-reel-shows-the-orglet-agent-dashboard": {
+  "tones": [
+   "minimal-ui",
+   "cartoon"
+  ],
+  "by": "frames4",
+  "note": "밝은 바탕 AI 직원 캐릭터와 채팅·보고서 UI 카드",
+  "date": "2026-10-21",
+  "confidence": "high"
+ },
+ "cv:colorful-ui-cards-list-club-celebration-options": {
+  "tones": [
+   "minimal-ui",
+   "neon"
+  ],
+  "by": "frames4",
+  "note": "어두운 자홍 바탕 음량 막대, 폰 UI, 목록 문구",
+  "date": "2026-10-21",
+  "confidence": "mid"
+ },
+ "cv:citation-dossier-interface-for-the-research-tool-citegraph": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "frames4",
+  "note": "크림 바탕 세리프 질문 문구와 답변 목록 UI",
+  "date": "2026-10-21",
+  "confidence": "high"
+ },
+ "cv:max-effort-showreel-opens-on-a-blue-polka-dot-pattern": {
+  "tones": [
+   "kinetic-type",
+   "cinematic-3d"
+  ],
+  "by": "frames4",
+  "note": "주황 바탕 굵은 HELLO, 파란 바탕 입자, 3D 기본 도형",
+  "date": "2026-10-21",
+  "confidence": "mid"
+ },
+ "cv:code-editor-mockup-shows-an-approved-ai-edit": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "frames4",
+  "note": "어두운 코드 편집기·폰 UI와 주황 강조 굵은 문구",
+  "date": "2026-10-21",
+  "confidence": "high"
+ },
+ "cv:cluttered-email-thread-highlights-a-buried-answer": {
+  "tones": [
+   "minimal-ui",
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "흰 바탕 메일 스레드 카드와 연결선, 흩어지는 점",
+  "date": "2026-10-21",
+  "confidence": "high"
+ },
+ "cv:self-branded-reel-spelling-out-i-make-in-bold-type": {
+  "tones": [
+   "kinetic-type",
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "빨강·파랑·노랑 바탕 굵은 글자, 카드, 큰 숫자 통계",
+  "date": "2026-10-21",
+  "confidence": "high"
+ },
+ "cv:10-second-showreel-built-around-one-giant-orange-circle": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "frames4",
+  "note": "주황·파랑 바탕 가변 글꼴 타이포, 원, 막대, 앰퍼샌드",
+  "date": "2026-10-21",
+  "confidence": "high"
+ },
+ "cv:kinetic-emotion-typography-pulses-on-orange": {
+  "tones": [
+   "kinetic-type",
+   "voxel"
+  ],
+  "by": "frames4",
+  "note": "주황 바탕 글리치 MOTION, 원색 도형, 입자, 아이소메트릭 격자",
+  "date": "2026-10-21",
+  "confidence": "mid"
+ },
+ "cv:showreel-dashboard-breaks-down-its-own-frame-rate-stats": {
+  "tones": [
+   "particle",
+   "hud"
+  ],
+  "by": "frames4",
+  "note": "프레임 통계 대시보드형 쇼릴, 세리프 I, 별 도형, 점 토러스",
+  "date": "2026-10-21",
+  "confidence": "mid"
+ },
+ "cv:personal-intro-reel-shows-a-half-cyborg-portrait-and-bold": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames4",
+  "note": "세로 화면, 연기 배경 굵은 주황 숫자와 반 사이보그 인물",
+  "date": "2026-10-21",
+  "confidence": "mid",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "cv:particles-assemble-the-word-code-on-black": {
+  "tones": [
+   "kinetic-type",
+   "cinematic-3d"
+  ],
+  "by": "frames4",
+  "note": "굵은 MOTION, 꽃 모양 도형, 3D 타일 바닥, 빨간 세리프 Weight",
+  "date": "2026-10-21",
+  "confidence": "mid"
+ },
+ "cv:second-resume-showreel-take-shown-on-a-desk-monitor": {
+  "tones": [],
+  "by": "frames4",
+  "note": "해당 없음: 책상 모니터 화면을 휴대폰으로 찍은 실사 영상",
+  "date": "2026-10-21",
+  "confidence": "high"
+ },
+ "cv:based-agency-showreel-flows-red-script-style-type": {
+  "tones": [
+   "kinetic-type",
+   "minimal-ui"
+  ],
+  "by": "frames4",
+  "note": "빨강 바탕 굵은 GROWTH, 검색 순위·차트 UI 카드",
+  "date": "2026-10-21",
+  "confidence": "high"
+ },
+ "cv:resume-showreel-demos-a-grid-and-stagger-dot-animation": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames4",
+  "note": "어두운 적색 바탕 그래프 편집기 오버레이, 굵은 PURPOSE, 선 큐브",
+  "date": "2026-10-21",
+  "confidence": "mid"
+ },
+ "lo:news-package": {
+  "tones": [
+   "infographic",
+   "kinetic-type"
+  ],
+  "by": "frames4",
+  "note": "검은 바탕 노란 띠의 방송 뉴스 그래픽, 꺾은선 차트",
+  "date": "2026-10-24",
+  "confidence": "mid",
+  "flags": [
+   "실존"
+  ]
+ },
+ "lo:archive-lighttable": {
+  "tones": [
+   "old-film",
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "라이트테이블 위 옛 흑백 사진·전보를 확대경으로 읽음",
+  "date": "2026-10-24",
+  "confidence": "low",
+  "flags": [
+   "실자료",
+   "실존"
+  ]
+ },
+ "lo:shadow-puppet": {
+  "tones": [
+   "stop-motion"
+  ],
+  "by": "frames4",
+  "note": "뒤에서 등불을 비춘 천 막의 색 그림자 인형극",
+  "date": "2026-10-24",
+  "confidence": "low",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:silkscreen-poster": {
+  "tones": [
+   "printmaking"
+  ],
+  "by": "frames4",
+  "note": "나무 작업대 위 실크스크린 산악 여행 포스터",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:dataviz": {
+  "tones": [
+   "infographic",
+   "hand-drawn"
+  ],
+  "by": "frames4",
+  "note": "크림 종이에 색연필이 그리는 여름 기온 꺾은선",
+  "date": "2026-10-24",
+  "confidence": "high"
+ },
+ "lo:midcentury-toon": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames4",
+  "note": "1950년대풍 평면 만화로 보여 주는 로봇청소기 설치 안내",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:paper-popup": {
+  "tones": [
+   "cartoon",
+   "stop-motion"
+  ],
+  "by": "frames4",
+  "note": "책상 위 팝업북, 흰 테두리 종이 인형과 무대",
+  "date": "2026-10-24",
+  "confidence": "mid",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "ms:04-3d-render": {
+  "tones": [
+   "chrome",
+   "clay"
+  ],
+  "by": "frames4",
+  "note": "구슬 바닥 위로 튀는 분홍 풍선 글자와 크롬 공",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "ms:20-pixel": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "frames4",
+  "note": "횡스크롤 게임 화면의 8비트 픽셀 숲 풍경",
+  "date": "2026-10-24",
+  "confidence": "high"
+ },
+ "lo:caption-news": {
+  "tones": [
+   "kinetic-type",
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "실사 화면 위 노란 강조 큰 자막과 숫자 뉴스",
+  "date": "2026-10-24",
+  "confidence": "mid",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "lo:satellite-briefing": {
+  "tones": [
+   "infographic",
+   "hud"
+  ],
+  "by": "frames4",
+  "note": "회색 위성사진 위 가는 흰 측정선과 수치",
+  "date": "2026-10-24",
+  "confidence": "mid",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "lo:crayon-book": {
+  "tones": [
+   "hand-drawn"
+  ],
+  "by": "frames4",
+  "note": "크레용으로 그린 그림책 장면, 달과 집",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:ukiyoe": {
+  "tones": [
+   "printmaking"
+  ],
+  "by": "frames4",
+  "note": "목판화풍 산·다리·파도 풍경 판화 장면",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:swiss-motion": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames4",
+  "note": "격자 위 스위스풍 포스터 타이포, 빨간 원 포인트",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "lo:iso-infographic": {
+  "tones": [
+   "infographic",
+   "cutaway"
+  ],
+  "by": "frames4",
+  "note": "아이소메트릭 평면 블록 디오라마, 농장·항구·커피",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "lo:pixel-rpg": {
+  "tones": [
+   "pixel"
+  ],
+  "by": "frames4",
+  "note": "16비트풍 픽셀 RPG 대화창 장면",
+  "date": "2026-10-24",
+  "confidence": "high"
+ },
+ "lo:tilt-shift": {
+  "tones": [
+   "voxel"
+  ],
+  "by": "frames4",
+  "note": "틸트시프트로 내려다본 장난감 같은 3D 도시",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "ms:08-morph": {
+  "tones": [
+   "infographic",
+   "editorial"
+  ],
+  "by": "frames4",
+  "note": "단색 바탕 평면 아이콘이 다른 모양으로 변형",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "ms:07-liquid": {
+  "tones": [
+   "chrome",
+   "kinetic-type"
+  ],
+  "by": "frames4",
+  "note": "보라 바탕 광택 젤리 물방울이 튀고 글자로 맺힘",
+  "date": "2026-10-24",
+  "confidence": "low"
+ },
+ "lo:newsreel": {
+  "tones": [
+   "old-film"
+  ],
+  "by": "frames4",
+  "note": "흑백 기록 영상과 옛 신문, 장식 테두리 제목 카드",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "실자료",
+   "실존"
+  ]
+ },
+ "lo:briefing-board": {
+  "tones": [
+   "whiteboard",
+   "collage"
+  ],
+  "by": "frames4",
+  "note": "화이트보드 위 다리 사진 오림과 파란 마커 치수선",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "lo:watercolor": {
+  "tones": [
+   "hand-drawn",
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "수채 붓질로 그린 자연 기록장, 강수량 눈금과 지도",
+  "date": "2026-10-24",
+  "confidence": "mid",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:papercut-red": {
+  "tones": [
+   "collage"
+  ],
+  "by": "frames4",
+  "note": "붉은 종이 오림 마을과 창살, 그림자 진 오림 조각",
+  "date": "2026-10-24",
+  "confidence": "mid",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:spy-titles": {
+  "tones": [
+   "kinetic-type",
+   "collage"
+  ],
+  "by": "frames4",
+  "note": "오린 종이 큰 글자 세트 사이를 달리는 실루엣",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "lo:dark-keynote": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames4",
+  "note": "어두운 바탕 앱 화면에 쏟아지는 알림·파일 카드",
+  "date": "2026-10-24",
+  "confidence": "high"
+ },
+ "lo:hd-2d": {
+  "tones": [
+   "cinematic-3d",
+   "pixel"
+  ],
+  "by": "frames4",
+  "note": "밤바다 등대 마을 3D 디오라마와 도트 인물",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "lo:lowpoly-island": {
+  "tones": [
+   "voxel",
+   "cinematic-3d"
+  ],
+  "by": "frames4",
+  "note": "육각 타일 저폴리 섬에 하나씩 솟는 집과 등대",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "ms:19-paperclip": {
+  "tones": [
+   "infographic",
+   "collage"
+  ],
+  "by": "frames4",
+  "note": "주기율표·세계지도·큰 숫자, 흰 테 사진 스티커",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "ms:18-hanazi": {
+  "tones": [
+   "collage",
+   "kinetic-type"
+  ],
+  "by": "frames4",
+  "note": "세로 고양이 사진 위 두꺼운 외곽선 예능 자막",
+  "date": "2026-10-24",
+  "confidence": "low",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "lo:countdown": {
+  "tones": [],
+  "by": "frames4",
+  "note": "해당 없음: 실제 발사 중계 분할 화면과 주황 카운트다운",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "실자료",
+   "실존"
+  ]
+ },
+ "lo:lidar-survey": {
+  "tones": [
+   "particle",
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "점군 숲이 지형 표면으로 바뀌고 돌담을 재는 장면",
+  "date": "2026-10-24",
+  "confidence": "mid",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "lo:ink-wash": {
+  "tones": [
+   "ink"
+  ],
+  "by": "frames4",
+  "note": "한지 위 먹선 산수와 물을 가르는 삿갓 검객",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:paper-lantern": {
+  "tones": [],
+  "by": "frames4",
+  "note": "해당 없음: 뒤에서 빛나는 겹종이 오림 상자, 달과 밤 도시",
+  "date": "2026-10-24",
+  "confidence": "mid",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:art-deco": {
+  "tones": [],
+  "by": "frames4",
+  "note": "해당 없음: 검은 바탕 금색 기하 선의 1930년대 호텔 포스터",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "lo:living-screencast": {
+  "tones": [
+   "minimal-ui",
+   "pixel"
+  ],
+  "by": "frames4",
+  "note": "밝은 앱 화면 위를 돌아다니는 픽셀 마스코트 시연",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "실존"
+  ]
+ },
+ "lo:microgame": {
+  "tones": [
+   "cartoon",
+   "printmaking"
+  ],
+  "by": "frames4",
+  "note": "쇼릴: 판마다 화풍이 바뀌는 우주인 미니게임",
+  "date": "2026-10-24",
+  "confidence": "mid",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:glass-product": {
+  "tones": [
+   "cinematic-3d",
+   "chrome"
+  ],
+  "by": "frames4",
+  "note": "어두운 스튜디오에서 빛나는 유리 이어폰 렌더",
+  "date": "2026-10-24",
+  "confidence": "high"
+ },
+ "ms:22-hud": {
+  "tones": [
+   "hud"
+  ],
+  "by": "frames4",
+  "note": "청록 선 지구본 레이더와 주황 표적 고정 HUD",
+  "date": "2026-10-24",
+  "confidence": "high"
+ },
+ "lo:city-symphony": {
+  "tones": [],
+  "by": "frames4",
+  "note": "해당 없음: 실사 도시 타임랩스 몽타주와 가는 숫자 자막",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "실자료",
+   "실존"
+  ]
+ },
+ "lo:white-model": {
+  "tones": [
+   "infographic",
+   "cinematic-3d"
+  ],
+  "by": "frames4",
+  "note": "어두운 방 흰 도시 모형 위에 연도별 데이터 빛을 투사",
+  "date": "2026-10-24",
+  "confidence": "mid",
+  "flags": [
+   "실자료",
+   "실존"
+  ]
+ },
+ "lo:impasto": {
+  "tones": [],
+  "by": "frames4",
+  "note": "해당 없음: 비 오는 거리의 두꺼운 유화 붓질 장면",
+  "date": "2026-10-24",
+  "confidence": "mid",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:risograph": {
+  "tones": [
+   "printmaking"
+  ],
+  "by": "frames4",
+  "note": "별색 잉크가 겹쳐 찍힌 자전거 타는 사람의 마을",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:blueprint": {
+  "tones": [
+   "blueprint"
+  ],
+  "by": "frames4",
+  "note": "감색 도면 위 흰 선으로 그려지는 기계 장치와 메모",
+  "date": "2026-10-24",
+  "confidence": "high"
+ },
+ "lo:hologram-hud": {
+  "tones": [
+   "hud"
+  ],
+  "by": "frames4",
+  "note": "어두운 바탕 청록 발광 와이어프레임 자전거 사양 스캔",
+  "date": "2026-10-24",
+  "confidence": "high"
+ },
+ "lo:game-show": {
+  "tones": [
+   "cartoon",
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "줄무늬 바탕 굵은 외곽선 마스코트의 연표 퀴즈쇼",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "실존",
+   "AI이미지"
+  ]
+ },
+ "ms:05-cel-boil": {
+  "tones": [
+   "hand-drawn",
+   "cartoon"
+  ],
+  "by": "frames4",
+  "note": "종이 질감 위 떨리는 잉크선, 성냥불 캐릭터",
+  "date": "2026-10-24",
+  "confidence": "high"
+ },
+ "ms:06-collage": {
+  "tones": [
+   "collage"
+  ],
+  "by": "frames4",
+  "note": "흑백 인물 사진 오리기와 신문 조각 콜라주",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "lo:visual-investigation": {
+  "tones": [
+   "infographic",
+   "hud"
+  ],
+  "by": "frames4",
+  "note": "검은 바탕 사고 조사 보드, 기록 사진과 시각 표시",
+  "date": "2026-10-24",
+  "confidence": "mid",
+  "flags": [
+   "실자료",
+   "실존"
+  ]
+ },
+ "lo:data-physical": {
+  "tones": [
+   "cinematic-3d",
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "나무 원판 위 판재를 쌓은 3D 데이터 막대 비교",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "lo:one-line": {
+  "tones": [
+   "hand-drawn",
+   "whiteboard"
+  ],
+  "by": "frames4",
+  "note": "따뜻한 종이 위 끊기지 않는 한 줄 펜 드로잉",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "lo:halftone-dossier": {
+  "tones": [
+   "printmaking",
+   "cartoon"
+  ],
+  "by": "frames4",
+  "note": "망점 인쇄 질감의 고양이 사건 파일 만화",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:stained-glass": {
+  "tones": [],
+  "by": "frames4",
+  "note": "해당 없음: 어두운 석조 홀의 스테인드글라스 창 이야기",
+  "date": "2026-10-24",
+  "confidence": "high"
+ },
+ "lo:rubber-hose": {
+  "tones": [
+   "cartoon",
+   "old-film"
+  ],
+  "by": "frames4",
+  "note": "흑백 고무호스 팔 주방 사물 캐릭터 만화",
+  "date": "2026-10-24",
+  "confidence": "high"
+ },
+ "lo:silent-film": {
+  "tones": [
+   "old-film",
+   "printmaking"
+  ],
+  "by": "frames4",
+  "note": "커튼 사이 흑백 무성영화, 해칭 그림 거리 소동",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "ms:03-isometric": {
+  "tones": [
+   "voxel"
+  ],
+  "by": "frames4",
+  "note": "연보라 아이소메트릭 미니어처 도시가 쌓여 감",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "ms:12-aurora-glass": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames4",
+  "note": "번지는 색빛 바탕 위 반투명 유리 카드 앱 화면",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "lo:kino-montage": {
+  "tones": [
+   "collage",
+   "kinetic-type"
+  ],
+  "by": "frames4",
+  "note": "흑백 기록사진·문서 위 붉은 큰 숫자 몽타주",
+  "date": "2026-10-24",
+  "confidence": "mid",
+  "flags": [
+   "실자료",
+   "실존"
+  ]
+ },
+ "lo:teardown": {
+  "tones": [
+   "cinematic-3d",
+   "cutaway"
+  ],
+  "by": "frames4",
+  "note": "어두운 공간의 키보드 3D 분해, 기판·치수선",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "실존",
+   "실자료"
+  ]
+ },
+ "lo:whiteboard": {
+  "tones": [
+   "whiteboard"
+  ],
+  "by": "frames4",
+  "note": "흰 보드에 떠 있는 마커가 그리는 위성·시계 설명",
+  "date": "2026-10-24",
+  "confidence": "high"
+ },
+ "lo:woodcut": {
+  "tones": [
+   "printmaking"
+  ],
+  "by": "frames4",
+  "note": "검은 목판에 새긴 선의 동화 장면, 붉은 한 색",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:pictogram-motion": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames4",
+  "note": "기하 패턴 바탕의 종목 픽토그램과 큰 글자 카드",
+  "date": "2026-10-24",
+  "confidence": "mid",
+  "flags": [
+   "실존"
+  ]
+ },
+ "lo:cel-anime-80s": {
+  "tones": [
+   "anime"
+  ],
+  "by": "frames4",
+  "note": "셀화풍 여성 라이더가 새벽 로켓 발사로 달리는 장면",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:backrooms": {
+  "tones": [
+   "old-film"
+  ],
+  "by": "frames4",
+  "note": "캠코더 녹화풍 노란 빈 복도, REC·날짜 표시",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "ms:01-flat-vector": {
+  "tones": [
+   "cartoon",
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "평면 벡터 도시·책상 앞 인물, 원색 큰 색면",
+  "date": "2026-10-24",
+  "confidence": "mid",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "ms:09-bauhaus": {
+  "tones": [
+   "infographic",
+   "editorial"
+  ],
+  "by": "frames4",
+  "note": "크림 격자 위 원·삼각·사각 원색 구성",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "lo:telestrator": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "실제 축구 중계 화면 위 노란 화살표·원 분석 표시",
+  "date": "2026-10-24",
+  "confidence": "low",
+  "flags": [
+   "실자료",
+   "실존"
+  ]
+ },
+ "lo:microscope": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "염색 조직 현미경 사진을 확대하며 수치를 표시",
+  "date": "2026-10-24",
+  "confidence": "low",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "lo:urban-sketch": {
+  "tones": [
+   "hand-drawn"
+  ],
+  "by": "frames4",
+  "note": "세피아 펜선 위 수채 번짐, 공원과 도시 스케치",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:engraving": {
+  "tones": [
+   "printmaking"
+  ],
+  "by": "frames4",
+  "note": "동판화풍 꿀벌 도해, 확대 원형 삽도와 주석",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:ascii-crt": {
+  "tones": [
+   "ascii"
+  ],
+  "by": "frames4",
+  "note": "호박색 CRT 터미널 글자, 글자로 그린 지구",
+  "date": "2026-10-24",
+  "confidence": "high"
+ },
+ "lo:scifi-toon": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames4",
+  "note": "굵은 외곽선 성인 시트콤풍 과학자 2D 만화",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:brick-toy": {
+  "tones": [
+   "stop-motion"
+  ],
+  "by": "frames4",
+  "note": "책상 위 장난감 블록으로 로켓을 쌓는 접사 장면",
+  "date": "2026-10-24",
+  "confidence": "high",
+  "flags": [
+   "실존"
+  ]
+ },
+ "ms:02-line-art": {
+  "tones": [
+   "neon"
+  ],
+  "by": "frames4",
+  "note": "남색 바탕 금색 한 줄 선이 식물·도시·로고로 이어짐",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "ms:10-synthwave": {
+  "tones": [
+   "neon",
+   "chrome"
+  ],
+  "by": "frames4",
+  "note": "보라 네온 격자 도로와 석양, 크롬 제목 글자",
+  "date": "2026-10-24",
+  "confidence": "mid"
+ },
+ "pn:torn-paper-safari": {
+  "tones": [
+   "collage",
+   "stop-motion"
+  ],
+  "by": "frames-all",
+  "note": "찢은 종이 풍경에 동물·라디오 사진 조각, 만화경 터널, 12fps 끊김",
+  "date": "2026-11-10",
+  "confidence": "high",
+  "flags": [
+   "실자료",
+   "실존"
+  ]
+ },
+ "pn:paper-highlight-text": {
+  "tones": [
+   "collage",
+   "kinetic-type"
+  ],
+  "by": "frames-all",
+  "note": "흰 종이 바탕, 흑백 건물 사진 조각, 형광펜 막대와 한 단어씩 나오는 본문",
+  "date": "2026-11-10",
+  "confidence": "mid"
+ },
+ "pn:cutout-farm-story": {
+  "tones": [
+   "collage",
+   "stop-motion"
+  ],
+  "by": "frames-all",
+  "note": "촬영 인물을 흰 테두리로 오려 붙인 광고, 장면마다 다른 종이 전환",
+  "date": "2026-11-10",
+  "confidence": "high",
+  "flags": [
+   "실자료",
+   "실존"
+  ]
+ },
+ "am:01-svg-ink": {
+  "tones": [
+   "ink"
+  ],
+  "by": "poster",
+  "note": "한지 위 먹 번짐 산수, 먹방울과 낙관",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:02-css-popup": {
+  "tones": [
+   "stop-motion",
+   "collage"
+  ],
+  "by": "poster",
+  "note": "책상 위 팝업북에서 종이 마을이 접혀 일어섬",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:03-coral-growth": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 바닷속에서 가지가 자라는 절차적 생성(산호)",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:04-sketch-diagram": {
+  "tones": [
+   "hand-drawn",
+   "whiteboard"
+  ],
+  "by": "poster",
+  "note": "스케치북 위 떨리는 손그림 도해와 손글씨",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:05-fbm-nebula": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "검은 별밭에 번지는 보라·청록 성운 가스",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:06-aurora-raymarch": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "밤 호숫가 하늘의 초록 오로라 커튼",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:07-sdf-planet": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "어두운 우주의 고리 행성, 고리 그림자",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:08-caustics": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 수영장 바닥 타일 위 빛 그물(굴절 코스틱)",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:09-gpu-galaxy": {
+  "tones": [
+   "particle"
+  ],
+  "by": "poster",
+  "note": "점 20만 개로 그린 나선은하",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:10-curl-flow": {
+  "tones": [
+   "particle"
+  ],
+  "by": "poster",
+  "note": "남색 어둠 속 연기선 입자의 흐름",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:11-reaction-diffusion": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 어두운 바닥에 스스로 자라는 미로 무늬(반응-확산)",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:12-stable-fluids": {
+  "tones": [
+   "ink"
+  ],
+  "by": "poster",
+  "note": "어두운 물속에 퍼지는 자홍·청록 잉크 구름",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:13-glass-jellyfish": {
+  "tones": [
+   "glass",
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "어두운 물속 빛줄기와 발광하는 유리 해파리",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:14-instanced-coral": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "물속 산호초, 수천 개 폴립이 피어남",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:15-geo-globe": {
+  "tones": [
+   "infographic",
+   "hud"
+  ],
+  "by": "poster",
+  "note": "밤 지구본 위 항로 호와 거리 숫자",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:16-rapier-marbles": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 나무 틀 핀 사이로 쏟아지는 구슬(강체 물리)",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:17-hangul-particles": {
+  "tones": [
+   "particle",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "별 입자가 모여 글자가 됨",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:18-watercolor": {
+  "tones": [
+   "ink",
+   "hand-drawn"
+  ],
+  "by": "poster",
+  "note": "수채화지에 번지는 물감, 가장자리 고임",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:19-impasto": {
+  "tones": [
+   "hand-drawn"
+  ],
+  "by": "poster",
+  "note": "캔버스에 두껍게 쌓인 유화 붓질",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:20-woodcut": {
+  "tones": [
+   "printmaking"
+  ],
+  "by": "poster",
+  "note": "흑백 목판화 파도, 판목과 찍힌 종이",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:21-risograph": {
+  "tones": [
+   "printmaking"
+  ],
+  "by": "poster",
+  "note": "분홍·파랑 2도 망점 인쇄, 판 어긋남",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:22-super8": {
+  "tones": [
+   "old-film"
+  ],
+  "by": "poster",
+  "note": "8mm 영사 화면, 먼지·깜빡임·할레이션",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:23-vhs": {
+  "tones": [
+   "old-film"
+  ],
+  "by": "poster",
+  "note": "브라운관 속 VHS 화면, 색 번짐과 트래킹 줄",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:24-paper-stopmotion": {
+  "tones": [
+   "stop-motion",
+   "collage"
+  ],
+  "by": "poster",
+  "note": "오린 종이 밤바다와 돛배, 12fps 끊김",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:25-charcoal": {
+  "tones": [
+   "hand-drawn"
+  ],
+  "by": "poster",
+  "note": "결 있는 종이에 목탄 정물, 문지름 자국",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:26-engraving": {
+  "tones": [
+   "printmaking"
+  ],
+  "by": "poster",
+  "note": "동판 해칭 선으로 새긴 달",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:27-marbling": {
+  "tones": [
+   "ink"
+  ],
+  "by": "poster",
+  "note": "물 위에 빗질한 마블링 무늬(빨강·남색·노랑)",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:28-webgpu-particles": {
+  "tones": [
+   "particle"
+  ],
+  "by": "poster",
+  "note": "입자 100만 개 은하 두 개의 충돌",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:29-audio-sync": {
+  "tones": [
+   "neon"
+  ],
+  "by": "poster",
+  "note": "어둠 속 소리에 맞춰 피는 발광 선 꽃",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:30-kinetic-type": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "남색 바탕, 음절마다 굵기가 변하는 글자",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:31-ik-character": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "poster",
+  "note": "뼈대로 움직이는 평면 캐릭터가 별에 손을 뻗음",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:32-dataviz-motion": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "poster",
+  "note": "막대 순위 → 산키 → 지도로 바뀌는 데이터 그림",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:33-ocean": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "노을 진 바다의 사실적 파도와 해 반사",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:34-clouds": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "큰 적운과 빛내림, 사실적 하늘",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:35-erosion": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "침식으로 골이 팬 산 지형",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:36-cloth": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "어두운 스튜디오에서 나부끼는 진홍 비단",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:37-fracture": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 밤 창유리가 금 가고 조각나 떨어짐(파괴 물리)",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:38-murmuration": {
+  "tones": [
+   "particle"
+  ],
+  "by": "poster",
+  "note": "노을 하늘의 새 떼 수천 마리 군무",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:39-thin-film": {
+  "tones": [
+   "chrome"
+  ],
+  "by": "poster",
+  "note": "비눗방울 막의 무지개 간섭색",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:40-prism": {
+  "tones": [
+   "chrome",
+   "glass"
+  ],
+  "by": "poster",
+  "note": "어두운 방 유리 프리즘과 무지개 분산",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:41-deep-zoom": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 맨델브로트 프랙털 딥 줌",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:42-calligraphy": {
+  "tones": [
+   "ink"
+  ],
+  "by": "poster",
+  "note": "화선지에 큰 붓으로 쓰는 한 글자, 비백과 번짐",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:43-darkroom": {
+  "tones": [
+   "old-film"
+  ],
+  "by": "poster",
+  "note": "붉은 안전등 암실 트레이에서 떠오르는 흑백 사진",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:44-polaroid": {
+  "tones": [
+   "old-film"
+  ],
+  "by": "poster",
+  "note": "즉석 사진이 서서히 색을 얻음",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:45-stained-glass": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "어두운 예배당 장미창과 바닥에 맺힌 색 빛",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:46-letterpress": {
+  "tones": [
+   "printmaking",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "종이에 눌러 찍힌 빨간 활판 글자",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:47-embroidery": {
+  "tones": [
+   "stop-motion"
+  ],
+  "by": "poster",
+  "note": "수틀의 리넨에 한 땀씩 놓이는 자수 꽃",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:48-scratch-art": {
+  "tones": [
+   "hand-drawn"
+  ],
+  "by": "poster",
+  "note": "검은 스크래치 보드를 긁어 드러나는 무지개 선 그림",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:49-zoetrope": {
+  "tones": [
+   "old-film",
+   "stop-motion"
+  ],
+  "by": "poster",
+  "note": "돌아가는 조이트로프 틈새로 보이는 달리는 말",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:50-neon": {
+  "tones": [
+   "neon",
+   "cyberpunk"
+  ],
+  "by": "poster",
+  "note": "비 온 밤 벽돌 벽의 네온사인과 젖은 바닥 반사",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:51-topo-type": {
+  "tones": [
+   "kinetic-type",
+   "blueprint"
+  ],
+  "by": "poster",
+  "note": "지형도 등고선으로 그린 글자",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:52-parametric-hangul": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "크림 종이 위 획 골격으로 만든 한글, 설계 눈금",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:53-swiss-grid": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "스위스 양식 포스터, 격자에 맞춰 폭이 변하는 글자",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:54-title-sequence": {
+  "tones": [
+   "collage",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "가위로 오린 듯한 제목 글자, 12fps 타이틀",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:55-truchet-type": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "크기 다른 트루셰 타일로 짠 글자",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:56-ribbon-text": {
+  "tones": [
+   "kinetic-type",
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "어두운 3D 공간을 흐르는 금빛 글자 띠",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:57-quilling-type": {
+  "tones": [
+   "stop-motion",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "세운 종이 띠(퀼링)로 만든 글자",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:58-pixel-sort": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 노을 포스터가 픽셀 정렬로 녹는 글리치",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:59-glyph-mosaic": {
+  "tones": [
+   "ascii",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "굵기가 다른 글자 격자가 등대 그림이 됨",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:60-jelly-type": {
+  "tones": [
+   "clay",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "파스텔 스튜디오에 떨어지는 말랑한 젤리 글자",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:61-shadow-type": {
+  "tones": [
+   "cinematic-3d",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "입체 조형의 그림자가 방향마다 다른 글자로 읽힘",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:62-fogged-glass": {
+  "tones": [
+   "glass",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "김 서린 밤 창에 손가락으로 쓴 글자와 물방울",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:63-burning-type": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "종이가 타들어 가며 남는 글자, 불씨",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:64-caustic-type": {
+  "tones": [
+   "kinetic-type",
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "바닥에 맺힌 빛무늬(커스틱)가 글자가 됨",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:65-physarum-type": {
+  "tones": [
+   "kinetic-type",
+   "particle"
+  ],
+  "by": "poster",
+  "note": "점균 그물이 자라 글자 모양을 이룸",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:66-rain-poem": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "수반 바닥 세로쓰기 시 위로 번지는 빗방울 파문",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:67-gsap-splittext": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "밝은 에디토리얼, 줄 마스크·글자 스태거 등장",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:68-gsap-morphsvg": {
+  "tones": [
+   "editorial",
+   "infographic"
+  ],
+  "by": "poster",
+  "note": "평면 일러스트 도형이 다른 도형으로 바뀜",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:69-gsap-flip": {
+  "tones": [
+   "editorial",
+   "minimal-ui"
+  ],
+  "by": "poster",
+  "note": "카드들이 격자·원형으로 다시 놓이는 배치 전환",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:70-gsap-motionpath": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 파스텔 하늘을 경로 따라 나는 종이비행기",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:71-gsap-pixi": {
+  "tones": [
+   "chrome"
+  ],
+  "by": "poster",
+  "note": "패션 포스터가 액체 물결로 넘어감, 색 어긋남",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:72-gsap-three": {
+  "tones": [
+   "cinematic-3d",
+   "clay"
+  ],
+  "by": "poster",
+  "note": "장난감 섬 디오라마를 도는 카메라 동선",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:73-anime-stagger": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "바우하우스 포스터의 점 격자가 박자에 맞춰 퍼짐",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:74-motion-spring": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "poster",
+  "note": "폰 화면에 스프링으로 내려앉는 알림 카드",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:75-lottie-code": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "poster",
+  "note": "평면 날씨 아이콘이 차례로 바뀌는 아이콘 애니메이션",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:76-p5-tree": {
+  "tones": [
+   "hand-drawn"
+  ],
+  "by": "poster",
+  "note": "수채풍 종이 위 바람에 흔들리는 벚나무",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:77-paper-boolean": {
+  "tones": [
+   "collage",
+   "stop-motion"
+  ],
+  "by": "poster",
+  "note": "판지 극장 무대에 오려 붙인 풍경",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:78-zdog-planet": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "poster",
+  "note": "둥근 평면 의사 3D 작은 행성",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:79-matter-galton": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "poster",
+  "note": "밝은 종이 위 갈톤 보드, 분포 곡선",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:80-mojs-burst": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "poster",
+  "note": "앱 화면의 축하 버스트와 큰 숫자",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:81-babylon-greenhouse": {
+  "tones": [
+   "glass",
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "아침 정원의 유리 온실, 부드러운 그림자",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:82-tone-shapes": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 음악에 맞춰 쌓이는 바우하우스 도형 구성",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:83-css-keyframes": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: CSS 그라디언트로 그린 호숫가 일출",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:84-svg-smil": {
+  "tones": [
+   "printmaking",
+   "blueprint"
+  ],
+  "by": "poster",
+  "note": "갈색 잉크 도판의 톱니·천체 운행 장치",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:85-scroll-timeline": {
+  "tones": [
+   "infographic",
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "밝은 잡지형 긴 글, 스크롤에 맞춰 그려지는 차트",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:86-face-rig": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "poster",
+  "note": "스티커풍 캐릭터의 재채기 표정 연기",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:87-sensor-vision": {
+  "tones": [
+   "hud"
+  ],
+  "by": "poster",
+  "note": "밤 숲의 센서 화면, 동심원 스캔과 고정폭 숫자",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:88-loupe-lens": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 평면 일러스트 위 돋보기 렌즈 확대",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:89-impact-kit": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 도장 찍는 한 박자를 겹쳐 세게 만드는 임팩트",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:90-measure-hud": {
+  "tones": [
+   "infographic",
+   "hud"
+  ],
+  "by": "poster",
+  "note": "평면 일러스트 위 고도 숫자·계기 바늘·줄자",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:91-gait-cycle": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "poster",
+  "note": "눈밭을 걷는 토끼와 닭, 발자국 박자",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:92-type-acting": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "편지지 위 글자가 뜻대로 떨리고 커지고 번짐",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:93-transition-kit": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 와이프·아이리스·휩 팬·매치 컷 전환 모음",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:94-multiplane": {
+  "tones": [
+   "anime"
+  ],
+  "by": "poster",
+  "note": "새벽 대숲의 겹겹 층과 먼 불빛, 느린 카메라",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:95-closed-form-physics": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "poster",
+  "note": "식탁 위 완두콩·푸딩이 튕기고 흔들림",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:96-kinetic-camera": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "큰 글자 지도 위를 카메라가 옮겨 다님",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:97-karaoke-captions": {
+  "tones": [
+   "kinetic-type",
+   "cartoon"
+  ],
+  "by": "poster",
+  "note": "스티커풍 장면 아래 단어마다 채워지는 자막",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:98-split-flap": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "기계식 플랩 전광판 글자가 넘어감",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:99-knockout-zoom": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "뚫린 글자 속 풍경으로 들어가는 줌",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:100-echo-type": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "3색 포스터, 글자가 메아리처럼 반복되고 늘어남",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:101-marker-annotate": {
+  "tones": [
+   "whiteboard",
+   "hand-drawn"
+  ],
+  "by": "poster",
+  "note": "레시피 종이에 형광펜 줄과 손 주석이 그어짐",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:102-iso-blocks": {
+  "tones": [
+   "voxel",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "파스텔 아이소메트릭 블록이 쌓여 글자가 됨",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:103-word-swap": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "밤 포스터의 문장 한 자리에서 낱말이 바뀜",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:104-type-tunnel": {
+  "tones": [
+   "kinetic-type",
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "어두운 3D 터널을 지나가는 빛나는 글자",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:105-comic-sfx": {
+  "tones": [
+   "cartoon",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "만화 칸과 의성어 레터링, 집중선",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:106-ime-compose": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "밤의 폰 메신저 입력창에 자모가 조합됨",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:107-unroll-text": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "크림 포스터, 원·나선 경로 위에 놓인 글자",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:108-liquid-fill": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "큰 글자 안에 커피색 액체가 차오름",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:109-paper-unfold": {
+  "tones": [
+   "kinetic-type",
+   "hand-drawn"
+  ],
+  "by": "poster",
+  "note": "책상 위 접힌 쪽지가 펼쳐지며 손글씨가 드러남",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:110-sticker-peel": {
+  "tones": [
+   "collage",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "노트북 뚜껑에 붙고 말려 떼지는 다이컷 글자 스티커",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:111-chrome-sting": {
+  "tones": [
+   "chrome",
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "검은 스튜디오의 금속 입체 제목, 빛 쓸기",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:112-projection-map": {
+  "tones": [
+   "kinetic-type",
+   "neon"
+  ],
+  "by": "poster",
+  "note": "밤 골목 건물 면에 투사된 빛 글자",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:113-puffy-type": {
+  "tones": [
+   "clay",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "캔디 파스텔 풍선처럼 부푼 입체 글자",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:114-beat-type": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "먹·주홍 포스터, 박마다 바뀌는 큰 글자",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:115-marquee-tape": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "크라프트 상자를 감아 흐르는 글자 테이프",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:116-logo-reveal": {
+  "tones": [
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "새벽 남색 바탕, 도형이 모여 심벌과 워드마크가 됨",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:117-gooey-blobs": {
+  "tones": [
+   "clay",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "평면 색 액체 덩어리가 붙고 갈라지며 글자를 감쌈",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:118-dot-matrix": {
+  "tones": [
+   "pixel",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "LED 점 격자의 크기·색으로 그린 글자",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:119-iso-explainer": {
+  "tones": [
+   "infographic",
+   "voxel"
+  ],
+  "by": "poster",
+  "note": "파스텔 아이소메트릭 마을에서 흐름을 따라가는 설명",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:120-perfect-loop": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 끝과 처음이 이어지는 기하 패턴 루프",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:121-mesh-gradient": {
+  "tones": [
+   "glass",
+   "minimal-ui"
+  ],
+  "by": "poster",
+  "note": "흐르는 그라데이션 위 반투명 유리 카드",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:122-app-promo": {
+  "tones": [
+   "minimal-ui",
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "기운 폰 목업, 화면 전환·탭·기능 콜아웃",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:123-lower-thirds": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 인터뷰 화면 위 로어서드·티커·버그 방송 그래픽",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:124-shape-mascot": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "poster",
+  "note": "작화지 위 네모 마스코트의 찌그러짐과 스미어",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:125-route-map": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "poster",
+  "note": "일러스트 섬 지도 위 경로와 거리·시간",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:126-isotype": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "poster",
+  "note": "사람 기호 100개가 격자에서 무리로 재배치",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:127-before-after": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "poster",
+  "note": "어질러진 방과 정리된 방의 와이프·분할 비교",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:128-scale-zoom": {
+  "tones": [
+   "cinematic-3d",
+   "infographic"
+  ],
+  "by": "poster",
+  "note": "이슬에서 지구까지 물러나는 지수 줌, 축척 막대",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:129-timeline": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "poster",
+  "note": "크림 종이 세로 연표를 따라 내려가는 카메라",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:130-quiz-countdown": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 남색 퀴즈 화면의 카운트다운 링과 정답 공개",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:131-spotlight-focus": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 어두운 책방에서 스포트라이트와 초점으로 시선 유도",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:132-photo-parallax": {
+  "tones": [
+   "anime",
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "새벽 호숫가 그림 한 장에 깊이를 준 카메라 이동",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:133-speed-ramp": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 느려졌다 멈추는 시간과 오려낸 정지 화면",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:134-lip-sync": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "poster",
+  "note": "라디오 진행자 캐릭터의 입 모양 립싱크",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:135-chat-thread": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "poster",
+  "note": "메신저 대화창에 말풍선이 쌓이고 스크롤됨",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:136-color-grade": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 같은 골목 그림을 세 가지 색 보정으로 바꿈",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:137-pen-write-on": {
+  "tones": [
+   "hand-drawn",
+   "whiteboard"
+  ],
+  "by": "poster",
+  "note": "점 노트에 만년필이 획순대로 쓰는 손글씨",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:138-variety-captions": {
+  "tones": [
+   "cartoon",
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "만화 장면 위 겹 테두리 예능 자막과 집중선",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:139-text-behind": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "봉우리 뒤로 끼워진 큰 제목 글자",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:140-end-credits": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 작은 액자 창 아래로 올라가는 엔딩 크레딧",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:141-shape-text": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "문단의 글자가 고래 윤곽 안에 다시 조판됨",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:142-optical-kerning": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "교정지 위 글자 사이 면적을 재며 자간을 맞춤",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:143-slit-scan": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "노을 하늘에서 띠처럼 늘어지는 슬릿스캔 글자",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:144-scanimation": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "poster",
+  "note": "줄무늬 필름이 지나가면 움직이는 글자",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:145-laser-engrave": {
+  "tones": [
+   "printmaking"
+  ],
+  "by": "poster",
+  "note": "나무판에 레이저가 줄마다 태워 새기는 글자",
+  "date": "2026-11-11",
+  "confidence": "low"
+ },
+ "am:146-spray-stencil": {
+  "tones": [
+   "printmaking"
+  ],
+  "by": "poster",
+  "note": "콘크리트 벽에 스텐실로 뿌린 글자와 흘러내림",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:147-product-turntable": {
+  "tones": [
+   "cinematic-3d",
+   "editorial"
+  ],
+  "by": "poster",
+  "note": "어두운 스튜디오의 제품 회전, 림 라이트와 설명선",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:148-exploded-view": {
+  "tones": [
+   "cutaway"
+  ],
+  "by": "poster",
+  "note": "손전등이 부품 여덟 개로 풀리는 분해도와 설명선",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:149-toon-shading": {
+  "tones": [
+   "anime",
+   "cartoon"
+  ],
+  "by": "poster",
+  "note": "비 오는 밤 정류장의 셀 명암과 외곽선",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:150-character-rig": {
+  "tones": [
+   "clay",
+   "cartoon"
+  ],
+  "by": "poster",
+  "note": "공원 길을 걸어와 손 흔드는 둥근 3D 마스코트",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:151-tilt-shift": {
+  "tones": [
+   "voxel",
+   "stop-motion"
+  ],
+  "by": "poster",
+  "note": "틸트시프트로 본 로우폴리 장난감 마을",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:152-point-cloud-scan": {
+  "tones": [
+   "particle",
+   "blueprint"
+  ],
+  "by": "poster",
+  "note": "점구름 → 와이어프레임 → 면으로 굳는 정자 스캔",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:153-particle-dissolve": {
+  "tones": [
+   "particle"
+  ],
+  "by": "poster",
+  "note": "사물이 빛나는 알갱이로 부서졌다 다시 모임",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:154-domino-chain": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 도미노 연쇄로 쓰러지며 그려지는 글자(강체 물리)",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:155-volumetric-light": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "창으로 든 빛줄기와 먼지가 방을 쓸고 지나감",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:156-globe-arcs": {
+  "tones": [
+   "cinematic-3d",
+   "infographic"
+  ],
+  "by": "poster",
+  "note": "우주에서 본 지구본, 대기 빛과 대권 경로",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:157-webtoon-panels": {
+  "tones": [
+   "cartoon",
+   "anime"
+  ],
+  "by": "poster",
+  "note": "세로 웹툰 칸을 뚫고 넘어가는 고양이",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:158-pop-out": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 액자 밖으로 튀어나와 보이는 팝아웃 착시",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:159-aspect-ratio": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 레터박스·4:3·전체 화면으로 바뀌는 화면비 연출",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:160-time-lapse": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 창밖 사거리의 하루 타임랩스, 빛 궤적",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:161-datamosh": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 앞 컷이 녹아 다음 컷을 끌고 가는 데이터모시",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:162-relight": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 평면 그림에 촛불·햇빛을 다시 비추는 재조명",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:163-pov-wakeup": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 눈꺼풀이 열리고 초점이 맞는 1인칭 시점",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:164-shot-coverage": {
+  "tones": [],
+  "by": "poster",
+  "note": "해당 없음: 한 무대를 여러 카메라로 나눠 찍는 숏 문법",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ },
+ "am:165-smear-frames": {
+  "tones": [
+   "cartoon",
+   "anime"
+  ],
+  "by": "poster",
+  "note": "다람쥐의 도약, 스미어와 2프레임 작화",
+  "date": "2026-11-11",
+  "confidence": "high"
+ },
+ "am:166-bullet-time": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "poster",
+  "note": "터지는 물풍선이 멈추고 카메라만 도는 불릿 타임",
+  "date": "2026-11-11",
+  "confidence": "mid"
+ }
+}

@@ -1,0 +1,25 @@
+node_modules/
+videos/*/renders/
+videos/*/refs/board.html
+videos/.refs-read.log
+.DS_Store
+videos/*/refs/choice.json
+videos/*/storyboard.html
+videos/*/storyboard-feedback.json
+references/catalog.html
+catalog-site/
+videos/.catalog-choice.json
+*.zip
+__pycache__/
+vendor/*/demo/renders/
+
+# 공개 저장소에 넣지 않는 것 (2026-11-19)
+# 영상 작업물 · 고객사 자료와 ElevenLabs 생성 음원이 들어 있다. 본보기는 templates/starter/ 에 있다
+videos/*
+!videos/.gitkeep
+# 레퍼런스 색인 · 남의 프롬프트 발췌가 들어 있다. node scripts/refs.mjs index 로 다시 만든다
+references/ref-index.json
+# 비밀값
+.env
+.env.*
+.vercel/

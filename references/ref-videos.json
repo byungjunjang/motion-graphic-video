@@ -1,0 +1,7964 @@
+{
+ "pm:twoclipping-5cba86": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:shneural-2abdfa": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:ajith-io-b5626e": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:twoclipping-221cab": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:twoclipping-d89be5": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:himanshutwtxs-5f4b43": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:gabrielbuzziv-4ff0c6": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:lexnlin-038035": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:ror-fly-9950f1": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:notdwd-c2037d": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "다른 카드와 같거나 파생 (pm:notdwd-7de38a)",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:thismacapital-dfba20": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:ajith-io-c52e09": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:twoclipping-6dd14e": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:samuel-yostt-891f87": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "사진·생성 이미지·화면 캡처·로고 파일이 주 재료",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:emollick-8661a8": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:steventey-0d20e4": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:alex-prompter-1ea044": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:majin-appsheet-2d3c1a": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:tdinh-me-815acb": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:thayto-dev-44b911": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:sab8a-364a5a": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "모션그래픽 영상이 아닌 형식",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:davidmarcus-a28a60": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:ultimaxbt-bbebf5": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:rossaxbt-94583b": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:itsolelehmann-e47532": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:linearuncle-5d2bae": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:jacksonfall-54b2ac": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:kloss-xyz-fe0c31": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:jasonzhou1993-8595e0": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:robj3d3-b18fad": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:ho-ba-f3f0e9": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:itisrazak-3ad902": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:notdwd-7de38a": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:viktoroddy-98c1d8": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "사진·생성 이미지·화면 캡처·로고 파일이 주 재료",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:ismailfahmi-557268": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:melvynx-6cde6c": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:rossaxbt-3085b7": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:tequilafunks-97f6c9": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:sudo-kiran-49176d": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "쇼릴 틀을 줄이거나 바꿔 쓴 것",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:lukasersil-0ed38e": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:nft-chen-5f8bb0": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:axtonliu-0b861d": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:gizakdag-cf4ae6": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:mandelduck-95fd08": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:gorden-sun-041f56": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:ajith-io-4c248f": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:polydao-7a572b": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:ajith-io-ea7f2d": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 밖 입력에 기대는 주문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:ayushunleashed-ece3e3": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:chatgptastra-0d95c7": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "쇼릴 틀을 줄이거나 바꿔 쓴 것",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:ultimaxbt-2ddf1e": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:monokern-ade5b6": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:kloss-xyz-15182a": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:0xnfrith-5be616": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:math-files-39c9d0": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:hanifproduktif-54bdee": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "쇼릴 틀을 줄이거나 바꿔 쓴 것",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:nikolajankovic-ce4ff4": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:ddryo-loos-300829": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:eyishazyer-af035b": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:blue-clarity-ef56d0": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:roundtablespace-d3a1be": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:1littlecoder-9fef89": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:sayan-shanky-f850d8": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:yunn260414-60d996": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:brainextends-e19ac3": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:pankajkumar-dev-0bee87": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:sudo-kiran-b055de": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:raphaelaubryy-4b137e": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:arjunsh1607-93005d": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "사진·생성 이미지·화면 캡처·로고 파일이 주 재료",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:codestackr-c071bf": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:hqmank-7c61f1": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:ratheejaisal-1f4538": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:tankazunori0914-0fc886": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:prasad-pilla-2c0cba": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:dale-vaz-cc612a": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:sarut0bisasuke-cefa43": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:maxalexweber-67688b": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "제품·주제 소개에 쓰기 어려움",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:ezshine-c90d73": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:samuel-spitz-974923": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "쇼릴 틀을 줄이거나 바꿔 쓴 것",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:tak3sh8-be5012": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:hbcoop-de365c": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:aistocksavvy-3fb9f5": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "쇼릴 틀을 줄이거나 바꿔 쓴 것",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:techyoutbe-945b56": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:micheleharmonic-77628e": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:lemomo-ai-0d9cff": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 밖 입력에 기대는 주문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:triglyceee-bd5b08": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:zheke-38deff": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:deifosv-04e4d3": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:sudeepsd-1a3485": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:visheshbaghell-3aba37": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 밖 입력에 기대는 주문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:imthatcarlos-e04bfe": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:paulo-kombucha-96431c": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:gigabit-million-16b3a0": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:sudo-kiran-6609ed": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:demonugc-4c5753": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:twoclipping-5cba86",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:jhylee95-e1152f": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:sachaarbonel-8f14f4": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:gdgtify-287ddf": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:ercankeskinx-ec2568": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "모션그래픽 영상이 아닌 형식",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:influencer-seo-ce8c33": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:agonaliu-466a8f": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:daniel-haida-8691d4": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:bthreeagency-b9b8d9": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:henkvaness-0e06af": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:ndhabarde11-f155b4": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:topi-003-9ca6b5": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:rendesr-86be44": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:bogdandragomir-35e024": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:en-ra-81c6dd": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:jesscaroline7-1ff7cb": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:theviableedge-9065be": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:0xfemyn-e114d3": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:misbahsy-80eaec": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:reyzostyle-b55864": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:mdaman010-e7226a": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:sayan-shanky-f850d8",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:motiondsgnr-9dcfa6": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:astrodevil-3f2054": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:hoyoyoda-3a5c08": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:macrohou-33959d": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:madhav-xo-f97f20": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:buildfastwithai-ed9447": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:rames-jusso-589f80": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:topi-003-b0e12c": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:ik-builds-b8bdcf": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:wani-shola-16ca7a": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:manuelogomigo-f33ca9": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:mrtanviir-132457": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:0xevinho-3777d8": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 밖 입력에 기대는 주문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:chrisjdimarco-f068db": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:jayscambler-3f8889": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:utopyaszx-1b2f94": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:aschapmann-131210": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:marklaunches-3b9492": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:web3wesley-7bb108": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:reflex-cloud-72ffe5": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:1stnoel-c20a89": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:ryzoft-4f85bd": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:kamstudiolabs-c9bb28": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:devius-maximus-beab45": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:elliot-garreffa-f334bc": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:adamdesgns-478d6d": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:andginja-333d32": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "사진·생성 이미지·화면 캡처·로고 파일이 주 재료",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:l3d1c-0e35a3": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:wozu-co-242285": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:buildfastwithai-53234e": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:allforbigfire-86ff3c": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:tstfully-0aa6b4": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:bizibeast-10f264": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:heyiammallik-e72d17": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:sudiyasa-f48ac9": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:davidshulmanfl-371638": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:demitiyageekzen-7770ad": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "제품·주제 소개에 쓰기 어려움",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:faroukzy-9ff23e": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:m1n9-k7-ff9ab9": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:quickdesignio-dd93d0": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:rebutonepress-810f78": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:slvdev-64c45a": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:sudo-kiran-4f8b59": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:sudo-kiran-b055de",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:xelandre-363f00": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:justincooperman-e7bbc4": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "사진·생성 이미지·화면 캡처·로고 파일이 주 재료",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:henkpoley-3d3407": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:fractadev-149adc": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:gautam-mer1-2ae354": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:levabashidze-2d713a": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:miskinho-443898": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:zaqailo-212ad3": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:crazyalphaaa-bc7e75": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:fionntobin-97b7af": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:francoxavier33-d2dfd2": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:itsuki-dev-10942d": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:kangaroohere-b10f8d": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:kyonax-on-tech-aabc1d": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:loicrambo-ad6830": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:madebyjmayala-b9204d": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:tolgayhickiran-e90799": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:antonio-kodheli-490109": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:oliahmed205-3e31c4": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:aisongman-71ffac": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:danilowm-d3720d": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:kmasiff-cc72cb": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:pluginplay-3d4006": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:rammanq-f5a90f": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:robvjourney-ce3e1a": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:vanshwtfff-db0466": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:3xtihor-0f6911": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:amol909s-27533e": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:cansincengiz-me-cf68dd": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:ghinaiya-nirmal-5d8fec": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:johnsavage-ai-b091c0": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:leonkohli-6dc01b": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:marouanegazouzi-6071d5": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:mehul4795-4a7007": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:safarkhanshuvo-ffd52d": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:sahildesigner23-ee3155": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:abderrahmen-g-9e8ed0": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:palashbagchi11-0a4b6b": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 밖 입력에 기대는 주문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:x4b47x-9cc84f": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:kamstudiolabs-447565": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:grace-sunnyy-29bc61": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:blueoctopusai-dd17bd": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:apoorvjain25-d24184": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:deebeeeff-50fcd0": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "사진·생성 이미지·화면 캡처·로고 파일이 주 재료",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:listudio-820c7b": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "사진·생성 이미지·화면 캡처·로고 파일이 주 재료",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:thilina-a-891c09": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:amitsingha89-150378": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "사진·생성 이미지·화면 캡처·로고 파일이 주 재료",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:blushpetal795-0c85c2": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:ceowinkz-7c776b": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:ibrahimwasim240-809370": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:jazzen-chen-4542ae": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "제품·주제 소개에 쓰기 어려움",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:lester-tyy-f897f7": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "사진·생성 이미지·화면 캡처·로고 파일이 주 재료",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:majorbaguette-fb11d7": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:nolkeeg-bf062e": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:souravbhar871-61f424": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:1littlecoder-9fef89",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:spearwtf-3c1fd1": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:teslachartz-c58b32": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:ai-baymax-0ef9dd": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:anas0ra-e57aea": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:iammxfschr-d68f90": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:kikelopezdesign-7cc9e8": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "사진·생성 이미지·화면 캡처·로고 파일이 주 재료",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:leadnotifi-e83f94": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:rneayan-474bcf": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:rneayan-ea6129": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "pm:samaote-5e2fc2": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:shinskinakamoto-20190b": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:umangratani-57f86a": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:anilraok-eff262": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:kantamk-61f410": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:parkerrex-1a54fe": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:charlesmendez-73b6e4": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:gonzalomacagno-2de1a9": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 밖 입력에 기대는 주문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:kamstudiolabs-0b0824": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:anabology-491441": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:moritzkremb-466494": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:techyoutbe-945b56",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:deedydas-252537": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:daniel-mac8-306214": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:0xvalure-331584": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 밖 입력에 기대는 주문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:verbove-268381": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "다른 카드와 같거나 파생 (pm:twoclipping-5cba86)",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:gandamu-ml-220530": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ishaaqahamed-107563": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ann-nnng-852885": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:0xchuckstock-879327": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:morse-369333": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:twoclipping-5cba86",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:prasenx-693512": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:1littlecoder-378066": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:alexalbert-274839": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:zacxbt-944604": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:lexnlin-241739": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:songkeys-384673": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:michaelzsguo-782312": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:jackfriks-338762": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:majidmanzarpour-927543": {
+  "excluded": true,
+  "reason": "duplicate prompt of gh:zacxbt-944604",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:felipemoller-936736": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:howdevelop-733090": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:miaai-lab-774895": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:gouthamjay8-910269": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:redpersongpt-284430": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:mounnna-497266": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:johnsavage-ai-427263": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:froessell-562325": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:wani-shola-459278": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:robvjourney-237474": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:bilimfili1-459762": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:lester-tyy-480587": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:sahilvermaai-189237": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:pankajkumar-dev-0bee87",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:pound75423-464968": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ved-cj-066575": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:doubleunplussed-181894": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:bizibeast-505124": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:groundcontrol-230877": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:tak3sh8-441895": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:xanderwow-a-597063": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:astrothewizard-618782": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:nolit64-347627": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:chrisjdimarco-808196": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:dzhohola-249003": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:twoclipping-5cba86",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:hicallmechai-878304": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:twoclipping-5cba86",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:annacher-433425": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "다른 카드와 같거나 파생 (pm:twoclipping-5cba86)",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:nummanali-340931": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:advait-jayant-712107": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:abhinayguptha-259981": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:stewchan2-369810": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:l3d1c-752011": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:thegrootdev-966114": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "다른 카드와 같거나 파생 (pm:twoclipping-5cba86)",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:charliie-334026": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:leanzubrezki-766171": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:techyoutbe-945b56",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:onewaysidewalks-440008": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:anas0ra-952637": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:nezbuilds-294391": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:twoclipping-5cba86",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:buildfastwithai-597035": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:fire-ozgur-130104": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:iamtanzil-120030": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:sanjeevn72-457691": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:twoclipping-5cba86",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:madpencil-753990": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:opener-ai-843891": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:hugon001-609629": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:raphaelaubryy-687877": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:twoclipping-6dd14e",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:techhalla-498547": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:tomandrieu96707-875264": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:mtvneo-148436": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "제품·주제 소개에 쓰기 어려움",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:hsanat-012699": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:techyoutbe-945b56",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:drrickio-009558": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:techyoutbe-945b56",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:andre-lucaxxs-846347": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:supremebeme-306746": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:vahidf24-121886": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ishuagra02-922825": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:retropunkai-277590": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:jake11moran-414633": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:andriyfernandes-807308": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:techtactician-144474": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "다른 카드와 같거나 파생 (pm:techyoutbe-945b56)",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:anirockshady-032809": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:mycodecoach-459574": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:pbteja1998-651644": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:techyoutbe-945b56",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:anjmaxx-459455": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:mattbean-917572": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:niegramotny-197521": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:suryarajendhran-730437": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "제품·주제 소개에 쓰기 어려움",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:eric-khun-667455": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:lepadev-475414": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "다른 카드와 같거나 파생 (gh:deedydas-252537)",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:modaalbuilder-868989": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:charlesmendez-476517": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:jrayon-054015": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ehsanik-162993": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:fornyapayzeka-795431": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:zeezomb-726206": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ishuagra02-678129": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:nemtudo-614053": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:fornyapayzeka-135914": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:0xrathi-511319": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:0xlangeai-178533": {
+  "excluded": true,
+  "reason": "duplicate prompt of gh:mrblock-096062",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:stephanferraro-224281": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:chudry223-081860": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:voxyz-ai-345550": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:explorations-iq-921682": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:nybobs-680050": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:garmdotcom-987439": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:cyrilxbt-149036": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:miguel07code-091611": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:kureshirfan-386691": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:amberpromptai-345137": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:iniyanai-856596": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:acoramaa-053577": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:kgonia7-746268": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:nathanwilbanks-981110": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:hunzai-842605": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:konstantinsaifo-501736": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:rakhsh-tech-544921": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:arthurkatcher-604161": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:moguzbulbul-215591": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:irinatoxi-962937": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:konstantinsaifo-587629": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:stefanostraus-971191": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:demitiyageekzen-818523": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:gmgmgm1545-245507": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:jarvis11x-544635": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:kewai386772-276947": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:nft-chen-350878": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:0xsolty-735200": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:curieuxexplorer-272483": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:myonisto-923578": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:truenyl-447745": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:builtbysketch-114092": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:per-simmons-944727": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:nicolamanzini-156628": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:0xwast3-222104": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:wzarok-283635": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:goofyninjaaa-315331": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:friskyggg-054427": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ai-ba-reza-113363": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:souradip3000-800291": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:techartist-786274": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:lribes4-742305": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:eigeorguy-813651": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:kum1ta-740521": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:vectorcrossprod-436573": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:sanjay-khadka07-620029": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ksmialowski-473410": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:acoramaa-248467": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:maruo-0314-998343": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:aayush4soni-644283": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:allforbigfire-029657": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ewashoku-201053": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ajthemongol-318512": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:happycapyai-634965": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:mrblock-096062": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:op7418-814408": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:janlaywss-379361": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:0xpai-eth-635565": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:op7418-818226": {
+  "excluded": true,
+  "reason": "duplicate prompt of gh:op7418-814408",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:akokoi1-469188": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ggsimm-535814": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:mozetech-471882": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:janeloic-905802": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:agentgamesbot-355554": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:curieuxexplorer-519730": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:redp314-642106": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:jasperdeboer-157391": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:curieuxexplorer-772215": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:rehan-shei-839416": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:rush3rx-342153": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:maxthelion-649723": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:zacxbt-234711": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:jstjs-129051": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:dreyk0o0-165270": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:boona11-415751": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:dmowlin-221566": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:nqaze-939886": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:kenjiphang-750512": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:anduraio-570761": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:kepochnik-237752": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:angie-carel-954689": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:deeprajo1-834106": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:vibechine-465008": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:blitast-studio-257328": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:waseemkhalo-636267": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:taylorbereiter-189192": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:smallhusk-272056": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:lisp-mi-139812": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:itsjdraven-557760": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:izmaelmag-282849": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:llama3dstudio-012980": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:hellovyom-800659": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:realfedeuru-475858": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:brainwavepub-812667": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:alex-vainshtein-195332": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:brenbuilds-386902": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:mayuresh-empire-687553": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:tonnusos-006126": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:codrops-340299": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:zhang-baoqing-920413": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:sciencedegens-843325": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:washow-cfo-175311": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:timguignard-623571": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:joao-felixl-809438": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:vince-builds-355650": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:mappletour-334921": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:itsahmedharoon-544194": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:stokebuilder-356793": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:ik-builds-585923": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:petert-540960": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:petert-635793": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:petert-350098": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:georgejimenez98-431559": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:majin-appsheet-693327": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:javi-llofriu-059888": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:georgejimenez98-427173": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:henritoivar-445215": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:l3d1c-632524": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:wustep-884086": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:apoorvjain25-309680": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:pranavclickks-254816": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:rpa-dake-593915": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:zakisbuilding-495680": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:aschapmann-724497": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:itsyashf-692347": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:dannyverkissen-101463": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:chapi13-131449": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:qinelke-271655": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:genelab-999-088672": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:inoue-aix-234322": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:daniel-haida-636937": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:pisajeski-168993": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:dustindavis-644806": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:signalz-jp-918002": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:djadkison-394122": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:mousszy-baby-014197": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:fr-sorrentino-871017": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:proanaliteg-458642": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:kingokings-992769": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:dys-hay-749645": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:ambiguous-ai-389509": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:heymrzak-349060": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ambiguous-ai-505873": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:lnkiai-544254": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:tejasthange3-128242": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:helloshiva0801-438284": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:itakahashikun-990109": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:als-link-301108": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:cboyack-407181": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:salmanr2d2-661615": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:piyushaaryan2-196586": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:thuggy-juice-072370": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ninjaswebcom-684126": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:iammukeshm-421585": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:yarhmm-341449": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:t4k1ra-cg-110846": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:francoxavier33-341663": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:tony-tt-872147": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:thallisribeiro-829318": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:tycenjm-098014": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:samissudo-927179": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:imthatcarlos-133592": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:iamshankhadeep-506266": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:safaelmali-004843": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:localjulius-625706": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:alanschwegler-629665": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:seantiffonnet-675262": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:priyansh0327-206409": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:goldiez2599-685869": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:bridgemindai-286423": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:arumii-movie-622720": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:arumii-movie-249613": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:dheepanratnam-706454": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:soumymaheshwri-825921": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:tankazunori0914-156748": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:leandroriviello-827135": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:0xlangeai-597929": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:maxhirsch13-600983": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:xamfonos-004331": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:saadpastadev-347341": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:envoldev-017555": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:dengent-412996": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:apoorvjain25-150112": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:smitjaineditor-843957": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:argbeknwn-466818": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:leowenai-125931": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:humzaakhalid-537875": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:xenit-v0-532873": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:sonali-sahu-09-350200": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:aijipusi75693-284735": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:seri-nonnon-231813": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:tetsu-tetsu333-576886": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:0xrapzz-433554": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:rishit30g-568278": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:alex-leiro-867087": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:asei-ikarashi-437835": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:nehalmax-802479": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:colecornelll-047465": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:allodev-069765": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:aylmerth-356252": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:falcong-j-277506": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:saxxyweb3-690124": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ayumi-t820-871023": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:heyiamnick-119558": {
+  "via": "source",
+  "checked": "2026-10-19"
+ },
+ "gh:mondemsuraj-691517": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "모션그래픽 영상이 아닌 형식",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:aichrislee-408244": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:0xspikez-483865": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:eyadnour-172216": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:aichrislee-378670": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:aichrislee-476025": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:thebuggeddev-482912": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:thesethian-384517": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:spacyapps-157886": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:adrianduta96-992248": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/adrianduta96/status/2109187815195992248",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:pagustafsson-566609": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/pagustafsson/status/2108936279081566609",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:juancarlos17626-429530": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:airobertdaily-416945": {
+  "via": "x",
+  "post": "https://x.com/aiRobertDaily/status/2108596616756416945",
+  "checked": "2026-10-19"
+ },
+ "gh:thusatharan-433543": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Thusatharan/status/2108544807333433543",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:arixxbt-292438": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/arixxbt/status/2108541814718292438",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:n01ennn-597182": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/N01ennn/status/2108520767092597182",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:rubenssoto-ai-802657": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/rubenssoto_ai/status/2108512810774802657",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:thusatharan-640926": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Thusatharan/status/2108511286795640926",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:utsavchopra30-560359": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:0xkarmi-129839": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/0xKarmi/status/2108495927988129839",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:shunshu32385143-944719": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/shunshu32385143/status/2108480534254944719",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:chang-200908": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/chang_/status/2108458503367200908",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:buildfastwithai-844291": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/BuildFastWithAI/status/2108403445304844291",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:drake5112-661428": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:aichrislee-938609": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "모션그래픽 영상이 아닌 형식",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/aichrislee/status/2108347412636938609",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:screeendev-981790": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:juancarlos17626-382690": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:cryptowluha-060792": {
+  "via": "x",
+  "post": "https://x.com/cryptowluha/status/2108253385829060792",
+  "checked": "2026-10-19"
+ },
+ "gh:fleyta88-443662": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/fleyta88/status/2108249741125443662",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:flxrnc-251921": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/flxrnc/status/2108242454105251921",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:tonysurix-596746": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/tonysurix/status/2108230699224596746",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:0xverdao-776363": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/0xverdao/status/2108188411844776363",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:simonasltu1-981181": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/SimonasLTU1/status/2108175272964981181",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:khlaseek-dsgner-877659": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Khlaseek_dsgner/status/2108167809997877659",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:btcup99-311469": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/btcup99/status/2108152460523311469",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:kewai386772-262769": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:mdaman010-207866": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/mdaman010/status/2108108452774207866",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:wikiwayne-080350": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/wikiwayne/status/2108025937212080350",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:wikiwayne-486055": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/wikiwayne/status/2107951058584486055",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:cgclick-497325": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:wilzerjb-007630": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/wilzerjb/status/2107892042320007630",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:mdaman010-610173": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/mdaman010/status/2107888264904610173",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:federicoaltepo1-312496": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · 게시글 주소가 X 가 아님",
+  "checked": "2026-10-19"
+ },
+ "gh:eleanorina-653042": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/_eleanorina/status/2107841006909653042",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:okazaky-084783": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/okazaky/status/2107826563786084783",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:twoclipping-041659": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/twoclipping/status/2107822293653041659",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:mrkindey-267498": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/MrKindey/status/2107817784432267498",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ilyapion-072443": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/IlyaPion/status/2107816382289072443",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:tkz-aiart-864352": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:thegreatola-738411": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:aicreataro-864070": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/aicreataro/status/2107794785188864070",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:nakazakifam-831964": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/nakazakifam/status/2107715000227831964",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:incognitoprince-849212": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:nft-chen-068069": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/NFT_Chen/status/2107653056771068069",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:tanabe-fragm-322001": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/tanabe_fragm/status/2107644501372322001",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:atif-0075-639088": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/atif_0075/status/2107568937764639088",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:earthwalkerx17-912577": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:techartist-697078": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/techartist_/status/2107514291213697078",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:llama3dstudio-918962": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/llama3dstudio/status/2107504609207918962",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:rossaxbt-312793": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:thegawdstiles-738178": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Thegawdstiles/status/2107481252785738178",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:rafiroutes-596199": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/rafiroutes/status/2107465888622596199",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:jiro-aicompany-487818": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/jiro_aicompany/status/2107316487715487818",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:rashadmirza404-020971": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:aichrislee-922082": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/aichrislee/status/2107260223907922082",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:0xnicc0-516612": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/0xnicc0/status/2107217691505516612",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ivanainai-190629": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:elitzavasileva-591465": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 영상 형식을 받을 수 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:nilou-salehi-458567": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/nilou_salehi/status/2107184179947458567",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:aidinzeo-708182": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/AiDinzeo/status/2107126979841708182",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:rossaxbt-707651": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:yatudou14-822057": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/yatudou14/status/2107092673005822057",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ligayabeebe-323995": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/ligayabeebe/status/2107088216071323995",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:pluvio9yte-662953": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Pluvio9yte/status/2107087191738662953",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ivysparkleai-543294": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/IvySparkleAI/status/2107065771658543294",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:kisaka-ki-859326": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/kisaka_ki/status/2107054815255859326",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:gdgtify-393073": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Gdgtify/status/2107054188836393073",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:mouri45-575311": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/mouri45/status/2107036053949575311",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:financeyf5-462150": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:claudecode-ut-314769": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/ClaudeCode_UT/status/2106958663525314769",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:konstantinsaifo-169107": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/konstantinsaifo/status/2106855420237169107",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:uinerd-635877": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/uiNerd/status/2106842274537635877",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:yanivm79-158103": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:sadalbert10-856416": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/SadAlbert10/status/2106789700807856416",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ayi-ainotes-933194": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:thewevr-681887": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/thewevr/status/2106774417732681887",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:archiveexplorer-560622": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/ArchiveExplorer/status/2106732275685560622",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:xodud-rkd-160324": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/xodud_rkd/status/2106732228181160324",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:leo114119-936422": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:elkrispis-872980": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:shengtang135754-900065": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:cryptoxorz-359201": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:kaiyu-ai-762929": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Kaiyu_AI/status/2106605246235762929",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:aichrislee-479847": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/aichrislee/status/2106535528149479847",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ivanainai-245918": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:dan-proggg-274533": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/dan__proggg/status/2106477834873274533",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:riyadbkhsh-300736": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/riyadbkhsh/status/2106467130963300736",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:paripune-657175": {
+  "via": "x",
+  "post": "https://x.com/paripune/status/2106458692669657175",
+  "checked": "2026-10-19"
+ },
+ "gh:haribuilds-007643": {
+  "via": "x",
+  "post": "https://x.com/hariBuilds_/status/2106440528435007643",
+  "checked": "2026-10-19"
+ },
+ "gh:tarunyadav9761-053244": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/tarunyadav9761/status/2106435688292053244",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:abyssalld-602690": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/abyssallD/status/2106434250467602690",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:flxrnc-619627": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/flxrnc/status/2106434118640619627",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ulyssexbt-205279": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/ulyssexbt/status/2106383971093205279",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ponzponz15-145882": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/ponzponz15/status/2106307182019145882",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:henrygsing-050247": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:twoclipping-551116": {
+  "via": "x",
+  "post": "https://x.com/twoclipping/status/2106101258834551116",
+  "checked": "2026-10-19"
+ },
+ "gh:michaelraspuzzi-740595": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/michaelraspuzzi/status/2106083592820740595",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:woojinrad-455731": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/woojinrad/status/2106083299462455731",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:aimevzulari-256293": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/AIMevzulari/status/2106052083040256293",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:testlandblog-617500": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/testlandblog/status/2105991032571617500",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:minochan0824-827805": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/minochan0824/status/2105933530190827805",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:twoclipping-747965": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/twoclipping/status/2105927781678747965",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:generussai-904308": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/generussai/status/2105921281673904308",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:qianqiongge-246969": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/qianqiongge/status/2105902139902246969",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:oab10don-457273": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/oab10don/status/2105879685322457273",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:xanares-738984": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Xanares/status/2105770390924738984",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:koushikde-937635": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/_koushikde_/status/2105730717455937635",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:imryven-495965": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/imryven/status/2105719735438495965",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:renmu2017-477264": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 영상 형식을 받을 수 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:gdgtify-989608": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Gdgtify/status/2105669567036989608",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:gabzofar-852359": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 영상 형식을 받을 수 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:youwareai-259061": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/YouWareAI/status/2105656935622259061",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:akakuma0219-658335": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/akakuma0219/status/2105628049169658335",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:mablesjoseph-735781": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/mablesjoseph/status/2105472483054735781",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:chudry223-657142": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/chudry223/status/2105374954195657142",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:techartist-021472": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/techartist_/status/2105350783416021472",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:johncodunayo-560372": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:gkxspace-923139": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/gkxspace/status/2105260627937923139",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:jakubantowski-020905": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:q970270495-497923": {
+  "excluded": true,
+  "reason": "duplicate prompt of gh:deedydas-252537",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/q970270495/status/2105233470574497923",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:grace-sunnyy-486816": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:x7mdnet-157811": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/X7mdNet/status/2105177788043157811",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:threeaus-886343": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/threeaus/status/2105152377057886343",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:filicroval-168898": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/filicroval/status/2105048723768168898",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:notdwd-766641": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/notdwd/status/2105031774904766641",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:egeberkina-949521": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/egeberkina/status/2105029713445949521",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:jdverolme-302685": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:vic305-885957": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:theparuchh-013286": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:adomicael-707503": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/adomicael/status/2104977482818707503",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:everestchris6-399895": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/everestchris6/status/2104965415164399895",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:kopert0x-098349": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/kopert0x/status/2104961082880098349",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ai9app-989009": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:sportyblocks-320796": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/sportyblocks/status/2104905279515320796",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:curieuxexplorer-320803": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/CurieuxExplorer/status/2104900418174320803",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:abhinavflac-251740": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/abhinavflac/status/2104881648886251740",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:humzaakhalid-011081": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · 게시글 주소가 X 가 아님",
+  "checked": "2026-10-19"
+ },
+ "gh:byaiden-vu-755862": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:dhanrajdc-602284": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/dhanrajdc/status/2104841826318602284",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:vignesh-rav-417649": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Vignesh_rav/status/2104837895773417649",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:apoorvjain25-945542": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/apoorvjain25/status/2104818940467945542",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:hahazwei-425483": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/hahazwei/status/2104809910152425483",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:obydulme-052905": {
+  "via": "x",
+  "post": "https://x.com/obydulme/status/2104802322518052905",
+  "checked": "2026-10-19"
+ },
+ "gh:curieuxexplorer-590917": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/CurieuxExplorer/status/2104801713840590917",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:nofollowers2023-974928": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:btc5887899-288258": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/btc5887899/status/2104786451980288258",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:jamee-now-583635": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Jamee_now/status/2104782293558583635",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:lemcosmos-535145": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:king1818888-642123": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:mochi-agi-421448": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Mochi_AGI/status/2104757097850421448",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:lalulu-create-091362": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Lalulu_create/status/2104719121783091362",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:charlessieg-370949": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/charlessieg/status/2104688668405370949",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:saltyaom-620933": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/saltyAom/status/2104677989728620933",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:twoclipping-762046": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/twoclipping/status/2104674464868762046",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:cipherwrk-451155": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:dotey-773568": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/dotey/status/2104649290668773568",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:niirajrshah-163739": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:thinkszyg-886066": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/thinkszyg/status/2104525558050886066",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:andrewmichaelsa-385936": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/andrewmichaelsa/status/2104490962139385936",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:deeprajo1-623150": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/deeprajO1/status/2104490501340623150",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:niebin-gg-621849": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:punit-io-584518": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:oxpsats-182908": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/oxpsats/status/2104462072344182908",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:noah-z-zhang-765393": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:gandamu-ml-124280": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/gandamu_ml/status/2104402167906124280",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:yanliudesign-839698": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/yanliudesign/status/2104393313935839698",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:deedydas-407965": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/deedydas/status/2104391577091407965",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:riverroadlabs-269620": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/RiverRoadLabs/status/2104388651287269620",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:rohanpaul-ai-500542": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/rohanpaul_ai/status/2104352205176500542",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:johnmckeownn-511049": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:muhamma61700589-512003": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:0xcodez-474136": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/0xCodez/status/2104257855142474136",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ryan-morr-666741": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/ryan_morr/status/2104249941136666741",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:diamai-157697": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:godsboy7777-005594": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/GodsBoy7777/status/2104179308101005594",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:thejohnnyhuy-282154": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:topi-003-659728": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:bitcoinrui-812752": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:nonbiri-ai-110674": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/nonbiri_AI/status/2104122410027110674",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:koldo2k-741714": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:curieuxexplorer-408141": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/CurieuxExplorer/status/2104108154506408141",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:linke1427832-343079": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/linke1427832/status/2104099543839343079",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:subraiz24-994209": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:op7418-021491": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:gigabit-million-959719": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/gigabit_million/status/2104068536041959719",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:astroboysoup-861770": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/astroboysoup/status/2104063140371861770",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:bradmillscan-839974": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/bradmillscan/status/2104048013362839974",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:howlemont-503897": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:cagrimbakirci-842869": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/cagrimbakirci/status/2104011756397842869",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:notdwd-998633": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/notdwd/status/2103995183255998633",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:iliareingold-486492": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/IliaReingold/status/2103988928621486492",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:dan-riverbendai-163640": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/dan_riverbendai/status/2103985505302163640",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:dotey-927166": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/dotey/status/2103964025683927166",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:charumitradubey-328233": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/CharuMitraDubey/status/2103956360803328233",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:ldataengineer-823010": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Ldataengineer/status/2103945508972823010",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:teleboost-app-521507": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:aichrislee-961335": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/aichrislee/status/2103878567540961335",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:kingokings-835071": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:sdinesh91-159008": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:tanabe-fragm-706979": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/tanabe_fragm/status/2103802156675706979",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:egawa-ai-design-092323": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:zhu185178-255661": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/zhu185178/status/2103757767727255661",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:milos-gis-317580": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/milos_gis/status/2103751211040317580",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:zigapoto-942208": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:kurahu-capten-054506": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:yuyudora622-858156": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:yama-kiyo-134910": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/yama_kiyo/status/2103740786177134910",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:wangyinrec-532344": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/wangyinrec/status/2103725737551532344",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:mileson07-065690": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Mileson07/status/2103717347790065690",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:aydenspringer23-227772": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 영상 형식을 받을 수 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:kadaliao-048854": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:dotey-522564": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/dotey/status/2103683057689522564",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:mizugame-22-719199": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:bitfish-539054": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:aiaircle34052-950750": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/AiAircle34052/status/2103663848846950750",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:0xvalure-354245": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:okapi-fukugyo-166351": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/okapi_fukugyo/status/2103586082336166351",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:annacher-152174": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 영상 형식을 받을 수 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:yankis0x-174321": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/yankis0x/status/2103502194578174321",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:nischalsharma-587738": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:kisalay-921896": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Kisalay_/status/2103479649728921896",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:rebutonepress-688099": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/RebutonePress/status/2103478369245688099",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:syntheticbeef-389075": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:sanjeevn72-151834": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:hakimieiqbal-762926": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:jasondainter-028222": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:typingmusou-160705": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Typingmusou/status/2103452241848160705",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:drishtantk-356656": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/_drishtantk/status/2103448068423356656",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:essjaykay755-847163": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/essjaykay755/status/2103446726245847163",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:tonka1981jp-288376": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/tonka1981jp/status/2103442781096288376",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:fumiyamizuguchi-500632": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/FumiyaMizuguchi/status/2103431573752500632",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:enhanced-jp-776726": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:aiwarts-428866": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 영상 형식을 받을 수 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:aiwarts-815008": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/aiwarts/status/2103419813263815008",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:mtvneo-819281": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:rneayan-417829": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/rneayan/status/2103400657856417829",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:curieuxexplorer-016717": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/CurieuxExplorer/status/2103373314354016717",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:dimoff2000-260969": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/dimoff2000/status/2103372924753260969",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:artless101-964679": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:victortaelin-875778": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/VictorTaelin/status/2103299766473875778",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:sammmaing-702076": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/SammmAing/status/2103280356371702076",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:otatechie-035448": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/otatechie/status/2103257988895035448",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:daverogenmoser-899271": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/DaveRogenmoser/status/2103249424075899271",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:retropunkai-060898": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:julianpscheid-494027": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/JulianPscheid/status/2103197385283494027",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:pradeepxkapoor-641956": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:agioyaz-397647": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/AGIOyaZ/status/2103167623303397647",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:agioyaz-986461": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/AGIOyaZ/status/2103145567945986461",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:thallisribeiro-750805": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 영상 형식을 받을 수 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:so-ainsight-225926": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:godsboy7777-150194": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/GodsBoy7777/status/2103117450854150194",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:1234lust-671954": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/1234lust/status/2103073554581671954",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:superalesha-970412": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/superalesha/status/2103052154931970412",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:engmoelgaraihy-694832": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/EngMoElgaraihy/status/2103038655178694832",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:perezalexa23-414045": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-19"
+ },
+ "gh:meetarno-782464": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/meetarno/status/2102934732203782464",
+   "checked": "2026-10-19"
+  }
+ },
+ "gh:fanfulladev-063524": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/Fanfulladev/status/2102479018784063524",
+   "checked": "2026-10-19"
+  }
+ },
+ "pm:stephanlivera-df17a2": {
+  "excluded": true,
+  "reason": "duplicate prompt of pm:ajith-io-c52e09",
+  "checked": "2026-10-20",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-18"
+  }
+ },
+ "gh:youwareai-300653": {
+  "excluded": true,
+  "reason": "출처 영상 없음 · X 게시글에 영상 없음",
+  "checked": "2026-10-18"
+ },
+ "gh:gdgtify-130294": {
+  "via": "x",
+  "post": "https://x.com/Gdgtify/status/2105570411870130294",
+  "checked": "2026-10-21"
+ },
+ "gh:sudo-kiran-670892": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "다른 카드와 같거나 파생 (pm:sudo-kiran-b055de)",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/sudo_kiran/status/2104846546768670892",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:showreel-opens-on-a-bold-decision-title-card": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-21",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:resume-showreel-radiates-a-dashed-particle-burst": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-21",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:plush-koala-mascot-introduces-an-ai-agent-platform": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "사진·생성 이미지·화면 캡처·로고 파일이 주 재료",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:kinetic-10-frame-with-cap-height-and-ease-curve-overlay": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "쇼릴 틀 문장 그대로",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:motion-showreel-tiles-bold-move-kinetic-type": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "쇼릴 틀 문장 그대로",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:omarchy-showreel-showcases-dozens-of-color-palettes": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-21",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:claude-motion-reel-moves-from-a-bouncing-dot-to-a-particle": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "쇼릴 틀 문장 그대로",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:deep-dish-music-video-rendered-in-ballpoint-pen-style": {
+  "via": "source",
+  "checked": "2026-10-21"
+ },
+ "cv:mounis-app-launch-mocks-up-a-hajj-guidance-screen": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-21",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:cartoon-agent-at-a-desk-acts-out-a-claude-code-session": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:portfolio-showreel-displays-past-projects-behind-red-tape": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "사진·생성 이미지·화면 캡처·로고 파일이 주 재료",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:faint-ai-paper-titles-frame-a-1-000-stat": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:resume-showreel-sparks-into-a-no-price-reveal": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-21",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:pink-kinetic-type-reel-spelling-development-through-a-lens": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:app-launch-reel-shows-the-orglet-agent-dashboard": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "쇼릴 틀 문장 그대로",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:colorful-ui-cards-list-club-celebration-options": {
+  "via": "source",
+  "checked": "2026-10-21"
+ },
+ "cv:citation-dossier-interface-for-the-research-tool-citegraph": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-21",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:max-effort-showreel-opens-on-a-blue-polka-dot-pattern": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-21",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:code-editor-mockup-shows-an-approved-ai-edit": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-21",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:cluttered-email-thread-highlights-a-buried-answer": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:self-branded-reel-spelling-out-i-make-in-bold-type": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "쇼릴 틀 문장 그대로",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:10-second-showreel-built-around-one-giant-orange-circle": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "쇼릴 틀 문장 그대로",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:kinetic-emotion-typography-pulses-on-orange": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-21",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:showreel-dashboard-breaks-down-its-own-frame-rate-stats": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "쇼릴 틀 문장 그대로",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:personal-intro-reel-shows-a-half-cyborg-portrait-and-bold": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "프롬프트 자리에 게시글 본문",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:particles-assemble-the-word-code-on-black": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-21",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:second-resume-showreel-take-shown-on-a-desk-monitor": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-21",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:based-agency-showreel-flows-red-script-style-type": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침",
+  "checked": "2026-11-16",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:resume-showreel-demos-a-grid-and-stagger-dot-animation": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-10-21",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-21"
+  }
+ },
+ "cv:motion-showreel-grows-a-red-dot-cluster-on-cream": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:caption-news": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:newsreel": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:countdown": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:city-symphony": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:visual-investigation": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:kino-montage": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:telestrator": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:news-package": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:satellite-briefing": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:briefing-board": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:lidar-survey": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:white-model": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:data-physical": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:teardown": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:microscope": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:archive-lighttable": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:crayon-book": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:watercolor": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:ink-wash": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:impasto": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:one-line": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:whiteboard": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:urban-sketch": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:shadow-puppet": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:ukiyoe": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:papercut-red": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:paper-lantern": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:risograph": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:halftone-dossier": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:woodcut": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:engraving": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:silkscreen-poster": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:swiss-motion": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:spy-titles": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:art-deco": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:blueprint": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:stained-glass": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:pictogram-motion": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:ascii-crt": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:dataviz": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:iso-infographic": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:dark-keynote": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:living-screencast": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:hologram-hud": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:rubber-hose": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:cel-anime-80s": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:scifi-toon": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:midcentury-toon": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:pixel-rpg": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:hd-2d": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:microgame": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:game-show": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:silent-film": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:backrooms": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:brick-toy": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:paper-popup": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:tilt-shift": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:lowpoly-island": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "lo:glass-product": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "ms:05-cel-boil": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "ms:03-isometric": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "ms:01-flat-vector": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "ms:02-line-art": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "ms:04-3d-render": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "ms:08-morph": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "ms:19-paperclip": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "ms:22-hud": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "ms:06-collage": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "ms:12-aurora-glass": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "ms:09-bauhaus": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "ms:10-synthwave": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "ms:20-pixel": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "ms:07-liquid": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "ms:18-hanazi": {
+  "via": "source",
+  "checked": "2026-10-23"
+ },
+ "pn:torn-paper-safari": {
+  "via": "source",
+  "checked": "2026-11-10"
+ },
+ "pn:paper-highlight-text": {
+  "via": "source",
+  "checked": "2026-11-10"
+ },
+ "pn:cutout-farm-story": {
+  "via": "source",
+  "checked": "2026-11-10"
+ },
+ "am:01-svg-ink": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:02-css-popup": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:03-coral-growth": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:04-sketch-diagram": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:05-fbm-nebula": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:06-aurora-raymarch": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:07-sdf-planet": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:08-caustics": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:09-gpu-galaxy": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:10-curl-flow": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:11-reaction-diffusion": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:12-stable-fluids": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:13-glass-jellyfish": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:14-instanced-coral": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:15-geo-globe": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:16-rapier-marbles": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:17-hangul-particles": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:18-watercolor": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:19-impasto": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:20-woodcut": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:21-risograph": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:22-super8": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:23-vhs": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:24-paper-stopmotion": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:25-charcoal": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:26-engraving": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:27-marbling": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:28-webgpu-particles": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:29-audio-sync": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:30-kinetic-type": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:31-ik-character": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:32-dataviz-motion": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:33-ocean": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:34-clouds": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:35-erosion": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:36-cloth": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:37-fracture": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:38-murmuration": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:39-thin-film": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:40-prism": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:41-deep-zoom": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:42-calligraphy": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:43-darkroom": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:44-polaroid": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:45-stained-glass": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:46-letterpress": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:47-embroidery": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:48-scratch-art": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:49-zoetrope": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:50-neon": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:51-topo-type": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:52-parametric-hangul": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:53-swiss-grid": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:54-title-sequence": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:55-truchet-type": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:56-ribbon-text": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:57-quilling-type": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:58-pixel-sort": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:59-glyph-mosaic": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:60-jelly-type": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:61-shadow-type": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:62-fogged-glass": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:63-burning-type": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:64-caustic-type": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:65-physarum-type": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:66-rain-poem": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:67-gsap-splittext": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:68-gsap-morphsvg": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:69-gsap-flip": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:70-gsap-motionpath": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:71-gsap-pixi": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:72-gsap-three": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:73-anime-stagger": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:74-motion-spring": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:75-lottie-code": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:76-p5-tree": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:77-paper-boolean": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:78-zdog-planet": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:79-matter-galton": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:80-mojs-burst": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:81-babylon-greenhouse": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:82-tone-shapes": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:83-css-keyframes": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:84-svg-smil": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:85-scroll-timeline": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:86-face-rig": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:87-sensor-vision": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:88-loupe-lens": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:89-impact-kit": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:90-measure-hud": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:91-gait-cycle": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:92-type-acting": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:93-transition-kit": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:94-multiplane": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:95-closed-form-physics": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:96-kinetic-camera": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:97-karaoke-captions": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:98-split-flap": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:99-knockout-zoom": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:100-echo-type": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:101-marker-annotate": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:102-iso-blocks": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:103-word-swap": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:104-type-tunnel": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:105-comic-sfx": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:106-ime-compose": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:107-unroll-text": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:108-liquid-fill": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:109-paper-unfold": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:110-sticker-peel": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:111-chrome-sting": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:112-projection-map": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:113-puffy-type": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:114-beat-type": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:115-marquee-tape": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:116-logo-reveal": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:117-gooey-blobs": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:118-dot-matrix": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:119-iso-explainer": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:120-perfect-loop": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:121-mesh-gradient": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:122-app-promo": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:123-lower-thirds": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:124-shape-mascot": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:125-route-map": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:126-isotype": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:127-before-after": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:128-scale-zoom": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:129-timeline": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:130-quiz-countdown": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:131-spotlight-focus": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:132-photo-parallax": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:133-speed-ramp": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:134-lip-sync": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:135-chat-thread": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:136-color-grade": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:137-pen-write-on": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:138-variety-captions": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:139-text-behind": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:140-end-credits": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:141-shape-text": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:142-optical-kerning": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:143-slit-scan": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:144-scanimation": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:145-laser-engrave": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:146-spray-stencil": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:147-product-turntable": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:148-exploded-view": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:149-toon-shading": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:150-character-rig": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:151-tilt-shift": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:152-point-cloud-scan": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:153-particle-dissolve": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:154-domino-chain": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:155-volumetric-light": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:156-globe-arcs": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:157-webtoon-panels": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:158-pop-out": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:159-aspect-ratio": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:160-time-lapse": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:161-datamosh": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:162-relight": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:163-pov-wakeup": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:164-shot-coverage": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:165-smear-frames": {
+  "via": "page",
+  "checked": "2026-11-11"
+ },
+ "am:166-bullet-time": {
+  "via": "page",
+  "checked": "2026-11-11"
+ }
+}

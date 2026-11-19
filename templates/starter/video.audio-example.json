@@ -1,0 +1,26 @@
+{
+  "fps": 30,
+  "duration": 35,
+  "width": 1920,
+  "height": 1080,
+  "audio": {
+    "voice": {
+      "file": "voice/vo_a.mp3",
+      "gain": 1.5,
+      "segments": [[0, 3.54, 1.2], [3.54, 8.0, 5.64], [8.0, 13.8, 10.9]]
+    },
+    "music": {
+      "file": "bgm/bgm_b.mp3",
+      "cut": [22.28, 2.034],
+      "delay": 2.05,
+      "intro_boost": [4, 4.0],
+      "gain": [0.5, 0.92, 17, 5.3],
+      "duck": 2.5
+    },
+    "sfx": [
+      ["sfx/engrave.mp3", 2.45, 0.8],
+      ["sfx/click.mp3", 6.5, 0.5, "peak"],
+      ["sfx/whoosh.mp3", 16.45, 0.3, "onset"]
+    ]
+  }
+}

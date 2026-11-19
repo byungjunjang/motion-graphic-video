@@ -1,0 +1,41 @@
+{
+ "_": "Pinterest 보드에서 모은 손제작 영상 레퍼런스. 프롬프트가 없어서 영상 프레임을 보고 쓴 분석 노트(references/pinterest/<slug>.md)를 전문 자리에 둔다. 핀을 더하면 여기에 한 줄을 넣고 분석 노트를 쓴 뒤 `node scripts/refs.mjs index` 와 `verify` 를 실행한다. title 과 분석 노트에는 실존 브랜드·기관 이름을 쓰지 않는다. w·h·fps·dur 은 ffprobe 로 잰 파일 값이다.",
+ "pins": [
+  {
+   "slug": "torn-paper-safari",
+   "pin": "1116681670161078444",
+   "board": "paper motion graphics",
+   "title": "Torn-Paper Safari Collage",
+   "author": "CYM00000091",
+   "saved": "2026-11-10",
+   "tags": ["paper", "collage", "torn-paper", "cut-out", "campaign"],
+   "w": 736, "h": 414, "fps": 24, "dur": 15,
+   "poster": "https://i.pinimg.com/videos/thumbnails/originals/51/b6/5a/51b65a0fc8f2c6dc611b8590c824c4b8.0000000.jpg",
+   "video": "https://v1.pinimg.com/videos/mc/720p/51/b6/5a/51b65a0fc8f2c6dc611b8590c824c4b8.mp4"
+  },
+  {
+   "slug": "paper-highlight-text",
+   "pin": "1116681670161078437",
+   "board": "paper motion graphics",
+   "title": "Paper Highlight Text",
+   "author": "eggplain",
+   "saved": "2026-11-10",
+   "tags": ["paper", "collage", "highlight", "text", "explainer"],
+   "w": 852, "h": 480, "fps": 24, "dur": 12,
+   "poster": "https://i.pinimg.com/videos/thumbnails/originals/b9/db/50/b9db50bae6169430960de496be76bcac.0000000.jpg",
+   "video": "https://v1.pinimg.com/videos/mc/720p/b9/db/50/b9db50bae6169430960de496be76bcac.mp4"
+  },
+  {
+   "slug": "cutout-farm-story",
+   "pin": "1116681670161078441",
+   "board": "paper motion graphics",
+   "title": "Cutout Farm Story",
+   "author": "valuable826",
+   "saved": "2026-11-10",
+   "tags": ["paper", "collage", "cut-out", "live-action", "brand-story"],
+   "w": 736, "h": 414, "fps": 25, "dur": 45,
+   "poster": "https://i.pinimg.com/videos/thumbnails/originals/ed/76/b8/ed76b87dea6d08dc6d6d3ef86e40ce0b.0000000.jpg",
+   "video": "https://v1.pinimg.com/videos/iht/720p/ed/76/b8/ed76b87dea6d08dc6d6d3ef86e40ce0b.mp4"
+  }
+ ]
+}
