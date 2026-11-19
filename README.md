@@ -58,45 +58,6 @@ cd motion-graphic-video && npm i
 python3 -m pip install numpy pillow scipy
 ```
 
-## 빠른 시작 1 · AI 없이 템플릿 렌더하기
-
-AI 도구 없이 렌더 파이프라인만 확인하는 방법입니다. 1~2분 걸립니다.
-
-```bash
-cp -R templates/starter videos/my-first
-```
-
-```bash
-node scripts/render.mjs videos/my-first --snap 1.5,3.8,6.5,9.2,12 --det
-```
-
-`videos/my-first/renders/sheet.png` 에 검수 시트가 생깁니다. `결정성 · 같음` 이 나오면 정상입니다.
-
-```bash
-node scripts/render.mjs videos/my-first
-```
-
-```bash
-python3 scripts/mix.py videos/my-first
-```
-
-`videos/my-first/renders/video.mp4` 가 결과물입니다. `video.json` 의 `audio` 가 비어 있으므로 무음 트랙이 들어갑니다.
-
-![스타터 템플릿 렌더 결과](docs/media/starter.gif)
-
-결과는 위와 같습니다. "데이북"은 가상의 앱입니다.
-
-## 빠른 시작 2 · Claude Code 로 영상 만들기
-
-이 폴더에서 Claude Code 를 열고 이렇게 요청합니다.
-
-- `https://example.com 으로 30초 소개 영상 만들어줘` → 레퍼런스 후보 6개를 추천받는 흐름 (`motion-video` 스킬)
-- `카탈로그 보여줘` → 톤별 카탈로그에서 스타일을 직접 고르는 흐름 (`motion-catalog` 스킬)
-
-처음 실행하면 레퍼런스 색인을 만듭니다(`node scripts/refs.mjs index`, 1~2분). 공개 출처에서 제목·링크·짧은 발췌를 받아 `references/ref-index.json` 에 저장합니다. 이 파일은 git 에 올라가지 않습니다.
-
-비교 화면과 스토리보드 화면은 브라우저에 열립니다. 화면에서 고르거나 승인하면 다음 단계로 넘어갑니다.
-
 ## 비용이 드는 곳
 
 - **ElevenLabs** · 스토리보드를 승인한 뒤에만 생성합니다. 같은 생성을 재시도하지 않게 스킬에 적혀 있습니다.
