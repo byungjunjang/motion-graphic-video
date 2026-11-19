@@ -3,9 +3,10 @@
 Claude Code 로 모션그래픽 소개 영상을 만드는 작업 폴더입니다.
 HTML 한 파일이 시간 t 의 화면을 계산하고, Chrome 이 프레임을 찍고, ffmpeg 가 소리와 합쳐 mp4 를 만듭니다. 영상 편집 프로그램은 쓰지 않습니다.
 
-![스타터 템플릿 렌더 결과](docs/media/starter.gif)
+![30초 홍보 영상](docs/media/promo.gif)
 
-위 영상은 `templates/starter` 를 그대로 렌더한 결과입니다. "데이북"은 가상의 앱입니다.
+위 홍보 영상도 이 저장소로 만들었습니다. 영상 속 클립 벽과 회전 목마의 클립은 이 저장소로 만든 실제 영상입니다.
+[mp4 로 보기](docs/media/promo.mp4) · 30초 · 1920×1080 · 소리 없음
 
 ## 이렇게 동작합니다
 
@@ -80,6 +81,10 @@ python3 scripts/mix.py videos/my-first
 ```
 
 `videos/my-first/renders/video.mp4` 가 결과물입니다. `video.json` 의 `audio` 가 비어 있으므로 무음 트랙이 들어갑니다.
+
+![스타터 템플릿 렌더 결과](docs/media/starter.gif)
+
+결과는 위와 같습니다. "데이북"은 가상의 앱입니다.
 
 ## 빠른 시작 2 · Claude Code 로 영상 만들기
 
