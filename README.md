@@ -46,7 +46,7 @@ HTML 한 파일이 시간 t 의 화면을 계산하고, Chrome 이 프레임을 
 | 필수 | ffmpeg | 영상·소리 합성 |
 | 필수 | Python 3 | 소리 합성 (`scripts/mix.py`) |
 | 선택 | Python 패키지 `numpy` `pillow` `scipy` | 음악·효과음 합성, 음악 박자 분석, AI 이미지 배경 지우기 |
-| 권장 | ElevenLabs 커넥터 (claude.ai) | 내레이션·음악·효과음 생성. 내레이션은 이 커넥터로만 만듭니다. **크레딧이 듭니다** |
+| 권장 | ElevenLabs 커넥터 (claude.ai · 크리에이티브판, [연결 방법](#elevenlabs-연결-권장)) | 내레이션·음악·효과음 생성. 내레이션은 이 커넥터로만 만듭니다. **크레딧이 듭니다** |
 | 선택 | [Codex CLI](https://github.com/openai/codex) + ChatGPT 로그인 | AI 일러스트 생성. **ChatGPT 요금제 한도에서 나갑니다** |
 | 선택 | `whisper` 명령 (`brew install openai-whisper`) | 내레이션 단어 시각 측정 |
 
@@ -70,6 +70,26 @@ npm ci
 ```bash
 python3 -m pip install numpy pillow scipy
 ```
+
+### ElevenLabs 연결 (권장)
+
+ElevenLabs 공식 원격 MCP 의 크리에이티브판을 씁니다. API 키는 필요 없고, ElevenLabs 계정으로 로그인합니다.
+
+1. claude.ai 설정의 커넥터 화면에서 커스텀 커넥터를 추가합니다.
+2. 주소에 `https://api.elevenlabs.io/v1/mcp-creative` 를 넣습니다.
+3. ElevenLabs 계정으로 로그인해 권한을 허용합니다.
+4. 새 세션에서 `creative_` 로 시작하는 도구가 보이면 연결된 것입니다.
+
+| 버전 | 주소 | 이 프로젝트에서 |
+|---|---|---|
+| 크리에이티브판 | `/v1/mcp-creative` | **권장**. 음성·음악·효과음이 모두 있습니다 |
+| 전체판 | `/v1/mcp` | 동작합니다. 2026-11 에 확인했을 때 크리에이티브판과 같은 도구 241개(음성 에이전트 관리 도구 포함)가 보였습니다 |
+| 커넥터 디렉터리판 | `/v1/mcp-creative-claude-marketplace` | **쓰지 마세요**. 음악 생성이 없어 음악 단계에서 멈춥니다 |
+
+- claude.ai 커넥터 목록에서 바로 추가하는 ElevenLabs 는 디렉터리판입니다. 커스텀 커넥터로 크리에이티브판을 추가하세요.
+- 크리에이티브판과 전체판을 같이 연결하지 마세요. 같은 도구가 두 벌 생깁니다.
+- API 키를 쓰는 로컬 서버(`elevenlabs-mcp`)는 도구 이름이 달라 이 프로젝트에서 동작하지 않습니다.
+- 버전 설명은 [ElevenLabs 문서](https://elevenlabs.io/docs/eleven-creative/mcp)를 따릅니다.
 
 ## 첫 영상 만들기
 
