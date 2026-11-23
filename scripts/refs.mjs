@@ -1,7 +1,9 @@
 #!/usr/bin/env node
-// 모션그래픽 레퍼런스 일곱 곳을 한 색인으로 모은다 · prompt-motion.com(pm:), yihui-dev/awesome-opus5-5-videos(gh:), claudevideo.org(cv:),
-// lemomo-ai/lemo-opuscar 스타일 라이브러리(lo:), Vincentwei1021/mg-styles-15 쇼케이스(ms:), Pinterest 보드에서 모은 손제작 영상(pn:),
-// kstost/cokacmotion 의 aimotion 표현 기법 데모(am:).
+// 모션그래픽 레퍼런스 아홉 곳을 한 색인으로 모은다 · prompt-motion.com(pm:), yihui-dev/awesome-opus5-5-videos(gh:), claudevideo.org(cv:),
+// lemomo-ai/lemo-opuscar 스타일 라이브러리(lo:), Vincentwei1021/mg-styles-15 쇼케이스(ms:), ItsssssJack/claude-video-2 스타일 명세(c2:),
+// Pinterest 에서 모은 손제작 영상(pn:), Futurepedia AI Style Atlas 의 스타일 영상(fa:), kstost/cokacmotion 의 aimotion 표현 기법 데모(am:).
+// c2: 는 스타일마다 STYLE.md(색 hex·글꼴·이징 수치·움직임 규칙·금지 목록)가 전문이다. 포스터 그림이 없어서 poster 를 비운다. 화면은 영상의 첫 화면을 쓴다.
+// fa: 는 pn: 과 같은 방식이다. 원본의 프롬프트와 코드는 옮기지 않는다. 영상을 보고 쓴 분석 노트(references/atlas/<slug>.md)가 전문 자리에 온다. 목록은 references/atlas-refs.json 이다.
 // pn: 은 프롬프트가 없다. 영상 프레임을 보고 쓴 분석 노트(references/pinterest/<slug>.md)가 전문 자리에 온다. 목록은 references/pinterest-refs.json 이다.
 // pm:·gh:·cv: 가운데 작성자의 프롬프트에 화면 지시가 없는 항목은 영상 프레임을 보고 쓴 분석 노트(references/notes/<출처>-<slug>.md)로 보완한다.
 // 노트가 있으면 색인의 chars·excerpt·tones 는 노트에서 만들고 analysis: true 를 붙인다. show 는 노트를 먼저 내고 작성자의 프롬프트를 뒤에 붙인다.
@@ -13,7 +15,7 @@
 // 색인 발췌에서는 실존 작가·스튜디오·상표 이름을 뺀다. show·board 미리보기의 전문(lo: 숏 표와 --demo, ms: Creative seed)에는 이름이 남아 있다. 이름은 영상에 옮기지 않는다.
 // AE·Blender 같은 도구 이름은 기법 설명이라 남긴다. id 의 slug(lo:hd-2d 등)는 원본을 찾는 내부 키다. 영상·문구에 쓰지 않는다.
 //   node scripts/refs.mjs index                         → references/ref-index.json 을 다시 만든다 (1~2분)
-//   node scripts/refs.mjs index --only am               → aimotion 목록만 다시 받아 am: 항목과 바꾼다. 다른 출처 항목과 built 날짜는 그대로 둔다
+//   node scripts/refs.mjs index --only <lo|c2|pn|fa|am>  → 그 출처만 다시 받아 그 출처의 항목과 바꾼다. 다른 출처 항목과 built 날짜는 그대로 둔다
 //   node scripts/refs.mjs index --only notes            → 분석 노트만 다시 읽어 그 항목의 chars·excerpt·tones 를 바꾼다. 접속하지 않는다
 //   node scripts/refs.mjs search <단어...> [--tag t] [--tone 톤id] [--min-chars n] [--limit n] [--tech]
 //     --tech 는 스타일 레퍼런스 대신 표현 기법(am:)에서 찾는다
@@ -46,6 +48,10 @@ const MS_REPO = "https://github.com/Vincentwei1021/mg-styles-15";
 const AM = "https://raw.githubusercontent.com/kstost/cokacmotion/main/skills/aimotion";
 const AM_SITE = "https://kstost.github.io/cokacmotion";
 const AM_REPO = "https://github.com/kstost/cokacmotion";
+const C2 = "https://raw.githubusercontent.com/ItsssssJack/claude-video-2/main";
+const C2_CDN = "https://cdn.jsdelivr.net/gh/ItsssssJack/claude-video-2@main";   // 원본 저장소 주소는 mp4 를 영상 형식으로 주지 않는다. CDN 은 video/mp4 로 준다
+const C2_REPO = "https://github.com/ItsssssJack/claude-video-2";
+const FA_PAGE = "https://www.futurepedia.io/resources/ai-style-atlas/view";
 const EXCERPT = 400;
 const TONES = JSON.parse(readFileSync(join(ROOT, "references", "tone-keywords.json"), "utf8"));
 delete TONES._;
@@ -221,6 +227,48 @@ function pnEntry(r) {
     prompt: readFileSync(join(ROOT, "references", "pinterest", `${r.slug}.md`), "utf8").trim(),
   };
 }
+// claude-video-2 의 스타일 한 개. l 은 목록(gallery/looks.js)의 한 줄, md 는 STYLE.md 다
+function c2Entry(l, md) {
+  return {
+    id: `c2:${l.id}`,
+    source: "claude-video-2 (ItsssssJack · MIT)",
+    title: l.name,
+    author: "ItsssssJack",
+    url: `${C2_REPO}/tree/main/styles/${l.id}`,
+    post: "",
+    date: "",
+    tool: "Claude Code",
+    tags: [l.kind === "studio" ? "studio-piece" : "code-style", ...l.best.split(", ")],
+    poster: "",
+    video: `${C2_CDN}/gallery/videos/${l.id}.mp4`,
+    partial: false,
+    prompt: md.trim(),
+  };
+}
+// 목록은 JSON 이 아니라 스크립트다. 실행하지 않고 줄마다 id·name·kind·best 를 읽는다
+const c2Looks = async () =>
+  [...(await get(`${C2}/gallery/looks.js`)).matchAll(/\{ id: '([^']+)', name: '((?:[^'\\]|\\.)*)', kind: '([^']+)'.*?best: '((?:[^'\\]|\\.)*)'/g)]
+    .map(([, id, name, kind, best]) => ({ id, name: name.replace(/\\'/g, "'"), kind, best: best.replace(/\\'/g, "'") }));
+// AI Style Atlas 의 스타일 한 개. 목록과 분석 노트가 저장소 안에 있어서 접속 없이 읽는다
+const FA_PATH = join(ROOT, "references", "atlas-refs.json");
+const faRows = () => (existsSync(FA_PATH) ? JSON.parse(readFileSync(FA_PATH, "utf8")).styles : []);
+function faEntry(r) {
+  return {
+    id: `fa:${r.slug}`,
+    source: "AI Style Atlas (Futurepedia)",
+    title: r.title,
+    author: "Futurepedia",
+    url: FA_PAGE,
+    post: "",
+    date: r.saved,
+    tool: "코드 스타일 영상 · 분석 노트",
+    tags: [...r.tags, `${r.w}x${r.h}`, `${r.fps}fps`, `${r.dur}s`],
+    poster: r.poster,
+    video: r.video,
+    partial: false,
+    prompt: readFileSync(join(ROOT, "references", "atlas", `${r.slug}.md`), "utf8").trim(),
+  };
+}
 // 분석 노트. 파일 이름은 id 의 쌍점을 하이픈으로 바꾼 것이다 (pm:abc-123 → pm-abc-123.md). 노트가 없으면 null
 const NOTES_DIR = join(ROOT, "references", "notes");
 const noteOf = (id) => {
@@ -322,8 +370,27 @@ async function crawl(urls, parse, failed) {
   return out;
 }
 
+// 다른 출처와 겹치는 재게시가 없는 출처. 합치기를 거치지 않아서 --only <키> 로 그 출처만 다시 받을 수 있다
+const SOLO = {
+  // lo: 는 스타일마다 STYLE.md 와 DEMO.md 를 받는다
+  lo: async (failed) => {
+    const rows = JSON.parse(await get(`${LO}/styleboard/catalog.json`)), by = Object.fromEntries(rows.map((r) => [r.slug, r]));
+    return crawl(rows.map((r) => `${LO}/styles/${r.slug}/STYLE.md`), async (style, u) => {
+      const slug = u.split("/").at(-2);
+      return loEntry(by[slug], style, await get(`${LO}/styles/${slug}/DEMO.md`));
+    }, failed);
+  },
+  c2: async (failed) => {
+    const looks = await c2Looks(), by = Object.fromEntries(looks.map((l) => [l.id, l]));
+    return crawl(looks.map((l) => `${C2}/styles/${l.id}/STYLE.md`), (md, u) => c2Entry(by[u.split("/").at(-2)], md), failed);
+  },
+  pn: async () => pnRows().map(pnEntry),
+  fa: async () => faRows().map(faEntry),
+  am: async () => (await amIndex()).demos.map((d) => amEntry(d)),
+};
+
 async function buildIndex(only) {
-  // --only am · aimotion 은 목록 한 번만 받으면 된다. 그래서 다른 출처를 다시 훑지 않고 am: 항목만 바꿀 수 있다
+  // --only <출처> · SOLO 의 출처는 다른 출처를 다시 훑지 않고 그 출처의 항목만 바꿀 수 있다
   // --only notes · 분석 노트는 저장소 안에 있다. 그래서 접속하지 않고 노트가 있는 항목의 글자 수·발췌·톤만 바꿀 수 있다
   if (only === "notes") {
     const idx = loadIndex("all"), ids = new Set(idx.entries.map((e) => e.id));
@@ -336,11 +403,15 @@ async function buildIndex(only) {
     return;
   }
   if (only) {
-    if (only !== "am") throw new Error(`--only 는 am 또는 notes 만 받는다: ${only}`);
-    const idx = loadIndex("all"), list = await amIndex(), kept = idx.entries.filter((e) => e.kind !== "technique");
-    const fresh = list.demos.map((d) => toIndex(amEntry(d)));
-    writeFileSync(INDEX, JSON.stringify({ built: idx.built, entries: [...kept, ...fresh] }, null, 1));
-    console.log(`aimotion ${fresh.length} · 다른 출처 ${kept.length}개와 built(${idx.built})는 그대로 → ${INDEX}`);
+    if (!SOLO[only]) throw new Error(`--only 는 ${Object.keys(SOLO).join(", ")}, notes 만 받는다: ${only}`);
+    const idx = loadIndex("all"), mine = (e) => e.id.startsWith(`${only}:`), kept = idx.entries.filter((e) => !mine(e)), failed = [];
+    const fresh = (await SOLO[only](failed)).map(toIndex);
+    // 그 출처가 있던 자리에 넣는다. 새 출처면 표현 기법(am:) 앞에 넣는다
+    const was = idx.entries.findIndex(mine), tech = kept.findIndex((e) => e.kind === "technique");
+    const at = was >= 0 ? was : tech >= 0 ? tech : kept.length;
+    writeFileSync(INDEX, JSON.stringify({ built: idx.built, entries: [...kept.slice(0, at), ...fresh, ...kept.slice(at)] }, null, 1));
+    console.log(`${only}: ${fresh.length} · 다른 출처 ${kept.length}개와 built(${idx.built})는 그대로 → ${INDEX}`);
+    if (failed.length) console.log(`failed (${failed.length}):\n${failed.join("\n")}`);
     return;
   }
   const sitemap = await get(`${PM}/sitemap.xml`);
@@ -349,21 +420,15 @@ async function buildIndex(only) {
   const pm = await crawl(urls, pmEntry, failed);
   const gh = JSON.parse(await get(GH_JSON)).map(ghEntry);
   const cv = await cvPrompted(failed);
-  // lo: 는 스타일마다 STYLE.md 와 DEMO.md 를 받는다. 다른 출처와 겹치는 재게시가 없어서 합치기를 거치지 않는다
-  const loRows = JSON.parse(await get(`${LO}/styleboard/catalog.json`)), loBy = Object.fromEntries(loRows.map((r) => [r.slug, r]));
-  const lo = await crawl(loRows.map((r) => `${LO}/styles/${r.slug}/STYLE.md`), async (style, u) => {
-    const slug = u.split("/").at(-2);
-    return loEntry(loBy[slug], style, await get(`${LO}/styles/${slug}/DEMO.md`));
-  }, failed);
+  const lo = await SOLO.lo(failed);
   const ms = (await msFilms()).map(msEntry);
-  const pn = pnRows().map(pnEntry);
-  const am = (await amIndex()).demos.map((d) => amEntry(d));
+  const c2 = await SOLO.c2(failed), pn = await SOLO.pn(), fa = await SOLO.fa(), am = await SOLO.am();
   // 같은 영상이 여러 곳에 있으면 한 항목으로 합치고 출처를 모두 적는다. 검색 순위에는 출처를 쓰지 않는다.
   const [ghOnly, cvOnly] = mergeTwins(pm, gh, cv);
-  const entries = [...pm, ...ghOnly, ...cvOnly, ...lo, ...ms, ...pn, ...am].map(toIndex);
+  const entries = [...pm, ...ghOnly, ...cvOnly, ...lo, ...ms, ...c2, ...pn, ...fa, ...am].map(toIndex);
   mkdirSync(dirname(INDEX), { recursive: true });
   writeFileSync(INDEX, JSON.stringify({ built: new Date().toISOString().slice(0, 10), entries }, null, 1));
-  console.log(`prompt-motion ${pm.length}/${urls.length} · github ${ghOnly.length}/${gh.length} (양쪽에 다 있는 ${gh.length - ghOnly.length}개는 한 항목으로 합침) · claudevideo ${cvOnly.length}/${cv.length} · lemo-opuscar ${lo.length}/${loRows.length} · mg-styles-15 ${ms.length} · pinterest ${pn.length} · aimotion ${am.length} → ${INDEX}`);
+  console.log(`prompt-motion ${pm.length}/${urls.length} · github ${ghOnly.length}/${gh.length} (양쪽에 다 있는 ${gh.length - ghOnly.length}개는 한 항목으로 합침) · claudevideo ${cvOnly.length}/${cv.length} · lemo-opuscar ${lo.length} · mg-styles-15 ${ms.length} · claude-video-2 ${c2.length} · pinterest ${pn.length} · style atlas ${fa.length} · aimotion ${am.length} → ${INDEX}`);
   if (failed.length) console.log(`failed (${failed.length}):\n${failed.join("\n")}`);
 }
 
@@ -439,12 +504,22 @@ async function fetchSource(id) {
     if (!r) throw new Error(`pinterest 목록에 없는 slug: ${slug}`);
     return pnEntry(r);
   }
+  if (src === "c2") {
+    const l = (await c2Looks()).find((x) => x.id === slug);
+    if (!l) throw new Error(`claude-video-2 목록에 없는 id: ${slug}`);
+    return c2Entry(l, await get(`${C2}/styles/${slug}/STYLE.md`));
+  }
+  if (src === "fa") {
+    const r = faRows().find((x) => x.slug === slug);
+    if (!r) throw new Error(`style atlas 목록에 없는 slug: ${slug}`);
+    return faEntry(r);
+  }
   if (src === "am") {
     const d = (await amIndex()).demos.find((x) => x.id === slug);
     if (!d) throw new Error(`aimotion 목록에 없는 id: ${slug}`);
     return amEntry(d, await get(`${AM}/demos/${d.id}/NOTES.md`));
   }
-  throw new Error(`id 는 pm:<slug>, gh:<slug>, cv:<slug>, lo:<slug>, ms:<slug>, pn:<slug>, am:<id> 형식이다: ${id}`);
+  throw new Error(`id 는 pm:<slug>, gh:<slug>, cv:<slug>, lo:<slug>, ms:<slug>, c2:<id>, pn:<slug>, fa:<slug>, am:<id> 형식이다: ${id}`);
 }
 
 function search(words, opts) {
@@ -605,7 +680,7 @@ try {
     appendFileSync(READ_LOG, `${new Date().toISOString()}\t${e.id}\n`);
   } else if (cmd === "board" && positional[0]) await board(positional[0], !rest.includes("--no-open"));
   else {
-    console.error("usage: refs.mjs index [--only am] | search <단어...> [--tag t] [--tone 톤id] [--min-chars n] [--limit n] [--tech] | tones | verify | unlabeled [--sample n] [--untoned] | show <id> [--demo] | board videos/<id> [--no-open]");
+    console.error("usage: refs.mjs index [--only lo|c2|pn|fa|am|notes] | search <단어...> [--tag t] [--tone 톤id] [--min-chars n] [--limit n] [--tech] | tones | verify | unlabeled [--sample n] [--untoned] | show <id> [--demo] | board videos/<id> [--no-open]");
     process.exit(1);
   }
 } catch (err) {

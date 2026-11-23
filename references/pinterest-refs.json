@@ -1,5 +1,5 @@
 {
- "_": "Pinterest 보드에서 모은 손제작 영상 레퍼런스. 프롬프트가 없어서 영상 프레임을 보고 쓴 분석 노트(references/pinterest/<slug>.md)를 전문 자리에 둔다. 핀을 더하면 여기에 한 줄을 넣고 분석 노트를 쓴 뒤 `node scripts/refs.mjs index` 와 `verify` 를 실행한다. title 과 분석 노트에는 실존 브랜드·기관 이름을 쓰지 않는다. w·h·fps·dur 은 ffprobe 로 잰 파일 값이다.",
+ "_": "Pinterest 보드에서 모은 손제작 영상 레퍼런스. 프롬프트가 없어서 영상 프레임을 보고 쓴 분석 노트(references/pinterest/<slug>.md)를 전문 자리에 둔다. 핀을 더하면 여기에 한 줄을 넣고 분석 노트를 쓴 뒤 `node scripts/refs.mjs index` 와 `verify` 를 실행한다. board 가 \"검색 추천\"인 핀은 2026-11-23 에 에이전트가 검색으로 찾고 사용자가 검토 화면에서 승인한 것이다. 이 핀의 pin 은 숫자 번호가 아니라 검색 결과의 핀 id(e1_…)다. 핀 주소에는 그대로 쓸 수 있다. title 과 분석 노트에는 실존 브랜드·기관 이름을 쓰지 않는다. w·h·fps·dur 은 ffprobe 로 잰 파일 값이다.",
  "pins": [
   {
    "slug": "torn-paper-safari",
@@ -36,6 +36,138 @@
    "w": 736, "h": 414, "fps": 25, "dur": 45,
    "poster": "https://i.pinimg.com/videos/thumbnails/originals/ed/76/b8/ed76b87dea6d08dc6d6d3ef86e40ce0b.0000000.jpg",
    "video": "https://v1.pinimg.com/videos/iht/720p/ed/76/b8/ed76b87dea6d08dc6d6d3ef86e40ce0b.mp4"
+  },
+  {
+   "slug": "sketch-archive-collage",
+   "pin": "e1_AfqPShyHer9GdfZK3OAp3aRqWPVRK-XlZDsmOE1frmGlYuwIoaQi",
+   "board": "검색 추천",
+   "title": "Sketch Archive Collage",
+   "author": "rnthfl123",
+   "saved": "2026-11-23",
+   "tags": ["paper", "collage", "archive", "sketch", "brand-history"],
+   "w": 1280, "h": 720, "fps": 25, "dur": 89,
+   "poster": "https://i.pinimg.com/736x/49/a4/c6/49a4c636f0e2e326e1febdf530f10e3c.jpg",
+   "video": "https://v1.pinimg.com/videos/mc/720p/8f/a1/a8/8fa1a80e63e394e8476f8e84d890f1a7.mp4"
+  },
+  {
+   "slug": "cutout-type-campaign",
+   "pin": "e1_AfqPShzgnQfDNvlw6dkJhQWaWDh8LyG_a9kXlQa0odlmow0wh_Nf",
+   "board": "검색 추천",
+   "title": "Cut-Out Type Campaign",
+   "author": "valuable826",
+   "saved": "2026-11-23",
+   "tags": ["paper", "collage", "cut-out", "kinetic-type", "campaign"],
+   "w": 736, "h": 414, "fps": 24, "dur": 59,
+   "poster": "https://i.pinimg.com/736x/62/fd/4f/62fd4fbcee20df2e637014b074ccdfda.jpg",
+   "video": "https://v1.pinimg.com/videos/mc/720p/41/f9/22/41f922a41deb502b87b4fb78b455bfd6.mp4"
+  },
+  {
+   "slug": "surreal-photo-collage",
+   "pin": "e1_AfqPShz1mJHMweDsjWrSC8v19dPElvLbFuRb0b8_x_xAtuDUk05V",
+   "board": "검색 추천",
+   "title": "Surreal Photo Collage",
+   "author": "valuable826",
+   "saved": "2026-11-23",
+   "tags": ["collage", "photo-cut-out", "surreal", "pastel", "campaign"],
+   "w": 736, "h": 414, "fps": 24, "dur": 50,
+   "poster": "https://i.pinimg.com/736x/8e/ab/9f/8eab9fd49333914fbfee603c573894bd.jpg",
+   "video": "https://v1.pinimg.com/videos/mc/720p/0c/2a/9f/0c2a9f250837b9a3f8385f41a64103f5.mp4"
+  },
+  {
+   "slug": "pastel-halftone-collage",
+   "pin": "e1_AfqPShyu7XSN3k6O_Aiz0KSx1OnCSCYM5m6WUVvJgWFP5YM1V4bL",
+   "board": "검색 추천",
+   "title": "Pastel Halftone Collage",
+   "author": "ampullamotion",
+   "saved": "2026-11-23",
+   "tags": ["collage", "photo-cut-out", "halftone", "pastel", "explainer"],
+   "w": 1280, "h": 720, "fps": 24, "dur": 72,
+   "poster": "https://i.pinimg.com/736x/05/93/a5/0593a504fcf50ea106e255aa1b4606e1.jpg",
+   "video": "https://v1.pinimg.com/videos/mc/720p/d3/03/ec/d303ec5472297363f6fc5f4ae2364785.mp4"
+  },
+  {
+   "slug": "popup-book-stop-motion",
+   "pin": "e1_AfqPShyIK-f6M5DNnMFIucIqxNKDD1pLt5QfBosF7dkqmueFt83j",
+   "board": "검색 추천",
+   "title": "Pop-Up Book Stop Motion",
+   "author": "mandysmith85",
+   "saved": "2026-11-23",
+   "tags": ["paper", "pop-up-book", "stop-motion", "live-action", "brand-story"],
+   "w": 1280, "h": 720, "fps": 25, "dur": 71,
+   "poster": "https://i.pinimg.com/736x/8c/7c/bd/8c7cbd154537a3728cfe006039310ba6.jpg",
+   "video": "https://v1.pinimg.com/videos/mc/720p/75/8a/c0/758ac0b89e7efaa3faa0a04975b6b715.mp4"
+  },
+  {
+   "slug": "riso-panel-grid",
+   "pin": "e1_AfqPShyQl5V3ZV_XPRW_yPog96LCSYVsq98D9IDZV10EVwVM2NQp",
+   "board": "검색 추천",
+   "title": "Riso Panel Grid",
+   "author": "otp_otopi",
+   "saved": "2026-11-23",
+   "tags": ["risograph", "print", "panel-grid", "loop"],
+   "w": 736, "h": 414, "fps": 8, "dur": 42,
+   "poster": "https://i.pinimg.com/736x/a2/32/c3/a232c36c24dd38788b9dd7dfe75d5ac9.jpg",
+   "video": "https://v1.pinimg.com/videos/mc/720p/63/5a/a8/635aa8123494a45789cb95de9c6be516.mp4"
+  },
+  {
+   "slug": "ink-blot-title",
+   "pin": "e1_AfqPShy52mBJ9ESi2zAQjvdx5U0EzRgYN0c0ANiuApJzOq8t0CMQ",
+   "board": "검색 추천",
+   "title": "Ink Blot Title Sequence",
+   "author": "fcreator0089",
+   "saved": "2026-11-23",
+   "tags": ["ink", "ink-wash", "title-sequence", "calligraphy"],
+   "w": 256, "h": 144, "fps": 30, "dur": 36,
+   "poster": "https://i.pinimg.com/736x/d9/5f/87/d95f8773af4e860614520d5f0c308e4e.jpg",
+   "video": "https://v1.pinimg.com/videos/mc/720p/a5/f5/a9/a5f5a9f6e4b563612f6837eb24c7b4d6.mp4"
+  },
+  {
+   "slug": "mono-type-footage",
+   "pin": "e1_AfqPShyZ4UkimtGhsD4rm1BNoW0EwLBIDbfC0VLJVE6Yf6sRRjAM",
+   "board": "검색 추천",
+   "title": "Mono Type and Footage Tiles",
+   "author": "vidicoagency",
+   "saved": "2026-11-23",
+   "tags": ["kinetic-type", "black-and-white", "footage-tiles", "product"],
+   "w": 736, "h": 414, "fps": 25, "dur": 78,
+   "poster": "https://i.pinimg.com/736x/ae/3e/cd/ae3ecd5748d613b81388a85a6fa6b043.jpg",
+   "video": "https://v1.pinimg.com/videos/mc/720p/6c/86/bb/6c86bb2cea7c40bcb237b416d4f3fa50.mp4"
+  },
+  {
+   "slug": "dark-grid-brand",
+   "pin": "e1_AfqPShwhs4-njcv98k0iv8Ep5EVx8apNOiZa-RhSjuQad6U6Weow",
+   "board": "검색 추천",
+   "title": "Dark Grid Brand Animation",
+   "author": "vidicoagency",
+   "saved": "2026-11-23",
+   "tags": ["dark-grid", "ui-cards", "charts", "flat-illustration", "brand"],
+   "w": 1280, "h": 720, "fps": 25, "dur": 69,
+   "poster": "https://i.pinimg.com/736x/7e/20/3e/7e203ecd6303ffa7f596ef17f7cf610a.jpg",
+   "video": "https://v1.pinimg.com/videos/mc/720p/b8/da/94/b8da946598162e418503c81fb2661e12.mp4"
+  },
+  {
+   "slug": "green-line-explainer",
+   "pin": "e1_AfqPShz5bt3MX06HOfhefxO_Rc_kgiJA3lKmWdwZnPDzppT6Wo_B",
+   "board": "검색 추천",
+   "title": "Green Dotted-Line Explainer",
+   "author": "sanazabdi89",
+   "saved": "2026-11-23",
+   "tags": ["flat-illustration", "dotted-line", "morph", "app", "explainer"],
+   "w": 1280, "h": 720, "fps": 25, "dur": 36,
+   "poster": "https://i.pinimg.com/736x/c6/8c/00/c68c00bb7de09cbdf644e6e13de8a38c.jpg",
+   "video": "https://v1.pinimg.com/videos/mc/720p/8c/f0/68/8cf068a2e5de08d417cccb0d16ed72ff.mp4"
+  },
+  {
+   "slug": "blue-flat-saas",
+   "pin": "e1_AfqPShxU2wSt_3SvcVFQ3crREWXBptnE1k1C_CBPzYitGUnHCg",
+   "board": "검색 추천",
+   "title": "Blue Flat SaaS Explainer",
+   "author": "xoualex7",
+   "saved": "2026-11-23",
+   "tags": ["flat-illustration", "isometric", "liquid-transition", "saas", "explainer"],
+   "w": 1280, "h": 720, "fps": 25, "dur": 69,
+   "poster": "https://i.pinimg.com/736x/67/d5/81/67d5818e8275bdcb22c25dd80724549e.jpg",
+   "video": "https://v1.pinimg.com/videos/mc/720p/9f/d9/c2/9fd9c21edc5ec4cc9af3cf26438b2116.mp4"
   }
  ]
 }

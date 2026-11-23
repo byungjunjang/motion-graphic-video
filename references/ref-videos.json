@@ -7960,5 +7960,329 @@
  "am:166-bullet-time": {
   "via": "page",
   "checked": "2026-11-11"
+ },
+ "lo:firefly-pointillism": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-11-23"
+ },
+ "lo:flow-field": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-11-23"
+ },
+ "lo:oscilloscope-math": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-11-23"
+ },
+ "lo:memphis-diorama": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-11-23"
+ },
+ "c2:swiss-grid": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-11-23"
+ },
+ "c2:blueprint": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "checked": "2026-11-23"
+ },
+ "c2:swiss-kinetic": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침 (lo:swiss-motion)",
+  "checked": "2026-11-23"
+ },
+ "c2:editorial-paper": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침 (c2:data-story)",
+  "checked": "2026-11-23"
+ },
+ "c2:paper-cut": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침 (c2:paper-world)",
+  "checked": "2026-11-23"
+ },
+ "c2:motion-app-ui": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침 (c2:editor-ui)",
+  "checked": "2026-11-23"
+ },
+ "c2:audio-app-ui": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침 (c2:editor-ui)",
+  "checked": "2026-11-23"
+ },
+ "c2:midnight-grid": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "남긴 카드나 기존 명세와 화면이 겹침 (c2:explainer-diagram)",
+  "checked": "2026-11-23"
+ },
+ "c2:time-travel": {
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "제품·주제 소개에 쓰기 어려움",
+  "checked": "2026-11-23"
+ },
+ "lo:colored-pencil": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:chalkboard": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:sketchnote": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:stick-explainer": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:ipad-sketch": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:marker-paper": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:gilded-illumination": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:printed-long-take": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:pop-art": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:vintage-collage": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:bauhaus-shapes": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:flat-space-explainer": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:text-flash-cuts": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:silhouette-rhythm": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:hardcore-info": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:precise-mechanism": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:instruction-manual": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:pen-plotter": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:assembly-line-diagram": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:comic-history": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:manga-panels": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:scratch-film": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:double-exposure": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:desktop-flythrough": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:spreadsheet": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:one-bit-dither": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:circuit-board": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:neon-tubes": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:isometric-picture-book": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:crayon-world": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:security-xray": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:dark-documentary": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:thermal-camera": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:transit-map": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:map-explainer": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "lo:pip-simulation": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "c2:paper-world": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "c2:ink-line": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "c2:weather-widget": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "c2:data-story": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "c2:particle-field": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "c2:growing-city": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "c2:explainer-diagram": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "c2:editor-ui": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "c2:design-app-ui": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "c2:risograph": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "c2:graphite-ui": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "c2:poster-pop": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "pn:sketch-archive-collage": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "pn:cutout-type-campaign": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "pn:surreal-photo-collage": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "pn:pastel-halftone-collage": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "pn:popup-book-stop-motion": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "pn:riso-panel-grid": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "pn:ink-blot-title": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "pn:mono-type-footage": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "pn:dark-grid-brand": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "pn:green-line-explainer": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "pn:blue-flat-saas": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "fa:film-noir": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "fa:soft-3d-clay": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "fa:memphis": {
+  "via": "source",
+  "checked": "2026-11-23"
+ },
+ "fa:patent-drawing": {
+  "via": "source",
+  "checked": "2026-11-23"
  }
 }

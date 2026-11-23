@@ -17,10 +17,12 @@ scripts/mix.py           video.json 시간표대로 소리를 섞어 mp4 생성 
 scripts/key.py           AI 이미지(codex-image)의 마젠타 바탕을 지워 투명 PNG 로 만든다. --split 은 한 장에 그린 여러 그림을 따로 자른다
 scripts/audio-probe.py   길이·무음 구간·음량 곡선 측정, --onsets --write 로 타격음·BPM·마디 첫 박·킥 → beats (영상 시각), --fit 으로 전환과 박의 오차, --peak 로 효과음 동기점
 .claude/skills/motionmaxxing/scripts/look.py  7단계 렌더 측정 (G0·끝 정지·LUFS·true peak 만 읽는다)
-references/ref-index.json  (git 에 넣지 않는다 · 없으면 refs.mjs index 로 만든다) 일곱 출처 레퍼런스 색인 (pm·gh·cv 세 사이트 + lo: lemo-opuscar, ms: mg-styles-15, pn: Pinterest 보드의 손제작 영상, am: aimotion 표현 기법 데모 · 발췌만, 전문 없음). tone-labels.json 에 판정이 없는 항목은 검토 대기로 보고 검색·카탈로그에서 뺀다
+references/ref-index.json  (git 에 넣지 않는다 · 없으면 refs.mjs index 로 만든다) 아홉 출처 레퍼런스 색인 (pm·gh·cv 세 사이트 + lo: lemo-opuscar, ms: mg-styles-15, c2: claude-video-2 스타일 명세, pn: Pinterest 의 손제작 영상, fa: AI Style Atlas 의 스타일 영상, am: aimotion 표현 기법 데모 · 발췌만, 전문 없음). tone-labels.json 에 판정이 없는 항목은 검토 대기로 보고 검색·카탈로그에서 뺀다
                            am: 은 스타일 레퍼런스가 아니라 표현 기법이다(kind: technique). 카탈로그 화면에 싣지 않고 제작 단계에서만 쓴다. 톤별 수에 세지 않고, search 는 --tech 를 줄 때만 낸다. show am:<id> 는 구현 노트를 낸다. refs.mjs index --only am 으로 am: 만 다시 받는다
 catalog-site/            배포용 카탈로그 폴더 (index.html + 글꼴 2개 · git 에 넣지 않는다). catalog.mjs --site 가 만든다
 references/pinterest-refs.json  pn: 항목 목록 (핀 번호·영상 주소·잰 값). 프롬프트가 없어서 영상 프레임을 보고 쓴 분석 노트 references/pinterest/<slug>.md 가 전문 자리에 온다
+references/atlas-refs.json     fa: 항목 목록 (원본 사이트의 영상 주소·잰 값). pn: 과 같은 방식이다. 원본의 프롬프트와 코드는 옮기지 않고 분석 노트 references/atlas/<slug>.md 가 전문 자리에 온다
+                           한 출처만 다시 받을 때는 refs.mjs index --only <lo|c2|pn|fa|am> 을 쓴다. 다른 출처 항목은 그대로 둔다
 references/notes/<출처>-<slug>.md  pm:·gh:·cv: 항목의 분석 노트 (파일 이름은 id 의 쌍점을 하이픈으로 바꾼 것). 작성자의 프롬프트에 화면 지시가 없는 항목을 영상 프레임을 보고 보완한 글이다
                            show 는 노트를 먼저 내고 작성자의 프롬프트를 뒤에 붙인다. 노트를 쓰거나 고친 뒤 refs.mjs index --only notes 를 실행한다. 쓰는 법은 tone-catalog.md 의 분석 노트 줄에 있다
 references/tone-keywords.json  톤 id 별 검색 단어표. refs.mjs index 가 항목마다 tones 를 붙인다
@@ -53,7 +55,7 @@ videos/<id>/             영상 한 편 (git 에 넣지 않는다 · 고객 자�
 - 일러스트는 AI 이미지(`codex-image`)로 그릴 수 있다. 그림 안에 글자·로고를 넣지 않는다. 레퍼런스의 작가·작품·캐릭터 이름을 프롬프트에 넣거나 레퍼런스 영상의 프레임을 참조 이미지로 붙이지 않는다. 쓰는 법은 `.claude/skills/motion-video/references/ai-image.md` 에 있다.
 - 레퍼런스의 문장과 브랜드 이름은 베끼지 않는다. 구조·박자·전환·타이포 처리만 가져온다.
 - 표현 기법(`am:`)은 에이전트가 찾아서 쓴다. 사용자에게 기법을 고르게 하거나 묻지 않는다. 효과를 만드는 방법만 가져온다. 데모의 소재·장면·구도·문구·색·세로 형식은 옮기지 않는다. 기법 코드를 옮겨 쓰면 출처(aimotion · MIT)를 주석으로 적는다. 쓰는 법은 `.claude/skills/motion-video/references/technique-refs.md` 에 있다.
-- 프롬프트 전문을 저장소에 저장하지 않는다. 색인에는 발췌만 둔다. 분석 노트(`references/notes/`, `references/pinterest/`)는 우리가 쓴 글이라 저장소에 둔다. 노트에는 작성자의 프롬프트, 화면에 나온 문장, 실존 이름을 옮기지 않는다.
+- 프롬프트 전문을 저장소에 저장하지 않는다. 색인에는 발췌만 둔다. 분석 노트(`references/notes/`, `references/pinterest/`, `references/atlas/`)는 우리가 쓴 글이라 저장소에 둔다. 노트에는 작성자의 프롬프트, 화면에 나온 문장, 실존 이름을 옮기지 않는다.
 - 이 저장소는 공개 저장소다. `videos/` 와 `references/ref-index.json` 은 git 에 넣지 않는다. 문서·스크립트·커밋 메시지에 고객사·기관 이름을 쓰지 않는다. 예시는 "첫 작업 영상", "콜라주 영상"처럼 일반 표현으로 적는다.
 - 결과 보고에는 확인한 것과 확인하지 못한 것을 나눠 적는다. 소리는 들을 수 없으므로 측정값으로 확인했다고 적는다.
 

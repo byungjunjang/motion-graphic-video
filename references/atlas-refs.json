@@ -1,0 +1,45 @@
+{
+ "_": "Futurepedia 의 AI Style Atlas(https://www.futurepedia.io/resources/ai-style-atlas/view)에서 고른 스타일 영상 레퍼런스. 원본의 프롬프트와 코드는 옮기지 않는다. 영상(Explainer 판)을 보고 쓴 분석 노트(references/atlas/<slug>.md)를 전문 자리에 둔다. 영상과 포스터는 원본 사이트의 주소를 링크로만 쓴다. 스타일을 더하면 여기에 한 줄을 넣고 분석 노트를 쓴 뒤 `node scripts/refs.mjs index --only fa` 와 `verify` 를 실행한다. title 은 원본의 스타일 이름이다. w·h·fps·dur 은 ffprobe 로 잰 파일 값이다.",
+ "styles": [
+  {
+   "slug": "film-noir",
+   "title": "1940s Film Noir",
+   "family": "Light & Imaging",
+   "saved": "2026-11-23",
+   "tags": ["film-noir", "black-and-white", "light-and-shadow", "explainer"],
+   "w": 960, "h": 540, "fps": 30, "dur": 15,
+   "poster": "https://cdn.futurepedia.io/2026-10-14T18-15-18.443Z-4mMn6gmnz43ovxg49xXsIC61JYnI6zW1G.jpg",
+   "video": "https://cdn.futurepedia.io/2026-10-14T18-15-19.524Z-XdupWSZAGNRf-naKtgpAApW-eloMfDNB2.mp4"
+  },
+  {
+   "slug": "soft-3d-clay",
+   "title": "Soft 3D Clay",
+   "family": "Dimensional",
+   "saved": "2026-11-23",
+   "tags": ["clay", "3d", "pastel", "icons", "explainer"],
+   "w": 960, "h": 540, "fps": 30, "dur": 14,
+   "poster": "https://cdn.futurepedia.io/2026-10-14T18-17-48.872Z-1rYJJ41bKoysttMnzd4OayoFeqK_lquVj.jpg",
+   "video": "https://cdn.futurepedia.io/2026-10-14T18-17-49.613Z-rtJlAnxUClES-IiMSbLXihOOmoYMd7iu0.mp4"
+  },
+  {
+   "slug": "memphis",
+   "title": "Memphis Group",
+   "family": "Art & Design Movements",
+   "saved": "2026-11-23",
+   "tags": ["memphis", "pattern", "geometric", "80s", "explainer"],
+   "w": 960, "h": 540, "fps": 30, "dur": 14,
+   "poster": "https://cdn.futurepedia.io/2026-10-14T18-18-23.461Z-LXZnvukM-TOwSSxZaMVa0KAAH63fukuXY.jpg",
+   "video": "https://cdn.futurepedia.io/2026-10-14T18-18-24.255Z-5ocKzIh-UglM206GPWfPIaK7zgh2_UhB9.mp4"
+  },
+  {
+   "slug": "patent-drawing",
+   "title": "Patent Drawing",
+   "family": "Illustration",
+   "saved": "2026-11-23",
+   "tags": ["patent", "line-drawing", "aged-paper", "diagram", "explainer"],
+   "w": 960, "h": 540, "fps": 30, "dur": 14,
+   "poster": "https://cdn.futurepedia.io/2026-10-14T18-18-41.578Z-0JEwEDUQ-OHyp4gy6pHnymEjQ1nahF2Uw.jpg",
+   "video": "https://cdn.futurepedia.io/2026-10-14T18-18-42.369Z-8eAeJBfBbF6eYRpBF_qppyucVuphBTsAI.mp4"
+  }
+ ]
+}

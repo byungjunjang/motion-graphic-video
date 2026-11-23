@@ -9985,5 +9985,675 @@
   "note": "터지는 물풍선이 멈추고 카메라만 도는 불릿 타임",
   "date": "2026-11-11",
   "confidence": "mid"
+ },
+ "lo:colored-pencil": {
+  "tones": [
+   "hand-drawn",
+   "cutaway"
+  ],
+  "by": "frames4",
+  "note": "색연필로 칠한 나무와 땅속 뿌리 단면 그림",
+  "date": "2026-11-23",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:chalkboard": {
+  "tones": [
+   "whiteboard"
+  ],
+  "by": "frames4",
+  "note": "칠판에 분필로 쓰이는 글자와 도식",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:sketchnote": {
+  "tones": [
+   "hand-drawn",
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "모눈 종이 위 펜 그림과 노란 형광펜의 스케치노트",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:stick-explainer": {
+  "tones": [
+   "infographic",
+   "hand-drawn"
+  ],
+  "by": "frames4",
+  "note": "선 인물과 빨간 강조색으로 그린 연결망 도식",
+  "date": "2026-11-23",
+  "confidence": "mid"
+ },
+ "lo:ipad-sketch": {
+  "tones": [
+   "hand-drawn"
+  ],
+  "by": "frames4",
+  "note": "크림 바탕에 펜 선과 수채로 그려 가는 커피 열매 스케치",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:marker-paper": {
+  "tones": [
+   "whiteboard",
+   "hand-drawn"
+  ],
+  "by": "frames4",
+  "note": "흰 종이에 마커로 쓰는 손글씨 수식과 선 인물",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:gilded-illumination": {
+  "tones": [],
+  "by": "frames4",
+  "note": "해당 없음: 금박 해와 중세 채식 필사본풍 그림",
+  "date": "2026-11-23",
+  "confidence": "mid",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:printed-long-take": {
+  "tones": [
+   "printmaking"
+  ],
+  "by": "frames4",
+  "note": "흑백 스크래치보드 판화풍 설원과 새 떼, 긴 한 컷",
+  "date": "2026-11-23",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:pop-art": {
+  "tones": [
+   "printmaking"
+  ],
+  "by": "frames4",
+  "note": "망점과 원색으로 반복되는 팝아트 과일 무늬",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:vintage-collage": {
+  "tones": [
+   "collage",
+   "printmaking"
+  ],
+  "by": "frames4",
+  "note": "옛 우표 판화와 찢은 색종이, 가위가 나오는 콜라주",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:bauhaus-shapes": {
+  "tones": [
+   "infographic",
+   "kinetic-type"
+  ],
+  "by": "frames4",
+  "note": "원색 원과 사선 면, 큰 숫자로 그린 복리 그래프",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:flat-space-explainer": {
+  "tones": [
+   "infographic",
+   "cartoon"
+  ],
+  "by": "frames4",
+  "note": "남색 우주에서 은하부터 세포까지 줌하는 플랫 벡터",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:text-flash-cuts": {
+  "tones": [
+   "anime",
+   "kinetic-type"
+  ],
+  "by": "frames4",
+  "note": "빨강·검정·흰색 화면에 세로 글자가 번쩍이는 애니 컷",
+  "date": "2026-11-23",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:silhouette-rhythm": {
+  "tones": [],
+  "by": "frames4",
+  "note": "해당 없음: 노을 물가의 새 실루엣이 박자에 맞춰 바뀌는 화면",
+  "date": "2026-11-23",
+  "confidence": "mid"
+ },
+ "lo:hardcore-info": {
+  "tones": [
+   "cutaway",
+   "blueprint"
+  ],
+  "by": "frames4",
+  "note": "회색 선화로 그린 휴대폰 분해도와 주황 강조",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:precise-mechanism": {
+  "tones": [
+   "cutaway",
+   "cinematic-3d"
+  ],
+  "by": "frames4",
+  "note": "부품마다 색을 입힌 시계 속 톱니 3D 단면",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:instruction-manual": {
+  "tones": [
+   "blueprint",
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "조립 설명서풍 아이소메트릭 선화와 번호, 노란 강조",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:pen-plotter": {
+  "tones": [
+   "blueprint",
+   "cinematic-3d"
+  ],
+  "by": "frames4",
+  "note": "펜 플로터가 종이에 등고선 지도를 긋는 책상 장면",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:assembly-line-diagram": {
+  "tones": [
+   "cutaway",
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "공장 단면처럼 그린 조립 라인 도해와 작은 일꾼들",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:comic-history": {
+  "tones": [
+   "cartoon"
+  ],
+  "by": "frames4",
+  "note": "옛 지도 위 군복 캐릭터와 말풍선의 역사 만화",
+  "date": "2026-11-23",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:manga-panels": {
+  "tones": [
+   "anime",
+   "kinetic-type"
+  ],
+  "by": "frames4",
+  "note": "흑백 만화 칸과 집중선, 세로 글자",
+  "date": "2026-11-23",
+  "confidence": "high",
+  "flags": [
+   "AI이미지"
+  ]
+ },
+ "lo:scratch-film": {
+  "tones": [
+   "hand-drawn",
+   "old-film"
+  ],
+  "by": "frames4",
+  "note": "검은 필름에 긁어 그린 빛나는 선과 물고기",
+  "date": "2026-11-23",
+  "confidence": "mid"
+ },
+ "lo:double-exposure": {
+  "tones": [
+   "cinematic-3d"
+  ],
+  "by": "frames4",
+  "note": "산과 고래 윤곽 안에 야경이 비치는 흑백 이중 노출",
+  "date": "2026-11-23",
+  "confidence": "mid",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "lo:desktop-flythrough": {
+  "tones": [
+   "minimal-ui",
+   "cinematic-3d"
+  ],
+  "by": "frames4",
+  "note": "흰 탁자 위 폰과 서버 모형 사이를 나는 카메라",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:spreadsheet": {
+  "tones": [
+   "infographic",
+   "minimal-ui"
+  ],
+  "by": "frames4",
+  "note": "스프레드시트 칸이 색으로 채워지며 통계를 보여 주는 화면",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:one-bit-dither": {
+  "tones": [
+   "pixel",
+   "old-film"
+  ],
+  "by": "frames4",
+  "note": "흑백 1비트 디더링으로 찍힌 실내와 서류",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:circuit-board": {
+  "tones": [
+   "blueprint"
+  ],
+  "by": "frames4",
+  "note": "초록 회로 기판의 금색 배선을 따라 흐르는 전류 도식",
+  "date": "2026-11-23",
+  "confidence": "mid"
+ },
+ "lo:neon-tubes": {
+  "tones": [
+   "neon",
+   "cyberpunk"
+  ],
+  "by": "frames4",
+  "note": "어두운 벽의 네온관 간판과 비 젖은 골목",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:isometric-picture-book": {
+  "tones": [
+   "infographic",
+   "cartoon"
+  ],
+  "by": "frames4",
+  "note": "아이소메트릭 승강장에 줄 선 작은 사람들",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:crayon-world": {
+  "tones": [
+   "hand-drawn"
+  ],
+  "by": "frames4",
+  "note": "크레용으로 칠한 3D 마을과 아이",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:security-xray": {
+  "tones": [
+   "hud"
+  ],
+  "by": "frames4",
+  "note": "보안 검색 X선 화면의 색 입힌 물체와 수치 패널",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:dark-documentary": {
+  "tones": [
+   "cinematic-3d",
+   "hud"
+  ],
+  "by": "frames4",
+  "note": "어두운 화면의 전파 망원경과 가는 선 데이터",
+  "date": "2026-11-23",
+  "confidence": "mid"
+ },
+ "lo:thermal-camera": {
+  "tones": [
+   "hud",
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "열화상 색으로 본 아파트와 온도 수치",
+  "date": "2026-11-23",
+  "confidence": "mid"
+ },
+ "lo:transit-map": {
+  "tones": [
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "선마다 자라는 지하철 노선도와 연표",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:map-explainer": {
+  "tones": [
+   "cinematic-3d",
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "3D 지형 지도 위 빛나는 경로 선과 단면",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "lo:pip-simulation": {
+  "tones": [
+   "clay",
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "젤리 같은 3D 캐릭터 무리와 막대 집계",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "c2:paper-world": {
+  "tones": [
+   "collage"
+  ],
+  "by": "frames4",
+  "note": "겹겹이 오린 종이 언덕과 해, 낮에서 노을로",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "c2:ink-line": {
+  "tones": [
+   "ink"
+  ],
+  "by": "frames4",
+  "note": "한 줄 먹선이 새·풀잎·원으로 이어 바뀌는 화면",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "c2:weather-widget": {
+  "tones": [
+   "minimal-ui",
+   "glass"
+  ],
+  "by": "frames4",
+  "note": "날씨 위젯 하나가 맑음·비·일출로 바뀌는 화면",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "c2:data-story": {
+  "tones": [
+   "infographic",
+   "editorial"
+  ],
+  "by": "frames4",
+  "note": "크림 종이 위 세리프 제목과 꺾은선 그래프",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "c2:particle-field": {
+  "tones": [
+   "particle"
+  ],
+  "by": "frames4",
+  "note": "남색 어둠에서 흰 점 무리가 꽃 모양으로 모이는 화면",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "c2:growing-city": {
+  "tones": [
+   "voxel"
+  ],
+  "by": "frames4",
+  "note": "달마다 건물이 늘어나는 아이소메트릭 블록 도시",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "c2:explainer-diagram": {
+  "tones": [
+   "minimal-ui",
+   "infographic"
+  ],
+  "by": "frames4",
+  "note": "밝은 유리 카드가 선으로 이어진 작업 흐름도",
+  "date": "2026-11-23",
+  "confidence": "high",
+  "flags": [
+   "실존"
+  ]
+ },
+ "c2:editor-ui": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames4",
+  "note": "어두운 영상 편집기 화면에서 커서가 편집하는 시연",
+  "date": "2026-11-23",
+  "confidence": "high",
+  "flags": [
+   "실존",
+   "실자료"
+  ]
+ },
+ "c2:design-app-ui": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames4",
+  "note": "밝은 디자인 도구 화면에서 섬네일을 만드는 시연",
+  "date": "2026-11-23",
+  "confidence": "high",
+  "flags": [
+   "실존"
+  ]
+ },
+ "c2:risograph": {
+  "tones": [
+   "printmaking",
+   "kinetic-type"
+  ],
+  "by": "frames4",
+  "note": "분홍·파랑 두 잉크가 겹쳐 찍힌 큰 글자 포스터",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "c2:graphite-ui": {
+  "tones": [
+   "minimal-ui"
+  ],
+  "by": "frames4",
+  "note": "어두운 바탕에 기울어진 할 일 목록 화면",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "c2:poster-pop": {
+  "tones": [
+   "kinetic-type"
+  ],
+  "by": "frames4",
+  "note": "노랑·검정 면에 큰 글자가 치고 들어오는 포스터",
+  "date": "2026-11-23",
+  "confidence": "mid"
+ },
+ "pn:sketch-archive-collage": {
+  "tones": [
+   "collage",
+   "hand-drawn"
+  ],
+  "by": "frames-all",
+  "note": "흰 종이에 로고 스케치·기록 사진·주황 낙서, 먹 붓질 전환, 12fps",
+  "date": "2026-11-23",
+  "confidence": "high",
+  "flags": [
+   "실자료",
+   "실존"
+  ]
+ },
+ "pn:cutout-type-campaign": {
+  "tones": [
+   "collage",
+   "kinetic-type"
+  ],
+  "by": "frames-all",
+  "note": "파랑·흰 종이에 오린 글자와 흑백 손, 글자 벽, 장면마다 다른 기법",
+  "date": "2026-11-23",
+  "confidence": "high",
+  "flags": [
+   "실자료",
+   "실존"
+  ]
+ },
+ "pn:surreal-photo-collage": {
+  "tones": [
+   "collage"
+  ],
+  "by": "frames-all",
+  "note": "파스텔 색면에 크기 뒤바뀐 사진 조각, 리본 길 따라 컷 없이 이동",
+  "date": "2026-11-23",
+  "confidence": "high",
+  "flags": [
+   "실자료",
+   "실존"
+  ]
+ },
+ "pn:pastel-halftone-collage": {
+  "tones": [
+   "collage"
+  ],
+  "by": "frames-all",
+  "note": "흑백 인물 사진에 파스텔 원·망점 그림자, 사진 교체 연기, 10fps",
+  "date": "2026-11-23",
+  "confidence": "high",
+  "flags": [
+   "실자료"
+  ]
+ },
+ "pn:popup-book-stop-motion": {
+  "tones": [
+   "stop-motion"
+  ],
+  "by": "frames-all",
+  "note": "손이 든 흰 책에서 종이 팝업이 서고, 책을 닫아 전환, 12fps 끊김",
+  "date": "2026-11-23",
+  "confidence": "high",
+  "flags": [
+   "실자료",
+   "실존"
+  ]
+ },
+ "pn:riso-panel-grid": {
+  "tones": [
+   "printmaking"
+  ],
+  "by": "frames-all",
+  "note": "세 잉크 리소 인쇄 패널 8칸 루프, 인쇄 시트로 물러났다 칸마다 근접",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "pn:ink-blot-title": {
+  "tones": [
+   "ink"
+  ],
+  "by": "frames-all",
+  "note": "흰 종이에 먹이 번져 새·산·군중이 되고 붓글씨 제목으로 끝남",
+  "date": "2026-11-23",
+  "confidence": "high",
+  "flags": [
+   "AI이미지",
+   "실존"
+  ]
+ },
+ "pn:mono-type-footage": {
+  "tones": [
+   "kinetic-type",
+   "editorial"
+  ],
+  "by": "frames-all",
+  "note": "흑백 바탕 큰 산세리프 낱말과 둥근 영상 타일, 바탕 반전으로 구분",
+  "date": "2026-11-23",
+  "confidence": "high",
+  "flags": [
+   "실자료",
+   "실존"
+  ]
+ },
+ "pn:dark-grid-brand": {
+  "tones": [
+   "minimal-ui",
+   "infographic"
+  ],
+  "by": "frames-all",
+  "note": "검은 격자에 흰 UI 카드와 초록·분홍 차트가 이어 변형, 손 클로즈업",
+  "date": "2026-11-23",
+  "confidence": "high",
+  "flags": [
+   "실존"
+  ]
+ },
+ "pn:green-line-explainer": {
+  "tones": [
+   "cartoon",
+   "infographic"
+  ],
+  "by": "frames-all",
+  "note": "흰 바탕 초록·산호색 평면 그림, 원이 지구·점·로고로 변형, 점선 장식",
+  "date": "2026-11-23",
+  "confidence": "mid",
+  "flags": [
+   "AI이미지",
+   "실존"
+  ]
+ },
+ "pn:blue-flat-saas": {
+  "tones": [
+   "cartoon",
+   "infographic"
+  ],
+  "by": "frames-all",
+  "note": "푸른 흰 바탕에 하늘색 도형과 평면 인물, 액체 띠와 밀고 들어가는 전환",
+  "date": "2026-11-23",
+  "confidence": "mid",
+  "flags": [
+   "AI이미지",
+   "실존"
+  ]
+ },
+ "fa:film-noir": {
+  "tones": [
+   "old-film",
+   "infographic"
+  ],
+  "by": "frames-all",
+  "note": "흑백 누아르 도해, 블라인드 그림자·필름 입자, 신문과 조리개 전환",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "fa:soft-3d-clay": {
+  "tones": [
+   "clay",
+   "infographic"
+  ],
+  "by": "frames-all",
+  "note": "연보라 바탕에 부푼 파스텔 3D 도형, 컷 없이 옆으로 미는 설명",
+  "date": "2026-11-23",
+  "confidence": "high"
+ },
+ "fa:memphis": {
+  "tones": [
+   "cartoon",
+   "infographic"
+  ],
+  "by": "frames-all",
+  "note": "파스텔 사선 바탕에 검은 윤곽 스티커, 무지개 띠 와이프, 12fps",
+  "date": "2026-11-23",
+  "confidence": "mid"
+ },
+ "fa:patent-drawing": {
+  "tones": [
+   "blueprint",
+   "printmaking"
+  ],
+  "by": "frames-all",
+  "note": "바랜 종이에 잉크 선·해칭 기계 도판 3장, 구르는 숫자판, 빨간 펜",
+  "date": "2026-11-23",
+  "confidence": "mid"
  }
 }

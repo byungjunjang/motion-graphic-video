@@ -28,7 +28,9 @@ GSAP 는 오픈소스 라이선스가 아니다(GreenSock Standard "No Charge" L
 - claudevideo.org (`cv:`)
 - lemomo-ai/lemo-opuscar (`lo:`)
 - Vincentwei1021/mg-styles-15 (`ms:`)
-- Pinterest 보드의 손제작 영상 (`pn:` · `references/pinterest-refs.json` 에는 핀 번호와 링크만 있다)
+- ItsssssJack/claude-video-2 (`c2:` · MIT)
+- Pinterest 의 손제작 영상 (`pn:` · `references/pinterest-refs.json` 에는 핀 번호와 링크만 있다)
+- Futurepedia 의 AI Style Atlas (`fa:` · `references/atlas-refs.json` 에는 원본 사이트의 영상 링크만 있다. 원본의 프롬프트와 코드는 옮기지 않았다)
 - kstost/cokacmotion 의 aimotion 표현 기법 (`am:` · MIT). 기법 코드를 영상에 옮겨 쓰면 출처를 주석으로 적는다
 
-`references/notes/`, `references/pinterest/` 의 분석 노트와 `references/tone-*.json` 의 판정은 이 저장소에서 직접 쓴 글이다.
+`references/notes/`, `references/pinterest/`, `references/atlas/` 의 분석 노트와 `references/tone-*.json` 의 판정은 이 저장소에서 직접 쓴 글이다.

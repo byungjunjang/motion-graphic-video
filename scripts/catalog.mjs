@@ -7,6 +7,7 @@
 //   node scripts/catalog.mjs --site      → 배포용 폴더 catalog-site/ 에 index.html 과 글꼴만 담는다. 저장소의 다른 파일은 들어가지 않는다.
 //                                          배포한 화면에서도 답은 클립보드에 복사된다 (vercel deploy catalog-site)
 // 장 설명은 .claude/skills/motion-video/references/tone-catalog.md 의 표에서, 카드 문구는 references/tone-labels.json 에서 읽는다.
+// 포스터 그림이 없는 항목(c2:)은 영상의 2초 지점 화면을 포스터 자리에 쓴다(video.still).
 // 카드 표시는 셋이다. '새 항목'(사용자 리뷰 전에 넣은 항목), '실자료 필요'(flags 의 실자료), 'AI 이미지 필요'(flags 의 AI이미지).
 // flags 의 실존은 화면에 표시하지 않는다. 제작할 때 에이전트가 지키는 규칙이다 (tone-catalog.md 의 표시 줄).
 // 분석 노트가 있는 항목(색인의 analysis)은 자세히 보기 창에 "프롬프트 N자" 대신 "분석 노트 N자"와 안내 한 줄을 낸다. 발췌는 노트의 앞부분이다.
@@ -34,7 +35,9 @@ const SOURCES = {
   cv: ["claudevideo", "https://claudevideo.org"],
   lo: ["lemo-opuscar", "https://github.com/lemomo-ai/lemo-opuscar", "CC BY 4.0"],
   ms: ["mg-styles-15", "https://github.com/Vincentwei1021/mg-styles-15"],
+  c2: ["claude-video-2", "https://github.com/ItsssssJack/claude-video-2", "MIT"],
   pn: ["Pinterest", "https://www.pinterest.com"],
+  fa: ["AI Style Atlas", "https://www.futurepedia.io/resources/ai-style-atlas/view"],
 };
 // 카탈로그 제목 끝의 "featured by" 와 머리·바닥의 유튜브 링크
 const FEATURED = { name: "장피엠", url: "https://www.youtube.com/@jangpm" };
@@ -90,7 +93,7 @@ const card = (e, tone) => {
   };
   const hay = `${data.note} ${e.title} ${e.author} ${e.tags.join(" ")} ${data.tones.join(" ")} ${e.excerpt} ${marks.map((m) => m.replace(/ /g, "")).join(" ")}`.toLowerCase();
   return `<article class="card" tabindex="0" role="button" data-src="${e.id.slice(0, 2)}" data-marks="${esc(marks.join(","))}" data-hay="${esc(hay)}" data-ref="${esc(JSON.stringify(data))}">
-  <figure><img src="${esc(e.poster)}" alt="" loading="lazy">${data.video ? `<video muted loop playsinline preload="none" data-src="${esc(data.video)}"></video>` : `<span class="xonly">X 원본</span>`}${marks.length ? `<span class="marks">${marks.map((m) => `<i${m === NEW ? ' class="new"' : ""}>${m}</i>`).join("")}</span>` : ""}</figure>
+  <figure>${e.poster ? `<img src="${esc(e.poster)}" alt="" loading="lazy">` : ""}${data.video ? (e.poster ? `<video muted loop playsinline preload="none" data-src="${esc(data.video)}"></video>` : `<video class="still" muted loop playsinline preload="metadata" src="${esc(data.video)}#t=2"></video>`) : `<span class="xonly">X 원본</span>`}${marks.length ? `<span class="marks">${marks.map((m) => `<i${m === NEW ? ' class="new"' : ""}>${m}</i>`).join("")}</span>` : ""}</figure>
   <div class="cap"><h3>${esc(data.note)}</h3>
   <p class="by">${e.id.startsWith("pm:") ? `${esc(cut(e.title, 48))} · ` : ""}@${esc(e.author)}</p>
   <p class="no">No.${data.no}${data.tones.slice(1).map((t) => `<span>+ ${esc(t)}</span>`).join("")}</p></div>
@@ -198,7 +201,7 @@ dt{color:var(--mute)}dd{margin:0}
 figure{position:relative;margin:0;aspect-ratio:16/9;background:var(--well);overflow:hidden}
 figure img,figure video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 figure img{transition:scale .6s var(--ease)}.card:hover figure img{scale:1.03}
-figure video{opacity:0;transition:opacity .2s}.card:hover figure video.on{opacity:1}
+figure video{opacity:0;transition:opacity .2s}.card:hover figure video.on,figure video.still{opacity:1}
 .marks{position:absolute;left:10px;top:10px;display:flex;gap:5px}
 .marks i{padding:2px 9px;border-radius:99px;background:rgba(40,52,78,.86);color:#fff;font-size:11px;font-style:normal;font-weight:600}
 .marks i.new{background:var(--accent-ink)}
