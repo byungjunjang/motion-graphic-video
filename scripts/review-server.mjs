@@ -18,11 +18,11 @@ async function send(payload) {
   if (!['127.0.0.1', 'localhost'].includes(location.hostname)) {
     const text = JSON.stringify(payload, null, 2);
     try { await navigator.clipboard.writeText(text); }
-    catch { return done('아래 답을 복사해 Claude 채팅에 붙여 넣으세요.<pre style="font:400 14px/1.6 ui-monospace,Menlo,monospace;text-align:left;white-space:pre-wrap;max-width:720px;margin:24px auto 0;user-select:all">' + text.replace(/&/g, '&amp;').replace(/</g, '&lt;') + '</pre>'); }
-    return done('답을 클립보드에 복사했습니다. Claude 채팅에 붙여 넣으세요.');
+    catch { return done('아래 답을 복사해 작업 중인 채팅에 붙여 넣으세요.<pre style="font:400 14px/1.6 ui-monospace,Menlo,monospace;text-align:left;white-space:pre-wrap;max-width:720px;margin:24px auto 0;user-select:all">' + text.replace(/&/g, '&amp;').replace(/</g, '&lt;') + '</pre>'); }
+    return done('답을 클립보드에 복사했습니다. 작업 중인 채팅에 붙여 넣으세요.');
   }
   const r = await fetch('/submit', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify(payload) });
-  done(r.ok ? '전달했습니다. 이 창은 닫아도 됩니다.' : '전달하지 못했습니다. Claude 채팅에 직접 적어 주세요.');
+  done(r.ok ? '전달했습니다. 이 창은 닫아도 됩니다.' : '전달하지 못했습니다. 작업 중인 채팅에 직접 적어 주세요.');
 }`;
 
 export function serve(dir, page, outFile, { open = true } = {}) {

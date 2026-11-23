@@ -1,6 +1,6 @@
 # motion-graphic-video
 
-Claude Code 로 모션그래픽 소개 영상을 만드는 작업 폴더입니다.
+Claude Code 또는 Codex로 모션그래픽 소개 영상을 만드는 작업 폴더입니다.
 HTML 한 파일이 시간 t 의 화면을 계산하고, Chrome 이 프레임을 찍고, ffmpeg 가 소리와 합쳐 mp4 를 만듭니다. 영상 편집 프로그램은 쓰지 않습니다.
 
 ![30초 홍보 영상](docs/media/promo.gif)
@@ -18,7 +18,7 @@ HTML 한 파일이 시간 t 의 화면을 계산하고, Chrome 이 프레임을 
 
 - 톤마다 맞는 콘텐츠, 색·질감, 소리, 움직임, 쓰지 않는 것을 정리했습니다.
 - 카드에 마우스를 올리면 레퍼런스 영상이 재생됩니다. 실자료나 AI 이미지가 필요한 항목은 카드에 표시합니다.
-- 카드를 눌러 자세히 보고, 소개할 대상을 적은 뒤 "이 스타일로 만들기"를 누르면 고른 내용이 클립보드에 복사됩니다. Claude Code 채팅에 붙여 넣으면 그 스타일로 영상을 만듭니다.
+- 카드를 눌러 자세히 보고, 소개할 대상을 적은 뒤 "이 스타일로 만들기"를 누르면 고른 내용이 클립보드에 복사됩니다. Claude Code 또는 Codex 채팅에 붙여 넣으면 그 스타일로 영상을 만듭니다.
 
 ## 이렇게 동작합니다
 
@@ -32,7 +32,7 @@ HTML 한 파일이 시간 t 의 화면을 계산하고, Chrome 이 프레임을 
   → 검수 시트·결정성 검사 → 렌더 → mp4
 ```
 
-- 사람이 고르는 곳은 두 곳뿐입니다. 나머지는 Claude Code 가 진행합니다.
+- 사람이 고르는 곳은 두 곳뿐입니다. 선택과 승인 사이의 제작 작업은 에이전트가 진행합니다.
 - 같은 t 에는 항상 같은 화면이 나옵니다. 그래서 프레임을 순서 없이 나눠 찍어도 결과가 같습니다.
 - 레퍼런스는 공개된 모션그래픽 예시와 표현 기법 데모를 모은 색인(약 1,000건)에서 찾습니다. 영상을 보고 톤을 판정한 항목만 후보로 나옵니다. 문장과 브랜드 이름은 옮기지 않고 구조·박자·전환·타이포 처리만 참고합니다.
 
@@ -40,7 +40,7 @@ HTML 한 파일이 시간 t 의 화면을 계산하고, Chrome 이 프레임을 
 
 | 구분 | 항목 | 용도 |
 |---|---|---|
-| 필수 | [Claude Code](https://claude.com/claude-code) | 전체 진행 (스킬이 `.claude/skills/` 에 들어 있습니다) |
+| 택 1 | [Claude Code](https://claude.com/claude-code) 또는 [Codex](https://github.com/openai/codex) | 프로젝트를 열고 영상 제작 요청 |
 | 필수 | Node.js 24 이상 | 렌더러, 확인 화면 |
 | 필수 | Google Chrome (시스템 설치) | 프레임 촬영 |
 | 필수 | ffmpeg | 영상·소리 합성 |
@@ -61,7 +61,8 @@ git clone https://github.com/byungjunjang/motion-graphic-video.git
 ```
 
 ```bash
-cd motion-graphic-video && npm i
+cd motion-graphic-video
+npm ci
 ```
 
 선택 기능을 쓰려면 Python 패키지를 설치합니다.
@@ -69,6 +70,14 @@ cd motion-graphic-video && npm i
 ```bash
 python3 -m pip install numpy pillow scipy
 ```
+
+## 첫 영상 만들기
+
+설치 후 Codex 앱에서 복제한 `motion-graphic-video` 폴더를 로컬 프로젝트로 열거나, 같은 폴더의 터미널에서 `codex`를 실행하세요. Claude Code에서는 같은 위치에서 `claude`를 실행하세요.
+
+> 이 프로젝트를 처음 보는 유튜브 시청자에게 소개하는 15초 모션그래픽을 만들어줘. README에서 사실을 확인하고, 무음으로 만들어줘.
+
+스타일부터 직접 고르려면 “카탈로그를 보여줘”라고 요청하세요. 공개 카탈로그에서 이미 골랐다면 복사한 내용을 채팅에 붙여 넣으세요. 스토리보드를 승인하면 제작을 진행하고 완성한 MP4를 `videos/<id>/renders/video.mp4`에 저장합니다.
 
 ## 비용이 드는 곳
 
@@ -98,7 +107,9 @@ vendor/                three.js, 손그림 키트, 3D 재질 키트, 종이 질�
 videos/<id>/           영상 한 편 (git 에 올라가지 않습니다)
 ```
 
-자세한 규칙은 `CLAUDE.md` 와 `.claude/skills/motion-video/SKILL.md` 에 있습니다. 두 파일은 Claude Code 가 읽는 지시문입니다.
+자세한 규칙은 `CLAUDE.md` 와 `.claude/skills/motion-video/SKILL.md` 에 있습니다. Codex는 `AGENTS.md`에서 시작해 같은 제작 지침을 읽습니다.
+
+Codex용 진입 파일은 `.agents/skills/`에 있습니다. 원본 설명을 수정하면 `python scripts/sync_codex_skills.py`로 갱신하고 `python scripts/sync_codex_skills.py --check`로 확인하세요.
 
 ## 지켜야 할 것
 
