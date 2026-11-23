@@ -27,7 +27,7 @@ HTML 한 파일이 시간 t 의 화면을 계산하고, Chrome 이 프레임을 
   → 사실 확인 (FACTS.md)
   → 레퍼런스 후보 6개 비교 화면 → 사람이 1개 고름        ← 확인 지점 1
   → 스토리보드 확인 화면 → 사람이 승인                   ← 확인 지점 2
-  → 소리 (ElevenLabs · 선택)
+  → 소리 (ElevenLabs · 없으면 코드 합성)
   → 화면 코드 (src/index.html 의 window.seek(t))
   → 검수 시트·결정성 검사 → 렌더 → mp4
 ```
@@ -45,12 +45,12 @@ HTML 한 파일이 시간 t 의 화면을 계산하고, Chrome 이 프레임을 
 | 필수 | Google Chrome (시스템 설치) | 프레임 촬영 |
 | 필수 | ffmpeg | 영상·소리 합성 |
 | 필수 | Python 3 | 소리 합성 (`scripts/mix.py`) |
-| 선택 | Python 패키지 `numpy` `pillow` `scipy` | 음악 박자 분석, AI 이미지 배경 지우기 |
-| 선택 | ElevenLabs 커넥터 (claude.ai) | 내레이션·음악·효과음 생성. **크레딧이 듭니다** |
+| 선택 | Python 패키지 `numpy` `pillow` `scipy` | 음악·효과음 합성, 음악 박자 분석, AI 이미지 배경 지우기 |
+| 권장 | ElevenLabs 커넥터 (claude.ai) | 내레이션·음악·효과음 생성. 내레이션은 이 커넥터로만 만듭니다. **크레딧이 듭니다** |
 | 선택 | [Codex CLI](https://github.com/openai/codex) + ChatGPT 로그인 | AI 일러스트 생성. **ChatGPT 요금제 한도에서 나갑니다** |
 | 선택 | `whisper` 명령 (`brew install openai-whisper`) | 내레이션 단어 시각 측정 |
 
-ElevenLabs 커넥터가 없어도 영상을 만들 수 있습니다. 가진 음원 파일을 넣거나, 소리 없이 만듭니다.
+ElevenLabs 커넥터가 없어도 영상을 만들 수 있습니다. 배경음악과 효과음은 `scripts/synth.py` 가 코드로 합성합니다(numpy 필요, 비용 없음). 이때 내레이션은 넣지 않고 화면 문구로 전달합니다. 가진 음원 파일을 넣거나 소리 없이 만들 수도 있습니다.
 
 macOS (Apple Silicon) 에서 확인했습니다. 스크립트에 Windows 대응 코드가 있지만 이 공개본으로는 시험하지 않았습니다.
 
@@ -83,7 +83,7 @@ python3 -m pip install numpy pillow scipy
 
 - **ElevenLabs** · 스토리보드를 승인한 뒤에만 생성합니다. 같은 생성을 재시도하지 않게 스킬에 적혀 있습니다.
 - **Codex 이미지** · 일러스트가 필요한 톤에서만 씁니다. 처음에는 디자인 시트 1장과 장면 그림 3~6장만 만듭니다.
-- 렌더와 합성은 로컬에서 하므로 비용이 없습니다.
+- 렌더, 소리 합성, 믹스는 로컬에서 하므로 비용이 없습니다.
 
 ## 폴더 구조
 
@@ -98,7 +98,8 @@ scripts/
   catalog.mjs          톤별 카탈로그 화면
   storyboard.mjs       스토리보드 확인 화면
   render.mjs           프레임 촬영, 검수 시트, 결정성 비교
-  mix.py               소리 합성 → mp4
+  synth.py             배경음악·효과음 코드 합성 (ElevenLabs 가 없을 때)
+  mix.py               소리 섞기 → mp4
   audio-probe.py       길이·무음·박자 측정
   key.py               AI 이미지의 마젠타 바탕 지우기
 references/            분석 노트, 톤 판정 (색인 파일은 처음 실행할 때 만들어집니다)

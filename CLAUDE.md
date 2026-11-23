@@ -13,6 +13,7 @@ scripts/catalog.mjs      스타일 레퍼런스를 톤별 장으로 묶은 카�
 scripts/storyboard.mjs   STORYBOARD.md → 확인 화면(화면에서 의견·승인)
 scripts/review-server.mjs  두 확인 화면을 로컬에서 띄우고 답을 파일로 받는다
 scripts/render.mjs       seek(t) 프레임 촬영, --snap 검수 시트, --det 결정성 비교, 글꼴 로드 검사
+scripts/synth.py         ElevenLabs 가 없을 때 배경음악(분위기 5종, 마디 격자를 정점에 맞춤 → beats)과 효과음 10종을 코드로 합성한다. 내레이션은 만들지 않는다
 scripts/mix.py           video.json 시간표대로 소리를 섞어 mp4 생성 (sfx 4번째 칸은 동기점 peak·onset·초)
 scripts/key.py           AI 이미지(codex-image)의 마젠타 바탕을 지워 투명 PNG 로 만든다. --split 은 한 장에 그린 여러 그림을 따로 자른다
 scripts/audio-probe.py   길이·무음 구간·음량 곡선 측정, --onsets --write 로 타격음·BPM·마디 첫 박·킥 → beats (영상 시각), --fit 으로 전환과 박의 오차, --peak 로 효과음 동기점
@@ -48,7 +49,7 @@ videos/<id>/             영상 한 편 (git 에 넣지 않는다 · 고객 자�
 
 - 사람이 확인하는 지점은 두 곳이다. **레퍼런스 선택**(motion-video 는 후보 6개 중 1개, motion-catalog 는 카탈로그 전체 중 1개)과 **스토리보드 승인**. 두 곳 모두 확인 화면을 띄워 화면에서 답을 받는다. 답을 받기 전에는 다음 단계로 가지 않는다.
 - 스토리보드 승인 전에는 ElevenLabs 생성을 부르지 않는다. 생성은 크레딧을 쓴다.
-- 소리 생성은 ElevenLabs MCP 의 `creative_*` 도구만 쓴다(도구 이름 앞부분은 PC 마다 다르다). 다른 음성·음악 생성 도구로 대신하지 않는다. 커넥터는 선택이다. 없으면 사용자가 준 음원 파일을 쓰거나 무음으로 만든다(motion-video 0단계).
+- 소리 생성은 ElevenLabs MCP 의 `creative_*` 도구만 쓴다(도구 이름 앞부분은 PC 마다 다르다). 다른 음성·음악 생성 도구로 대신하지 않는다. 커넥터는 선택이다. 없으면 사용자가 준 음원 파일을 쓰거나 `scripts/synth.py` 로 음악·효과음을 합성한다(motion-video 0단계). 내레이션은 ElevenLabs 로만 만든다. 외부 무료 음원을 찾아 내려받지 않는다.
 - 화면에 쓰는 사실(숫자·조건·이름)은 원문에서 직접 확인한 것만 쓴다. 요약 모델의 답만 믿고 쓰지 않는다.
 - 스토리보드에서 승인받은 대사·문구·길이를 바꿔야 하면, 바꾸기 전에 사용자에게 알린다.
 - 실존 브랜드의 로고·제품 이미지는 사용자가 허락한 파일만 쓴다. 흉내 내어 그리지 않는다.
