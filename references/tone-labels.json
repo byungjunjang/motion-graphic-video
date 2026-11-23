@@ -2347,11 +2347,20 @@
  },
  "pm:kamstudiolabs-0b0824": {
   "tones": [
-   "cinematic-3d"
+   "cartoon"
   ],
-  "by": "frames3",
-  "note": "어두운 등대 내부 실루엣 인물",
-  "date": "2026-10-19"
+  "by": "frames-all",
+  "note": "평면 2D 실루엣 단편. 안개 빛줄기와 따뜻한 점광원. 3D 아님",
+  "confidence": "mid",
+  "date": "2026-11-23",
+  "was": {
+   "tones": [
+    "cinematic-3d"
+   ],
+   "by": "frames3",
+   "note": "어두운 등대 내부 실루엣 인물",
+   "date": "2026-10-19"
+  }
  },
  "gh:anabology-491441": {
   "tones": [

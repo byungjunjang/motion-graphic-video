@@ -111,8 +111,14 @@
   }
  },
  "pm:alex-prompter-1ea044": {
-  "via": "source",
-  "checked": "2026-10-19"
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "빈 화면 반복·작은 글자로 완성도 낮음. 재현 시험 2.8점",
+  "checked": "2026-11-23",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
  },
  "pm:majin-appsheet-2d3c1a": {
   "excluded": true,
@@ -280,12 +286,24 @@
   "checked": "2026-10-19"
  },
  "pm:nft-chen-5f8bb0": {
-  "via": "source",
-  "checked": "2026-10-19"
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "특정 애니 영화의 장면을 복제함. 감상용 비행 장면이라 정보 자리 없음",
+  "checked": "2026-11-23",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
  },
  "pm:axtonliu-0b861d": {
-  "via": "source",
-  "checked": "2026-10-19"
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "사실풍 3D 캐릭터 단편. 정보 자리 없고 재현 비용 큼",
+  "checked": "2026-11-23",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
  },
  "pm:gizakdag-cf4ae6": {
   "excluded": true,
@@ -451,8 +469,14 @@
   "checked": "2026-10-19"
  },
  "pm:yunn260414-60d996": {
-  "via": "source",
-  "checked": "2026-10-19"
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "408초 강의 녹화형. 움직임 적고 글자 작음",
+  "checked": "2026-11-23",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
  },
  "pm:brainextends-e19ac3": {
   "via": "source",
@@ -559,8 +583,14 @@
   }
  },
  "pm:tak3sh8-be5012": {
-  "via": "source",
-  "checked": "2026-10-19"
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "5분 수식 강의. 같은 기법을 lo:whiteboard 가 덮음",
+  "checked": "2026-11-23",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
  },
  "pm:hbcoop-de365c": {
   "via": "source",
@@ -862,8 +892,14 @@
   }
  },
  "pm:hoyoyoda-3a5c08": {
-  "via": "source",
-  "checked": "2026-10-19"
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "12초 한 장면 인사 카드. 다른 픽셀 항목이 더 나음",
+  "checked": "2026-11-23",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
  },
  "pm:macrohou-33959d": {
   "via": "source",
@@ -1532,8 +1568,14 @@
   }
  },
  "pm:x4b47x-9cc84f": {
-  "via": "source",
-  "checked": "2026-10-19"
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "세로 감상용 단편. 같은 스타일을 lo:shadow-puppet·lo:papercut-red 가 덮음",
+  "checked": "2026-11-23",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
  },
  "pm:kamstudiolabs-447565": {
   "excluded": true,
@@ -1915,8 +1957,14 @@
   }
  },
  "gh:1littlecoder-378066": {
-  "via": "source",
-  "checked": "2026-10-19"
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "유명 광고의 장면과 서사를 그대로 따라 함. 스타일만 떼어 쓰기 어려움",
+  "checked": "2026-11-23",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-19"
+  }
  },
  "gh:alexalbert-274839": {
   "excluded": true,
@@ -4572,9 +4620,15 @@
   "checked": "2026-10-19"
  },
  "gh:airobertdaily-416945": {
-  "via": "x",
-  "post": "https://x.com/aiRobertDaily/status/2108596616756416945",
-  "checked": "2026-10-19"
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "실존 기업의 로고·제품·광고 장면을 흉내 냄. 스타일 정체성도 약함",
+  "checked": "2026-11-23",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/aiRobertDaily/status/2108596616756416945",
+   "checked": "2026-10-19"
+  }
  },
  "gh:thusatharan-433543": {
   "excluded": true,
@@ -5298,9 +5352,15 @@
   "checked": "2026-10-19"
  },
  "gh:haribuilds-007643": {
-  "via": "x",
-  "post": "https://x.com/hariBuilds_/status/2106440528435007643",
-  "checked": "2026-10-19"
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "세로 71초 쇼츠, 장면 변화 적음. lo:map-explainer·lo:satellite-briefing 이 덮음",
+  "checked": "2026-11-23",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/hariBuilds_/status/2106440528435007643",
+   "checked": "2026-10-19"
+  }
  },
  "gh:tarunyadav9761-053244": {
   "excluded": true,
@@ -5768,9 +5828,15 @@
   }
  },
  "gh:obydulme-052905": {
-  "via": "x",
-  "post": "https://x.com/obydulme/status/2104802322518052905",
-  "checked": "2026-10-19"
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "73초 감상용 단편, 처음 9초 빈 화면. 정보 자리 없음",
+  "checked": "2026-11-23",
+  "was": {
+   "via": "x",
+   "post": "https://x.com/obydulme/status/2104802322518052905",
+   "checked": "2026-10-19"
+  }
  },
  "gh:curieuxexplorer-590917": {
   "excluded": true,
