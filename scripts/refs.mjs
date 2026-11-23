@@ -26,8 +26,11 @@
 //     am: 은 번호만 적어도 된다 (show am:18)
 //   node scripts/refs.mjs board videos/<id> [--no-open] → refs/candidates.json 으로 비교 화면 refs/board.html 을 만들어 띄우고,
 //     사용자가 화면에서 고른 답을 refs/choice.json 으로 받는다 (--no-open 은 파일만 만든다)
+//     refs/suggestions.json 이 있으면 메모 칸 위에 제안 2~4개가 나온다. 항목 { pick: "A", text: "한 문장", why?: "생각할 거리 한 줄", support?: "<보조 id>" }.
+//     섞기 제안은 support 를 단다(선택). 답의 suggestion 은 accepted · edited · ignored, suggestionIndex 는 고른 제안 번호다
 import { appendFileSync, existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { CLIENT_JS, serve } from "./review-server.mjs";
+import { logBoardAnswer, logBoardShown } from "./run-log.mjs";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { spawnSync } from "node:child_process";
@@ -595,11 +598,21 @@ async function board(dir, open) {
   const cands = JSON.parse(readFileSync(join(refs, "candidates.json"), "utf8"));
   if (cands.length !== 6) console.error(`경고: 후보가 ${cands.length}개다. 사용자에게는 6개를 보여 준다.`);
   const read = new Set(existsSync(READ_LOG) ? readFileSync(READ_LOG, "utf8").split("\n").map((l) => l.split("\t")[1]) : []);
-  const unread = cands.filter((c) => !read.has(c.id)).map((c) => c.id);
+  const sugPath = join(refs, "suggestions.json"), sugRaw = existsSync(sugPath) ? JSON.parse(readFileSync(sugPath, "utf8")) : [];
+  const unread = [...cands.map((c) => c.id), ...sugRaw.map((x) => x.support).filter(Boolean)].filter((id) => !read.has(id));
   if (unread.length) throw new Error(`show 로 전문을 읽지 않은 후보: ${unread.join(", ")}`);
   const unlabeled = cands.filter((c) => !LABELS[c.id]).map((c) => c.id), fresh = cands.filter((c) => LABELS[c.id]?.new).map((c) => c.id);
   if (unlabeled.length) console.error(`경고: 톤 판정이 없는 후보다(검토 대기): ${unlabeled.join(", ")}`);
   if (fresh.length) console.error(`경고: 사용자 리뷰 전인 새 항목이다. 주의할 점에 적는다: ${fresh.join(", ")}`);
+  // 제안 · 2~4개. 각 제안은 카드 하나(pick)를 바탕으로 한다. 보조가 후보 밖이면 원본 주소를 붙인다
+  if (sugRaw.length && (sugRaw.length < 2 || sugRaw.length > 4)) console.error(`경고: 제안은 2~4개다. 지금 ${sugRaw.length}개`);
+  const sugs = [];
+  for (const x of sugRaw) {
+    const k = "ABCDEF".indexOf(x.pick);
+    if (k < 0 || !cands[k]) throw new Error(`제안의 pick 이 후보 기호가 아니다: ${x.pick}`);
+    const inside = x.support && cands.some((c) => c.id === x.support);
+    sugs.push({ pick: x.pick, id: cands[k].id, support: x.support ?? null, text: x.text, why: x.why ?? "", url: x.support && !inside ? (await fetchFull(x.support)).url : null });
+  }
   const cards = [];
   for (const [i, c] of cands.entries()) {
     const e = await fetchFull(c.id);
@@ -644,20 +657,31 @@ details{margin-top:16px}summary{cursor:pointer;color:#6B7280;font-size:14px}pre{
 .tone{margin-left:8px;padding:4px 12px;border-radius:99px;background:#12151B;color:#fff;font-size:13px;font-weight:700;vertical-align:top;line-height:24px;display:inline-block}
 .rec{margin-left:8px;padding:4px 12px;border-radius:99px;border:1.5px solid #0046FF;color:#0046FF;font-size:13px;font-weight:700;vertical-align:top;line-height:24px;display:inline-block}
 .choose{margin-top:16px;width:100%;padding:13px;border:0;border-radius:12px;background:#0046FF;color:#fff;font:700 16px/1 inherit;cursor:pointer}
+.sug{max-width:900px;margin:0 0 14px;padding:16px 18px;border:1.5px solid #0046FF;border-radius:12px;background:#F3F6FF}.sug b{color:#0046FF;margin-right:8px}.sug .hint{color:#6B7280;font-size:13px}.sug p{margin:0 0 8px}.sug ol{margin:0;padding-left:22px}.sug li{margin:0 0 14px}.sug .why{color:#6B7280;font-size:14px}.sug button{margin-right:8px;padding:10px 16px;border-radius:10px;border:1.5px solid #0046FF;font:700 15px/1 inherit;cursor:pointer;background:#fff;color:#0046FF}.sug button.go{background:#0046FF;color:#fff}
 .memo{display:block;width:100%;max-width:900px;min-height:64px;margin:0 0 10px;padding:12px 14px;border:1.5px solid #D5D9E0;border-radius:12px;font:inherit;resize:vertical}
 @media(max-width:1100px){main{grid-template-columns:1fr}}
 </style></head><body><h1>레퍼런스 후보 ${cands.length}개</h1><p class="sub">영상을 재생해 보고 카드 아래의 단추로 하나를 고른다. 프롬프트와 영상의 권리는 각 작성자에게 있다. 이 화면은 원본을 링크로만 불러온다.</p>
+${sugs.length ? `<div class="sug"><p><b>제안</b><span class="hint">고르지 않아도 된다. 생각할 거리로 본다</span></p><ol>${sugs.map((x, k) => `<li><p>${esc(x.text)}${x.url ? ` · <a href="${esc(x.url)}" target="_blank">보조 레퍼런스 ↗</a>` : ""}</p>${x.why ? `<p class="why">${esc(x.why)}</p>` : ""}<button class="go" onclick="acceptSug(${k})">이대로 만들기</button><button onclick="moveSug(${k})">메모 칸에 옮겨 고치기</button></li>`).join("")}</ol></div>` : ""}
 <textarea id="memo" class="memo" placeholder="덧붙일 말이 있으면 적는다 (선택). 예 · B 로 하되 C 의 숫자 장면을 섞어 주세요"></textarea>
 <button class="choose" style="width:auto;margin:0 0 28px;padding:13px 22px" onclick="sendMemo()">적은 내용만 보내기</button><main>
 ${cards.join("\n")}
 </main><script>${CLIENT_JS}
-function choose(pick, id) { send({ pick, id, memo: document.getElementById('memo').value.trim() }); }
-function sendMemo() { const memo = document.getElementById('memo').value.trim(); if (memo) send({ pick: null, id: null, memo }); else document.getElementById('memo').focus(); }
+const SUG = ${JSON.stringify(sugs)};
+let moved = null;
+// 제안에 대한 답 · accepted(그대로) · edited(메모 칸에 옮겨 고침) · ignored(제안을 쓰지 않음). 제안 번호는 1부터
+const verdict = (memo) => !SUG.length ? {} : moved === null ? { suggestion: 'ignored' } : { suggestion: memo === SUG[moved].text ? 'accepted' : 'edited', suggestionIndex: moved + 1 };
+function acceptSug(k) { const x = SUG[k]; send({ pick: x.pick, id: x.id, ...(x.support ? { support: x.support } : {}), memo: x.text, suggestion: 'accepted', suggestionIndex: k + 1 }); }
+function moveSug(k) { const m = document.getElementById('memo'); m.value = SUG[k].text; moved = k; m.focus(); }
+function choose(pick, id) { const memo = document.getElementById('memo').value.trim(); send({ pick, id, memo, ...verdict(memo) }); }
+function sendMemo() { const memo = document.getElementById('memo').value.trim(); if (memo) send({ pick: null, id: null, memo, ...verdict(memo) }); else document.getElementById('memo').focus(); }
 </script></body></html>`;
   const out = join(refs, "board.html");
   writeFileSync(out, html);
   console.log(out);
-  if (open) serve(resolve(dir), "refs/board.html", "refs/choice.json");
+  if (open) {
+    logBoardShown(dir, cands, sugs);
+    serve(resolve(dir), "refs/board.html", "refs/choice.json", { onAnswer: (a) => logBoardAnswer(dir, a) });
+  }
 }
 
 const [cmd, ...rest] = process.argv.slice(2);

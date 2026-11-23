@@ -8,6 +8,7 @@ import { execFileSync } from 'node:child_process';
 import { existsSync, mkdirSync, mkdtempSync, readFileSync, renameSync, rmSync, writeFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { pathToFileURL } from 'node:url';
+import { logRender, logSnap } from './run-log.mjs';
 
 const dir = resolve(process.argv[2] ?? '');
 const cfg = JSON.parse(readFileSync(resolve(dir, 'video.json'), 'utf8'));
@@ -16,6 +17,8 @@ const WORKERS = 4;
 const snapIdx = process.argv.indexOf('--snap');
 const snaps = snapIdx > -1 ? process.argv[snapIdx + 1].split(',').map(Number) : null;
 const det = process.argv.includes('--det');
+const startedAt = new Date().toISOString();
+let detResult = null;  // run-log.json 에 남길 결정성 결과
 if (det && !snaps) console.warn('--det 는 --snap 과 함께 쓴다. 이번에는 비교하지 않는다.');
 const targetDir = resolve(dir, snaps ? 'renders/snaps' : 'renders/frames');
 mkdirSync(resolve(dir, 'renders'), { recursive: true });
@@ -106,6 +109,7 @@ if (snaps) {
     console.log(bad.length ? `결정성 · 다름 ${bad.map(([t, n, m]) => `t=${t} (8 넘게 다른 화소 ${n}개, 최대 차 ${m})`).join(', ')} · 기준 ${LIMIT}개 · 차이 지도는 renders/snaps/det-t*.png`
       : `결정성 · 같음 (${snaps.length}개 시각, 8 넘게 다른 화소 최대 ${Math.max(...diffs.map(([, n]) => n))}개 · 기준 ${LIMIT}개)`);
     if (!bad.length && small.length) console.log(`결정성 · 작은 차이 ${small.map(([t, n]) => `t=${t} (${n}개)`).join(', ')} · renders/snaps/det-t*.png 차이 지도에서 빨간 덩어리가 있는지 본다`);
+    detResult = { result: bad.length ? '다름' : small.length ? '작은 차이' : '같음', times: snaps.length, diff: (bad.length ? bad : small).map(([t, n]) => ({ t, px: n })) };
   }
 } else {
   const total = Math.round(FPS * DUR);
@@ -129,4 +133,5 @@ if (!process.exitCode) {
     throw error;
   }
   if (hadPrevious) rmSync(backupDir, { recursive: true, force: true });
+  if (snaps) logSnap(dir, detResult); else logRender(dir, Math.round(FPS * DUR), startedAt);
 }

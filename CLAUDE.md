@@ -12,6 +12,7 @@ scripts/refs.mjs         레퍼런스 색인·검색·전문 읽기·후보 비�
 scripts/catalog.mjs      스타일 레퍼런스를 톤별 장으로 묶은 카탈로그(브로셔) 화면 → references/catalog.html, 답은 videos/.catalog-choice.json. 표현 기법(am:)은 싣지 않는다. --site 는 배포용 폴더 catalog-site/ 를 만든다
 scripts/storyboard.mjs   STORYBOARD.md → 확인 화면(화면에서 의견·승인)
 scripts/review-server.mjs  두 확인 화면을 로컬에서 띄우고 답을 파일로 받는다
+scripts/run-log.mjs      영상마다 실행 기록 run-log.json (단계 시각·후보·선택·스토리보드 회차·결함 수·렌더·수정 요청). board·storyboard·render 가 스스로 덧붙이고, 나머지는 stage·defects·revision 명령으로 적는다. check 는 빈 곳을 낸다
 scripts/render.mjs       seek(t) 프레임 촬영, --snap 검수 시트, --det 결정성 비교, 글꼴 로드 검사
 scripts/synth.py         ElevenLabs 가 없을 때 배경음악(분위기 5종, 마디 격자를 정점에 맞춤 → beats)과 효과음 10종을 코드로 합성한다. 내레이션은 만들지 않는다
 scripts/mix.py           video.json 시간표대로 소리를 섞어 mp4 생성 (sfx 4번째 칸은 동기점 peak·onset·초)

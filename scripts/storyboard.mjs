@@ -3,6 +3,7 @@
 import { existsSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
 import { basename, extname, join, relative, resolve } from "node:path";
 import { CLIENT_JS, serve } from "./review-server.mjs";
+import { logStoryboardAnswer, logStoryboardShown } from "./run-log.mjs";
 
 const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
 const inline = (s) => esc(s).replace(/`([^`]+)`/g, "<code>$1</code>").replace(/\*\*([^*]+)\*\*/g, "<b>$1</b>").replace(/(https?:\/\/[^\s)]+)/g, '<a href="$1" target="_blank">$1</a>');
@@ -116,4 +117,7 @@ const dir = resolve(process.argv[2] ?? "");
 if (!existsSync(join(dir, "STORYBOARD.md"))) { console.error("usage: storyboard.mjs videos/<id> [--no-open]"); process.exit(1); }
 writeFileSync(join(dir, "storyboard.html"), build(dir));
 console.log(join(dir, "storyboard.html"));
-if (!process.argv.includes("--no-open")) serve(dir, "storyboard.html", "storyboard-feedback.json");
+if (!process.argv.includes("--no-open")) {
+  logStoryboardShown(dir, readFileSync(join(dir, "STORYBOARD.md"), "utf8"));
+  serve(dir, "storyboard.html", "storyboard-feedback.json", { onAnswer: (a) => logStoryboardAnswer(dir, a) });
+}

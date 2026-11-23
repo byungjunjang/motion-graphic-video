@@ -25,7 +25,8 @@ async function send(payload) {
   done(r.ok ? '전달했습니다. 이 창은 닫아도 됩니다.' : '전달하지 못했습니다. 작업 중인 채팅에 직접 적어 주세요.');
 }`;
 
-export function serve(dir, page, outFile, { open = true } = {}) {
+// onAnswer 는 답을 파일로 쓴 뒤 부른다. 답(at 포함)을 받는다
+export function serve(dir, page, outFile, { open = true, onAnswer } = {}) {
   const root = resolve(dir);
   const server = createServer((req, res) => {
     if (req.method === "POST" && req.url === "/submit") {
@@ -34,8 +35,9 @@ export function serve(dir, page, outFile, { open = true } = {}) {
       req.on("end", () => {
         let data;
         try { data = JSON.parse(body); } catch { res.writeHead(400).end(); return; }
-        const text = JSON.stringify({ ...data, at: new Date().toISOString() }, null, 2);
+        const answer = { ...data, at: new Date().toISOString() }, text = JSON.stringify(answer, null, 2);
         writeFileSync(join(root, outFile), text + "\n");
+        onAnswer?.(answer);
         res.writeHead(200).end("ok");
         console.log(`답을 받았다 → ${join(root, outFile)}\n${text}`);
         server.close(); server.closeAllConnections();
