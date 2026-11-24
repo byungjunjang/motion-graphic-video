@@ -75,8 +75,15 @@ def tc(t):
     return "%d:%05.2f" % (int(t // 60), t % 60)
 
 
+_DRAWTEXT = None
+
+
 def drawtext_filter(font):
-    if not font:
+    # ffmpeg 빌드에 drawtext 필터가 없으면(Homebrew 기본 ffmpeg 등) 타임코드 없이 시트를 만든다
+    global _DRAWTEXT
+    if _DRAWTEXT is None:
+        _DRAWTEXT = "drawtext" in subprocess.run(["ffmpeg", "-hide_banner", "-filters"], capture_output=True, text=True).stdout
+    if not font or not _DRAWTEXT:
         return ""
     return ("drawtext=fontfile='%s':text='%%{pts\\:hms}':x=6:y=h-th-6:fontsize=18:fontcolor=white:box=1:boxcolor=black@0.6:boxborderw=4," % font)
 
