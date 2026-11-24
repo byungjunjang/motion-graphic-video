@@ -10,7 +10,8 @@ HyperFrames 없이 모션그래픽 영상을 만드는 프로젝트다. HTML 한
 ```
 scripts/refs.mjs         레퍼런스 색인·검색·전문 읽기·후보 비교 화면(화면에서 선택)
 scripts/catalog.mjs      스타일 레퍼런스를 톤별 장으로 묶은 카탈로그(브로셔) 화면 → references/catalog.html, 답은 videos/.catalog-choice.json. 표현 기법(am:)은 싣지 않는다. --site 는 배포용 폴더 catalog-site/ 를 만든다
-scripts/storyboard.mjs   STORYBOARD.md → 확인 화면(화면에서 의견·승인)
+scripts/storyboard.mjs   STORYBOARD.md → 확인 화면(화면에서 의견·승인). --keyframes 는 뼈대 index.html 의 장면 가운데 화면을 카드에 넣는다
+scripts/lint-storyboard.mjs  STORYBOARD.md·candidates.json 이 2·3단계 규칙을 지켰는지 검사한다(고치지 않는다). --table 은 여러 영상의 규칙별 위반 수
 scripts/review-server.mjs  두 확인 화면을 로컬에서 띄우고 답을 파일로 받는다
 scripts/run-log.mjs      영상마다 실행 기록 run-log.json (단계 시각·후보·선택·스토리보드 회차·결함 수·렌더·수정 요청). board·storyboard·render 가 스스로 덧붙이고, 나머지는 stage·defects·revision 명령으로 적는다. check 는 빈 곳을 낸다
 scripts/render.mjs       seek(t) 프레임 촬영, --snap 검수 시트, --det 결정성 비교, 글꼴 로드 검사
