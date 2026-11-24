@@ -15,6 +15,8 @@ description: 제품·서비스·주제를 소개하는 모션그래픽 영상을
 
 ## 0. 준비
 
+먼저 `references/setup.md` 대로 필요한 도구(Node.js 24, Chrome, ffmpeg, Python 3, 프로젝트 의존성)를 확인한다. 없으면 묻지 않고 설치한다. 선택 도구(Python 패키지, yt-dlp, whisper, Codex CLI)는 그 기능을 쓰는 단계에서 같은 문서대로 확인한다.
+
 ```bash
 [ -d node_modules/playwright-core ] || npm i
 [ -f references/ref-index.json ] || node scripts/refs.mjs index

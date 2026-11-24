@@ -56,6 +56,10 @@ macOS (Apple Silicon) 에서 확인했습니다. 스크립트에 Windows 대응 
 
 ## 설치
 
+도구를 미리 다 설치하지 않아도 됩니다. Claude Code 나 Codex 가 첫 작업 때 위 표의 도구를 확인하고, 없는 것은 패키지 관리자(macOS `brew`, Windows `winget`)로 설치합니다. 설치 명령은 실행 승인 창에서 허락하면 됩니다. 비밀번호·관리자 권한이 필요한 설치(Homebrew 등)와 계정 로그인(Codex CLI, ElevenLabs)만 직접 하시면 됩니다. 점검 순서는 [setup.md](.claude/skills/motion-video/references/setup.md) 에 있습니다.
+
+직접 설치하려면 아래 순서를 따릅니다.
+
 ```bash
 git clone https://github.com/byungjunjang/motion-graphic-video.git
 ```

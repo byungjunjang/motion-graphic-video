@@ -74,6 +74,7 @@ videos/<id>/             영상 한 편 (git 에 넣지 않는다 · 고객 자�
 ## 환경
 
 - Node 24, Chrome(시스템 설치), ffmpeg, python3. 의존성은 `npm i` (playwright-core 하나). AI 이미지는 Codex CLI 가 필요하다.
+- 도구가 없으면 `.claude/skills/motion-video/references/setup.md` 대로 확인하고 설치한다. 사용자에게 먼저 묻지 않는다. 비밀번호·관리자 권한·로그인이 필요한 일만 사용자에게 맡긴다.
 - Mac · zsh 에서 `echo ====` 는 오류가 난다. 구분선은 `echo "--"` 로 쓴다.
 - Mac · `timeout` 명령이 없다.
 - Windows · 명령은 Git Bash(Bash 도구)로 돌린다. 여기서는 `echo ====` 와 `timeout` 이 그대로 된다.

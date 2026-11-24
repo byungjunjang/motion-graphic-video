@@ -15,6 +15,8 @@ description: 레퍼런스 카탈로그(브로셔)를 먼저 펼쳐 사용자가 
 
 ## 0. 준비
 
+먼저 mv 의 `references/setup.md` 대로 필요한 도구를 확인하고, 없으면 묻지 않고 설치한다.
+
 ```bash
 [ -d node_modules/playwright-core ] || npm i
 [ -f references/ref-index.json ] || node scripts/refs.mjs index
