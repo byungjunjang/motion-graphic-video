@@ -19,7 +19,7 @@ scripts/synth.py         ElevenLabs 가 없을 때 배경음악(분위기 5종, 
 scripts/mix.py           video.json 시간표대로 소리를 섞어 mp4 생성 (sfx 4번째 칸은 동기점 peak·onset·초)
 scripts/key.py           AI 이미지(codex-image)의 마젠타 바탕을 지워 투명 PNG 로 만든다. --split 은 한 장에 그린 여러 그림을 따로 자른다
 scripts/audio-probe.py   길이·무음 구간·음량 곡선 측정, --onsets --write 로 타격음·BPM·마디 첫 박·킥 → beats (영상 시각), --fit 으로 전환과 박의 오차, --peak 로 효과음 동기점
-.claude/skills/motionmaxxing/scripts/look.py  7단계 렌더 측정 (G0·끝 정지·LUFS·true peak 만 읽는다)
+scripts/look.py          7단계 렌더 측정 (검수 시트·G0·G2·끝 정지·LUFS·true peak)
 references/ref-index.json  (git 에 넣지 않는다 · 없으면 refs.mjs index 로 만든다) 아홉 출처 레퍼런스 색인 (pm·gh·cv 세 사이트 + lo: lemo-opuscar, ms: mg-styles-15, c2: claude-video-2 스타일 명세, pn: Pinterest 의 손제작 영상, fa: AI Style Atlas 의 스타일 영상, am: aimotion 표현 기법 데모 · 발췌만, 전문 없음). tone-labels.json 에 판정이 없는 항목은 검토 대기로 보고 검색·카탈로그에서 뺀다
                            am: 은 스타일 레퍼런스가 아니라 표현 기법이다(kind: technique). 카탈로그 화면에 싣지 않고 제작 단계에서만 쓴다. 톤별 수에 세지 않고, search 는 --tech 를 줄 때만 낸다. show am:<id> 는 구현 노트를 낸다. refs.mjs index --only am 으로 am: 만 다시 받는다
 catalog-site/            배포용 카탈로그 폴더 (index.html + 글꼴 2개 · git 에 넣지 않는다). catalog.mjs --site 가 만든다

@@ -143,7 +143,6 @@ url = "https://api.elevenlabs.io/v1/mcp-creative"
 .claude/skills/
   motion-video/        영상 제작 단계 (0~8단계) 와 레퍼런스 문서
   motion-catalog/      카탈로그에서 스타일을 먼저 고르는 흐름
-  motionmaxxing/       렌더 측정 도구를 빌려 쓰는 외부 스킬 (Apache-2.0)
   codex-image/         AI 이미지 생성 스킬 (MIT)
 scripts/
   refs.mjs             레퍼런스 색인·검색·후보 비교 화면
@@ -153,6 +152,7 @@ scripts/
   synth.py             배경음악·효과음 코드 합성 (ElevenLabs 가 없을 때)
   mix.py               소리 섞기 → mp4
   audio-probe.py       길이·무음·박자 측정
+  look.py              렌더 측정 (검수 시트·길이·끝 정지·음량)
   key.py               AI 이미지의 마젠타 바탕 지우기
 references/            분석 노트, 톤 판정 (색인 파일은 처음 실행할 때 만들어집니다)
 templates/starter/     새 영상의 본보기

@@ -8,15 +8,9 @@
 | three.js | `vendor/three/three.min.js` | MIT · `vendor/three/LICENSE` | https://threejs.org |
 | animate (손그림 함수 일부, 박자 분석 일부) | `vendor/handdrawn/hand.js`, `scripts/audio-probe.py` | MIT · `vendor/handdrawn/LICENSE` | https://github.com/cth9191/animate |
 | mg-styles-15 (cel boil 엔진 일부) | `vendor/handdrawn/hand.js` | MIT · `vendor/handdrawn/LICENSE` | https://github.com/Vincentwei1021/mg-styles-15 |
-| motionmaxxing 스킬 | `.claude/skills/motionmaxxing/` | Apache-2.0 · 그 폴더의 `LICENSE`, `NOTICE` | https://github.com/Tejashmakwana/motionmaxxing |
+| motionmaxxing 의 look.py (측정 방식·기준값, 줄여서 고침) | `scripts/look.py` | Apache-2.0 · `scripts/look.LICENSE` · motionmaxxing, Made by Tejas Makwana | https://github.com/Tejashmakwana/motionmaxxing |
 | codex-image 스킬 | `.claude/skills/codex-image/` | MIT · 그 폴더의 `LICENSE` (Copyright (c) 2026 wjb127) | 원작자 wjb127 |
 | Pretendard 글꼴 | `templates/starter/assets/fonts/` | SIL OFL 1.1 · `Pretendard-LICENSE.txt` | https://github.com/orioncactus/pretendard |
-
-## motionmaxxing 안의 구성 요소
-
-`motionmaxxing` 폴더는 원본을 그대로 넣었다. 저장소에 넣은 뒤 고치지 않았다.
-그 안에는 GSAP, three.js, Inter 글꼴 등이 함께 들어 있다. 각 라이선스는 그 폴더의 `NOTICE` 에 적혀 있다.
-GSAP 는 오픈소스 라이선스가 아니다(GreenSock Standard "No Charge" License). 다시 배포하기 전에 https://gsap.com/standard-license 를 읽는다.
 
 ## 레퍼런스 출처
 

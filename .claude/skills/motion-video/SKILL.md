@@ -192,16 +192,16 @@ cp vendor/three-looks/looks.js videos/<id>/assets/
 node scripts/render.mjs videos/<id> && python3 scripts/mix.py videos/<id>
 ffprobe -v error -show_entries format=duration:stream=codec_name,width,height -of default=nw=1 videos/<id>/renders/video.mp4
 python3 scripts/audio-probe.py videos/<id>/renders/video.mp4 --step 2
-python3 .claude/skills/motionmaxxing/scripts/look.py videos/<id>/renders/video.mp4 --out videos/<id>/renders/look --expect <video.json 의 duration> --expect-audio --hold-warn 0
+python3 scripts/look.py videos/<id>/renders/video.mp4 --out videos/<id>/renders/look --expect <video.json 의 duration> --expect-audio
 ```
 
 `look.py` 출력에서 판정과 보고에 쓰는 것은 넷이다(G0·끝 정지·통합 음량·true peak). 숫자는 8단계 보고의 검사 표에 옮긴다. `G2` 는 맨 아래 줄처럼 참고로만 본다.
 - `G0` · 디코드, 빈 화면 아님, 길이, 소리. PASS 여야 한다
 - `end hold` · 끝 정지 길이. 1초 이상이어야 한다(`motion-rules.md` `## 구성`). 상한은 두지 않는다
-- `audio` 의 `integrated` LUFS 와 `true peak` · 음량 목표를 정하기 전이라 기준이 없다. 값만 기록한다. look.py 의 true peak·LUFS `FLAG` 도 판정에 쓰지 않는다
+- `audio` 의 `integrated` LUFS 와 `true peak` · 음량 목표를 정하기 전이라 기준이 없다. 값만 기록한다
 - `G2`(단색 프레임)는 참고로만 본다. 첫 0.5초의 단색 도입과 "점 → 화면 전체 배경"·"덮고 바꾸기" 전환은 의도한 단색이다
 
-`G3`(끝 카드 1.4초·마지막 숏 25%), `MOTION`, `cut sync`, 앞뒤 무음 `FLAG` 는 판정에 쓰지 않는다. 우리 영상은 컷 대신 사물 전환으로 잇고, 내레이션은 1.0~1.2초에 시작하기 때문이다. `--hold-warn 0` 은 끝 정지 1.4초 상한 WARNING 과 그 줄의 자르기 명령을 끈다. 끝 정지 값은 그대로 나온다. Windows 에서는 시트에 타임코드가 빠진다(글꼴 경로가 macOS·Linux 뿐). ffmpeg 에 `drawtext` 필터가 없을 때(Homebrew 기본 ffmpeg 등)도 빠진다. 오류는 아니다. look.py 는 motionmaxxing 스킬의 파일이므로 고치기 전에 사용자에게 묻는다.
+끝 카드 상한·마지막 숏 비율·컷과 타격음의 일치는 재지 않는다. 우리 영상은 컷 대신 사물 전환으로 잇고, 내레이션은 1.0~1.2초에 시작하기 때문이다. 시트의 타임코드는 ffmpeg 에 `drawtext` 필터가 있고 글꼴(macOS·Linux 경로)을 찾았을 때만 들어간다. Homebrew 기본 ffmpeg 이나 Windows 에서는 빠진다. 오류는 아니다.
 
 완료 조건 · 길이가 `video.json` 과 같다. 영상·음성 스트림이 둘 다 있다. `look.py` 의 `G0` 이 PASS 이고 끝 정지가 1초 이상이다(모자라면 `seek-pattern.md` 의 마지막 구간 정지 `Math.min(t, 끝-1.2)` 를 본다). `mix.py` 가 `경고 없음` 을 출력한다. 음량 곡선이 스토리보드의 음악 흐름과 같은 모양이다.
 `renders/look/sheet.jpg` 를 Read 로 보고 최종 mp4 를 한 번 더 본다.

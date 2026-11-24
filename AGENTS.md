@@ -16,4 +16,4 @@
 - Bash 예시는 현재 셸에 맞게 실행한다. Windows PowerShell에서는 폴더와 파일에 `New-Item`, `Copy-Item`을 쓰고 Python 3 실행 파일이 `python`이면 그 이름으로 호출한다.
 - 원본의 `run_in_background`는 확인 화면 서버를 유지하라는 뜻이다. Codex에서 실행 세션을 유지하고 출력된 로컬 URL을 사용자에게 전달한다. 로컬 화면을 열 수 없으면 원본의 `--no-open` 절차로 생성한 HTML과 채팅 응답을 사용한다.
 - `ToolSearch` 지시가 나오면 현재 환경의 연결 도구 목록에서 ElevenLabs를 확인한다. 연결 방법은 [README의 Codex 안내](README.md#codex)를 따른다. 사용할 수 없으면 제공받은 음원을 쓰거나 `scripts/synth.py` 로 음악·효과음을 합성하고 스토리보드에 표시한다. 내레이션은 ElevenLabs 로만 만든다.
-- `.claude/skills/motionmaxxing/`과 `.claude/skills/codex-image/`는 원본 제작 절차에서 지정한 단계에서 사용한다.
+- `.claude/skills/codex-image/`는 원본 제작 절차에서 지정한 단계에서 사용한다.
