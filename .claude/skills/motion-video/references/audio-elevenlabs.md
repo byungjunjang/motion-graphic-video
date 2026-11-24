@@ -1,6 +1,6 @@
 # 소리 만들기 (ElevenLabs MCP)
 
-이 문서는 소리 방식이 `ElevenLabs` 일 때만 쓴다. 커넥터가 없으면 `SKILL.md` 0단계의 `직접 음원` 이나 `무음` 으로 만든다. 3절의 `audio-probe.py` 측정과 `video.json` 형식은 직접 넣은 음원에도 그대로 쓴다.
+이 문서는 소리 방식이 `ElevenLabs` 일 때만 쓴다. 커넥터가 없으면 `SKILL.md` 0단계의 `직접 음원` 이나 `합성`(`audio-synth.md`) 으로 만든다. 3절의 `audio-probe.py` 측정과 `video.json` 형식은 직접 넣은 음원에도 그대로 쓴다.
 
 ElevenLabs MCP 의 `creative_*` 도구를 쓴다. 이름 앞부분(`mcp__claude_ai_Elevenlabs__`, `mcp__<연결 ID>__` 등)은 PC 마다 다르므로 `creative_` 뒷부분으로 찾는다. 지연 로드 도구면 필요한 것을 `ToolSearch` 한 번에 묶어 불러온다.
 `creative_create_flow, creative_list_voices, creative_generate_speech, creative_add_flow_node, creative_run_flow_nodes, creative_get_flow_run_status`
