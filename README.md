@@ -27,7 +27,7 @@ HTML 한 파일이 시간 t 의 화면을 계산하고, Chrome 이 프레임을 
   → 사실 확인 (FACTS.md)
   → 레퍼런스 후보 6개 비교 화면 → 사람이 1개 고름        ← 확인 지점 1
   → 스토리보드 확인 화면 → 사람이 승인                   ← 확인 지점 2
-  → 소리 (ElevenLabs · 선택)
+  → 소리 (ElevenLabs · 없으면 코드 합성)
   → 화면 코드 (src/index.html 의 window.seek(t))
   → 검수 시트·결정성 검사 → 렌더 → mp4
 ```
@@ -45,12 +45,12 @@ HTML 한 파일이 시간 t 의 화면을 계산하고, Chrome 이 프레임을 
 | 필수 | Google Chrome (시스템 설치) | 프레임 촬영 |
 | 필수 | ffmpeg | 영상·소리 합성 |
 | 필수 | Python 3 | 소리 합성 (`scripts/mix.py`) |
-| 선택 | Python 패키지 `numpy` `pillow` `scipy` | 음악 박자 분석, AI 이미지 배경 지우기 |
-| 선택 | ElevenLabs 커넥터 (claude.ai) | 내레이션·음악·효과음 생성. **크레딧이 듭니다** |
+| 선택 | Python 패키지 `numpy` `pillow` `scipy` | 음악·효과음 합성, 음악 박자 분석, AI 이미지 배경 지우기 |
+| 권장 | ElevenLabs 커넥터 (Claude·Codex · 크리에이티브판, [연결 방법](#elevenlabs-연결-권장)) | 내레이션·음악·효과음 생성. 내레이션은 이 커넥터로만 만듭니다. **크레딧이 듭니다** |
 | 선택 | [Codex CLI](https://github.com/openai/codex) + ChatGPT 로그인 | AI 일러스트 생성. **ChatGPT 요금제 한도에서 나갑니다** |
 | 선택 | `whisper` 명령 (`brew install openai-whisper`) | 내레이션 단어 시각 측정 |
 
-ElevenLabs 커넥터가 없어도 영상을 만들 수 있습니다. 가진 음원 파일을 넣거나, 소리 없이 만듭니다.
+ElevenLabs 커넥터가 없어도 영상을 만들 수 있습니다. 배경음악과 효과음은 `scripts/synth.py` 가 코드로 합성합니다(numpy 필요, 비용 없음). 이때 내레이션은 넣지 않고 화면 문구로 전달합니다. 가진 음원 파일을 넣거나 소리 없이 만들 수도 있습니다.
 
 macOS (Apple Silicon) 에서 확인했습니다. 스크립트에 Windows 대응 코드가 있지만 이 공개본으로는 시험하지 않았습니다.
 
@@ -71,6 +71,54 @@ npm ci
 python3 -m pip install numpy pillow scipy
 ```
 
+### ElevenLabs 연결 (권장)
+
+ElevenLabs 공식 원격 MCP 의 크리에이티브판을 씁니다. API 키는 필요 없고, ElevenLabs 계정으로 로그인합니다.
+
+#### Claude
+
+1. claude.ai 설정의 커넥터 화면에서 커스텀 커넥터를 추가합니다.
+2. 주소에 `https://api.elevenlabs.io/v1/mcp-creative` 를 넣습니다.
+3. ElevenLabs 계정으로 로그인해 권한을 허용합니다.
+4. 새 세션에서 `creative_` 로 시작하는 도구가 보이면 연결된 것입니다.
+
+#### Codex
+
+먼저 로컬 Codex CLI에서 `/mcp`로 연결된 서버를 확인하세요. 크리에이티브판이나 전체판이 이미 연결되어 있다면 아래의 도구 확인으로 넘어가세요. 연결된 서버가 없으면 터미널에서 다음 명령으로 크리에이티브판을 등록하세요.
+
+```sh
+codex mcp add elevenlabs --url https://api.elevenlabs.io/v1/mcp-creative
+```
+
+직접 설정하려면 위 명령 대신 개인 `~/.codex/config.toml`에 아래 항목을 추가하세요.
+
+```toml
+[mcp_servers.elevenlabs]
+url = "https://api.elevenlabs.io/v1/mcp-creative"
+```
+
+등록할 때 로그인 창이 열리면 ElevenLabs 계정으로 로그인하고 접근을 승인하세요. 아직 로그인하지 않았다면 `codex mcp login elevenlabs`를 실행하세요. [Codex MCP 공식 안내](https://developers.openai.com/codex/mcp/)
+
+새 Codex CLI 세션에서 `/mcp`로 ElevenLabs 도구 목록을 확인하세요. 서버 접두어 뒤에서 다음 이름을 찾으세요.
+
+- 내레이션 · `creative_list_voices`, `creative_generate_speech`
+- 음악·효과음 · `creative_create_flow`, `creative_add_flow_node`, `creative_run_flow_nodes`, `creative_get_flow_run_status`
+
+음악 지원 여부는 `creative_get_flow_node_types`로 노드 종류를 조회해 `music`이 있는지 확인하세요. 스토리보드 승인 후 음악을 만들 때는 `creative_add_flow_node`의 `node_type`에 `music`을 씁니다.
+
+#### 서버 버전 비교
+
+| 버전 | 주소 | 이 프로젝트에서 |
+|---|---|---|
+| 크리에이티브판 | `/v1/mcp-creative` | **권장**. 음성·음악·효과음이 모두 있습니다 |
+| 전체판 | `/v1/mcp` | 동작합니다. 2026-11 에 Claude에서 확인했을 때 크리에이티브판과 같은 도구 241개(음성 에이전트 관리 도구 포함)가 보였습니다 |
+| 커넥터 디렉터리판 | `/v1/mcp-creative-claude-marketplace` | **쓰지 마세요**. 음악 생성이 없어 음악 단계에서 멈춥니다 |
+
+- claude.ai 커넥터 목록에서 바로 추가하는 ElevenLabs 는 디렉터리판입니다. 커스텀 커넥터로 크리에이티브판을 추가하세요.
+- 크리에이티브판과 전체판을 같이 연결하지 마세요. 같은 도구가 두 벌 생깁니다.
+- API 키를 쓰는 로컬 서버(`elevenlabs-mcp`)는 도구 이름이 달라 이 프로젝트에서 동작하지 않습니다.
+- 버전 설명은 [ElevenLabs 문서](https://elevenlabs.io/docs/eleven-creative/mcp)를 따릅니다.
+
 ## 첫 영상 만들기
 
 설치 후 Codex 앱에서 복제한 `motion-graphic-video` 폴더를 로컬 프로젝트로 열거나, 같은 폴더의 터미널에서 `codex`를 실행하세요. Claude Code에서는 같은 위치에서 `claude`를 실행하세요.
@@ -83,7 +131,7 @@ python3 -m pip install numpy pillow scipy
 
 - **ElevenLabs** · 스토리보드를 승인한 뒤에만 생성합니다. 같은 생성을 재시도하지 않게 스킬에 적혀 있습니다.
 - **Codex 이미지** · 일러스트가 필요한 톤에서만 씁니다. 처음에는 디자인 시트 1장과 장면 그림 3~6장만 만듭니다.
-- 렌더와 합성은 로컬에서 하므로 비용이 없습니다.
+- 렌더, 소리 합성, 믹스는 로컬에서 하므로 비용이 없습니다.
 
 ## 폴더 구조
 
@@ -98,7 +146,8 @@ scripts/
   catalog.mjs          톤별 카탈로그 화면
   storyboard.mjs       스토리보드 확인 화면
   render.mjs           프레임 촬영, 검수 시트, 결정성 비교
-  mix.py               소리 합성 → mp4
+  synth.py             배경음악·효과음 코드 합성 (ElevenLabs 가 없을 때)
+  mix.py               소리 섞기 → mp4
   audio-probe.py       길이·무음·박자 측정
   key.py               AI 이미지의 마젠타 바탕 지우기
 references/            분석 노트, 톤 판정 (색인 파일은 처음 실행할 때 만들어집니다)
