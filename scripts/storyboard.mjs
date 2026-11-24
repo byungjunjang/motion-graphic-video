@@ -1,7 +1,11 @@
 // videos/<id>/STORYBOARD.md 를 확인 화면 storyboard.html 로 바꿔 띄우고, 사용자가 화면에 적은 의견을 storyboard-feedback.json 으로 받는다.
-// 사용: node scripts/storyboard.mjs videos/<id> [--no-open]   (--no-open 은 파일만 만든다)
-import { existsSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
+// 사용: node scripts/storyboard.mjs videos/<id> [--no-open] [--keyframes]   (--no-open 은 파일만 만든다)
+//   --keyframes · src/index.html 이 있으면 장면마다 가운데 시각을 render.mjs --snap 으로 찍어 keyframes/NN.png 로 두고, 장면 카드에 글 대신 그 화면을 넣는다
+//   keyframes/NN.png(NN 은 장면 번호)가 이미 있으면 플래그 없이도 카드에 넣는다
+import { copyFileSync, existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
+import { spawnSync } from "node:child_process";
 import { basename, extname, join, relative, resolve } from "node:path";
+import { fileURLToPath } from "node:url";
 import { CLIENT_JS, serve } from "./review-server.mjs";
 import { logStoryboardAnswer, logStoryboardShown } from "./run-log.mjs";
 
@@ -47,19 +51,28 @@ function build(dir) {
   const timeline = scenes.rows.map((r, i) => `<a href="#scene${i}" style="flex:${(spans[i][1] - spans[i][0]) || 1}"><b>${esc(r[iNo])}</b> ${esc(r[iRole])}<small>${esc(r[iTime])}</small></a>`).join("");
 
   const cards = scenes.rows.map((r, i) => {
-    const view = r[iView];
+    const view = r[iView], key = join("keyframes", `${String(r[iNo]).padStart(2, "0")}.png`);
+    if (existsSync(join(dir, key))) {   // 키프레임 · 뼈대 화면의 장면 가운데 한 장. 글로 그린 카드 대신 넣는다
+      const mid = ((spans[i][0] ?? 0) + (spans[i][1] ?? spans[i][0] ?? 0)) / 2;
+      return cardHtml(r, `<div class="frame key"><img src="${esc(key)}" alt=""><span class="kcap">키프레임 · ${mid.toFixed(2)}초 · 뼈대 화면이라 색·움직임은 달라질 수 있다</span></div>`);
+    }
     const used = []; let text = view;   // 화면 칸에 적힌 사진 파일 이름을 찾아 미리보기로 넣는다
     for (const im of imgs) if (text.includes(im.name)) { used.push(im); text = text.split(im.name).join(""); }
     const copy = r[iCopy].split(" / ").map((c, j) => `<div class="${j ? "c2" : "c1"}">${esc(c)}</div>`).join("");
+    return cardHtml(r, `<div class="frame">${used.length ? `<div class="shots">${used.map((u) => `<figure><img src="${esc(u.src)}" alt=""><figcaption>${esc(u.name)}</figcaption></figure>`).join("")}</div>` : ""}<div class="copy">${copy}</div>${r[iCond] && r[iCond] !== "없음" ? `<div class="cond">${esc(r[iCond])}</div>` : ""}</div>`);
+  });
+  function cardHtml(r, frame) {
+    const i = scenes.rows.indexOf(r), view = r[iView];
     return `<section class="scene" id="scene${i}">
-  <div class="frame">${used.length ? `<div class="shots">${used.map((u) => `<figure><img src="${esc(u.src)}" alt=""><figcaption>${esc(u.name)}</figcaption></figure>`).join("")}</div>` : ""}<div class="copy">${copy}</div>${r[iCond] && r[iCond] !== "없음" ? `<div class="cond">${esc(r[iCond])}</div>` : ""}</div>
+  ${frame}
   <div class="info"><h3><span class="no">${esc(r[iNo])}</span>${esc(r[iRole])}<small>${esc(r[iTime])}</small></h3>
     <h4>화면</h4><p>${inline(view)}</p>
     ${iMotion >= 0 && r[iMotion] ? `<h4>모션</h4><p>${inline(r[iMotion])}</p>` : ""}
     <h4>다음 장면으로의 전환</h4><p>${inline(r[iNext] ?? "")}</p>
     ${note(`장면 ${r[iNo]}`)}</div>
 </section>`;
-  }).join("\n");
+  }
+  const cardsHtml = cards.join("\n");
 
   const nar = sec("내레이션");
   const narRows = nar.rows.map((r) => `<tr><td class="no">${esc(r[0])}</td><td><div class="say">${esc(r[1])}</div>${r[2] && r[2] !== "(같음)" ? `<div class="read">읽는 소리 · ${esc(r[2])}</div>` : ""}${note(`대사 ${r[0]}`)}</td></tr>`).join("");
@@ -79,6 +92,7 @@ table{width:100%;border-collapse:collapse}td{padding:12px 8px;border-top:1px sol
 td.no,.no{font-weight:700;color:#0046FF;width:36px}.say{font-size:19px;font-weight:600}.read{color:#6B7280;font-size:14px}
 .scene{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:24px;background:#fff;border-radius:16px;padding:20px;margin-bottom:18px;box-shadow:0 8px 30px rgba(20,30,60,.06);scroll-margin-top:80px}
 .frame{aspect-ratio:${fw}/${fh};${+fh > +fw ? "height:560px;justify-self:center;" : ""}background:#F7F8FA;border:1.5px solid #D5D9E0;border-radius:10px;padding:4%;display:flex;flex-direction:column;justify-content:center;gap:12px;overflow:hidden;position:relative}
+.frame.key{padding:0;background:#000}.frame.key img{width:100%;height:100%;object-fit:contain;display:block}.kcap{position:absolute;left:8px;bottom:8px;background:rgba(18,21,27,.75);color:#fff;font-size:11px;border-radius:4px;padding:2px 7px}
 .shots{display:flex;gap:10px;min-height:0;flex:1}.shots figure{margin:0;flex:1;min-width:0;position:relative}
 .shots img{width:100%;height:100%;object-fit:cover;border-radius:6px;display:block}.shots figcaption{position:absolute;left:6px;bottom:6px;background:rgba(18,21,27,.75);color:#fff;font-size:11px;border-radius:4px;padding:1px 6px}
 .c1{font-size:clamp(18px,2.2vw,30px);font-weight:700;line-height:1.25}.c2{color:#4B5563;font-size:14px;line-height:1.4}
@@ -95,7 +109,7 @@ button.go{background:#0046FF;color:#fff}button:disabled{opacity:.35;cursor:defau
 <h1>${esc(sb.title)}</h1><p class="status">상태 · ${esc(sb.status)}</p>
 <div class="cols"><div><h2>방향</h2><div class="box">${list(sec("방향").lines)}</div></div><div><h2>레퍼런스</h2><div class="box">${list(sec("레퍼런스").lines)}</div></div></div>
 <h2>장면 (전체 약 ${total}초)</h2><div class="timeline">${timeline}</div>
-${cards}
+${cardsHtml}
 ${scenes.lines.length ? `<div class="box">${list(scenes.lines)}</div>` : ""}
 <h2>내레이션</h2><div class="box"><table>${narRows}</table>${list(nar.lines)}</div>
 ${others.map((k) => `<h2>${esc(k)}</h2><div class="box">${list(sb.sections[k].lines)}${note(k)}</div>`).join("\n")}
@@ -113,11 +127,26 @@ function submit(decision) { send({ decision, comments: comments() }); }
 </script></body></html>`;
 }
 
+// 장면표의 시간 칸에서 장면 가운데 시각을 구해 한 번에 찍고, 장면 번호 이름으로 keyframes/ 에 옮긴다
+function makeKeyframes(dir) {
+  if (!existsSync(join(dir, "src", "index.html"))) { console.error("--keyframes · src/index.html 이 없어 키프레임을 찍지 않는다"); return; }
+  const sb = parse(readFileSync(join(dir, "STORYBOARD.md"), "utf8"));
+  const sc = sb.sections[Object.keys(sb.sections).find((k) => k.startsWith("장면표"))];
+  const iNo = sc.head.findIndex((h) => h.includes("#")), iTime = sc.head.findIndex((h) => h.includes("시간"));
+  const mids = sc.rows.map((r) => { const s = (r[iTime].match(/[\d.]+/g) ?? []).map(Number); return { no: r[iNo], t: +(((s[0] ?? 0) + (s[1] ?? s[0] ?? 0)) / 2).toFixed(2) }; });
+  const t0 = Date.now(), res = spawnSync("node", [join(ROOT, "scripts", "render.mjs"), dir, "--snap", mids.map((m) => m.t).join(",")], { stdio: "inherit" });
+  if (res.status) { console.error("--keyframes · render.mjs 가 실패했다"); return; }
+  mkdirSync(join(dir, "keyframes"), { recursive: true });
+  for (const m of mids) copyFileSync(join(dir, "renders", "snaps", `t${m.t.toFixed(2).padStart(6, "0")}.png`), join(dir, "keyframes", `${String(m.no).padStart(2, "0")}.png`));
+  console.log(`키프레임 ${mids.length}장 · ${((Date.now() - t0) / 1000).toFixed(1)}초 → ${join(dir, "keyframes")}`);
+}
+const ROOT = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const dir = resolve(process.argv[2] ?? "");
 if (!existsSync(join(dir, "STORYBOARD.md"))) { console.error("usage: storyboard.mjs videos/<id> [--no-open]"); process.exit(1); }
+if (process.argv.includes("--keyframes")) makeKeyframes(dir);
 writeFileSync(join(dir, "storyboard.html"), build(dir));
 console.log(join(dir, "storyboard.html"));
 if (!process.argv.includes("--no-open")) {
-  logStoryboardShown(dir, readFileSync(join(dir, "STORYBOARD.md"), "utf8"));
+  logStoryboardShown(dir, readFileSync(join(dir, "STORYBOARD.md"), "utf8"), existsSync(join(dir, "keyframes")) ? readdirSync(join(dir, "keyframes")).filter((f) => f.endsWith(".png")).length : 0);
   serve(dir, "storyboard.html", "storyboard-feedback.json", { onAnswer: (a) => logStoryboardAnswer(dir, a) });
 }

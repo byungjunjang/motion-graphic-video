@@ -39,10 +39,10 @@ export const logBoardAnswer = (dir, data) => updateLog(dir, (l) => {
 });
 
 // 3단계 · 확인 화면을 띄울 때(STORYBOARD.md 의 ## 레퍼런스 절에서 am: id 를 읽는다)와 답을 받을 때
-export const logStoryboardShown = (dir, md) => updateLog(dir, (l) => {
+export const logStoryboardShown = (dir, md, keyframes = 0) => updateLog(dir, (l) => {
   const ref = (md.split(/^## /m).find((s) => s.startsWith("레퍼런스")) ?? "");
   const techniques = [...new Set(ref.match(/\bam:[\w-]+/g) ?? [])];
-  l.storyboard.push({ round: l.storyboard.length + 1, shownAt: now(), techniques, decision: null, comments: null, answeredAt: null, seconds: null });
+  l.storyboard.push({ round: l.storyboard.length + 1, shownAt: now(), techniques, keyframes, decision: null, comments: null, answeredAt: null, seconds: null });
 });
 export const logStoryboardAnswer = (dir, data) => updateLog(dir, (l) => {
   const r = l.storyboard.at(-1); if (!r) return;
