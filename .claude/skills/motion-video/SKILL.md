@@ -137,8 +137,9 @@ cp vendor/three-looks/looks.js videos/<id>/assets/
 1. `creative_create_flow` 로 flow 하나를 만들고 모든 호출에 그 `flow_id` 를 넘긴다.
 2. 내레이션 생성 → 내려받기 → `audio-probe.py` 로 문장 경계를 잰다 → 문장 사이 간격을 넓혀 장면 시작 시각을 정한다.
 3. 장면 시각이 정해진 뒤에 음악을 만든다. 프롬프트에 도입·고조·정점·종결의 초 단위 시각을 적는다.
-4. `audio-probe.py` 로 음악의 고조 시작과 종결 화음 시각을 재고, `delay`·`cut`·`repeat` 로 장면 전환에 맞춘다. 음악은 프롬프트의 시각을 자주 따르지 않는다. 다시 만들지 말고 이 값으로 맞춘다.
+4. `audio-probe.py` 로 음악의 고조 시작과 종결 화음 시각을 재고, `delay`·`cut`·`repeat` 로 정점 장면과 마지막 장면에만 맞춘다. 음악은 프롬프트의 시각을 자주 따르지 않는다. 다시 만들지 말고 이 값으로 맞춘다.
    그다음 `python3 scripts/audio-probe.py videos/<id>/assets/bgm/<파일> --onsets --write videos/<id>` 로 타격음 시각을 `video.json` 의 `beats` 와 `src/beats.js` 에 쓴다. `delay`·`cut`·`repeat` 을 바꾸면 다시 실행한다.
+   음악을 고정한 뒤 나머지 장면 전환은 장면 쪽을 박으로 옮긴다. 전환마다 ±0.6초 안의 가장 가까운 마디 첫 박으로 옮기고, 내레이션 문장 경계는 넘지 않는다. 방법은 `audio-elevenlabs.md` §2 6번 끝에 있다(`videos/exp-h6-sync`). `직접 음원` 도 같다.
 5. 효과음을 만든다. 3종 안팎이면 충분하다.
 6. `video.json` 에 시간표를 적는다. 형식은 `templates/starter/video.audio-example.json` 을 따른다. 소리가 없으면 `"audio": {}` 로 둔다(`templates/starter/video.json`). 단 `sfx` 는 `audio-elevenlabs.md` §3 의 4칸 형식으로 적는다.
 
@@ -152,7 +153,7 @@ cp vendor/three-looks/looks.js videos/<id>/assets/
 3단계의 뼈대 `src/index.html` 을 이어서 완성한다. 뼈대의 배치는 사용자가 키프레임으로 승인한 화면이다. 배치·색·문구를 크게 바꿔야 하면 바꾸기 전에 사용자에게 알린다.
 
 - 모든 스타일 값은 `window.seek(t)` 안에서 t 만으로 계산한다. CSS transition, 타이머, 프레임 사이에 남는 상태를 쓰지 않는다.
-- 장면의 시작 시각은 4단계에서 정한 내레이션 시각을 쓴다. 숫자·문구는 대사의 해당 단어가 나오는 시각에 맞춘다. 단어 시각은 `audio-probe.py <내레이션> --words` 로 잰다.
+- 장면의 시작 시각은 4단계에서 정한 시각(내레이션 문장 경계 안에서 박으로 옮긴 시각)을 쓴다. 숫자·문구는 대사의 해당 단어가 나오는 시각에 맞춘다. 단어 시각은 `audio-probe.py <내레이션> --words` 로 잰다.
 - 글자는 프로젝트 안의 글꼴 파일만 쓴다. 한국어 기본 글꼴은 Pretendard 다. 영어 글꼴은 고른 레퍼런스에 맞춰 영상마다 고른다. 글자 크기는 `references/motion-rules.md` 의 글자 기준을 따른다.
 - 스토리보드의 움직임 원칙(프로필)에 맞는 도우미를 `seek-pattern.md` 의 `### 톤별 프로필 도우미` 에서 가져온다.
 - `src/beats.js` 가 있으면 `<script src="beats.js"></script>` 로 읽고, 정점 구간을 `### 박자 도우미` 로 맞춘다.
