@@ -148,11 +148,11 @@ cp vendor/three-looks/looks.js videos/<id>/assets/
 ## 5. 화면 → `src/index.html`
 
 `references/seek-pattern.md` 를 읽고 `templates/starter/src/index.html` 을 본보기로 쓴다.
+3단계의 뼈대 `src/index.html` 을 이어서 완성한다. 뼈대의 배치는 사용자가 키프레임으로 승인한 화면이다. 배치·색·문구를 크게 바꿔야 하면 바꾸기 전에 사용자에게 알린다.
 
 - 모든 스타일 값은 `window.seek(t)` 안에서 t 만으로 계산한다. CSS transition, 타이머, 프레임 사이에 남는 상태를 쓰지 않는다.
 - 장면의 시작 시각은 4단계에서 정한 내레이션 시각을 쓴다. 숫자·문구는 대사의 해당 단어가 나오는 시각에 맞춘다. 단어 시각은 `audio-probe.py <내레이션> --words` 로 잰다.
 - 글자는 프로젝트 안의 글꼴 파일만 쓴다. 한국어 기본 글꼴은 Pretendard 다. 영어 글꼴은 고른 레퍼런스에 맞춰 영상마다 고른다. 글자 크기는 `references/motion-rules.md` 의 글자 기준을 따른다.
-3단계의 뼈대 `src/index.html` 을 이어서 완성한다. 뼈대의 배치는 사용자가 키프레임으로 승인한 화면이다. 배치·색·문구를 크게 바꿔야 하면 바꾸기 전에 사용자에게 알린다.
 - 스토리보드의 움직임 원칙(프로필)에 맞는 도우미를 `seek-pattern.md` 의 `### 톤별 프로필 도우미` 에서 가져온다.
 - `src/beats.js` 가 있으면 `<script src="beats.js"></script>` 로 읽고, 정점 구간을 `### 박자 도우미` 로 맞춘다.
 - three.js 로 만들면 `seek-pattern.md` 의 `## three.js` 를 따른다. 글자는 DOM 층으로 3D 위에 올린다.
