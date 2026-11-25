@@ -4,6 +4,7 @@
 > - 묶음 3 · 새 레퍼런스 74편(lo 59, ms 15)은 사전 제외 없이 모두 리뷰 전에 `tone-labels.json` 에 `new: true` 로 넣었다. R-3 의 pending 파일과 `catalog --pending`, R-1 의 living-screencast 사전 제외는 하지 않았다. 리뷰는 카탈로그를 보고 사후에 받는다.
 > - 묶음 4 · 하지 않는다.
 > - 묶음 5 · 요청을 기다리지 않고 지금 넣었다. T-6 의 hand.js 는 영상 안에서 검수하는 단계를 건너뛰고 시험 페이지로 확인한 뒤 바로 `vendor/handdrawn/` 에 두었다.
+> - motionmaxxing (2026-11-24) · 스킬 폴더를 지웠다. 7단계가 쓰던 look.py 만 줄여 `scripts/look.py` 로 옮겼다(Apache-2.0 고지는 `scripts/look.LICENSE`). 아래 본문의 다른 motionmaxxing 언급은 원본 저장소 https://github.com/Tejashmakwana/motionmaxxing 를 가리킨다.
 
 대상 영상 · 「클로드 영상 제작 오픈소스 스킬 8가지」(https://youtu.be/IGdo9hR1_rE). 이 가운데 사용자가 고른 5개를 다룬다.
 
@@ -77,7 +78,7 @@
 - **P2** · 사용자가 결정하거나, 다음 실제 영상으로 시험한 뒤 기본값으로 둘지 정한다.
 - **P3** · 그 톤이나 기능을 요청받을 때만 한다.
 
-다른 저장소의 MIT 코드를 옮길 때는 고지를 남긴다. 짧은 도우미에는 `// from <repo> (MIT, Copyright (c) 2026 <저자>)` 주석을 단다. 수십 줄 이상이면 `vendor/` 처럼 LICENSE 사본을 함께 둔다. motionmaxxing(Apache-2.0)은 코드를 옮기지 않는다. 그 스크립트를 부르거나 방식만 따른다.
+다른 저장소의 MIT 코드를 옮길 때는 고지를 남긴다. 짧은 도우미에는 `// from <repo> (MIT, Copyright (c) 2026 <저자>)` 주석을 단다. 수십 줄 이상이면 `vendor/` 처럼 LICENSE 사본을 함께 둔다. motionmaxxing(Apache-2.0)은 look.py 만 줄여 옮기고 `scripts/look.LICENSE` 를 함께 둔다. 나머지는 방식만 따른다.
 
 ### 3-1. 레퍼런스 확장
 
@@ -232,7 +233,7 @@
 - **기존 규칙과 맞추는 것**
   1. 점입가경 표의 정점("배경 반전, 큰 글자")에 예외를 적는다 · "원테이크는 공개가 정점이다."
   2. 글자 140px·24px 기준과 이미지 1.5배 제한은 "화면 크기 = CSS 크기 × 카메라 배율"로 잰다.
-  3. 주인공이 점이면 발광·후광 없이 쓴다. 끝에서 로고로 변하지 않는다. 근거는 motionmaxxing SKILL.md:36 이다.
+  3. 주인공이 점이면 발광·후광 없이 쓴다. 끝에서 로고로 변하지 않는다. 근거는 motionmaxxing 원본 저장소의 SKILL.md 다.
   4. 조건 표기는 카메라 밖 화면 층(left 140, top 985)에 둔다.
 - **버린 것**
   - 원본의 루프 이음매와 역순 복귀 · 끝 정지 규칙과 모순된다.
@@ -406,7 +407,7 @@
 
 #### Q-7 ① [P1] 7단계 · look.py 로 재기만 한다
 
-- **무엇** · 7단계의 ffprobe 줄 옆에 이미 들어 있는 스크립트를 더한다. `python3 .claude/skills/motionmaxxing/scripts/look.py videos/<id>/renders/video.mp4 --out videos/<id>/renders/look --expect <duration> --expect-audio`
+- **무엇** · 7단계의 ffprobe 줄 옆에 이미 들어 있는 스크립트를 더한다. `python3 scripts/look.py videos/<id>/renders/video.mp4 --out videos/<id>/renders/look --expect <duration> --expect-audio`
 - **읽는 것** · G0(디코드, 빈 화면 아님, 길이, 소리), 끝 정지 길이, AUDIO(LUFS·true peak)다. 결과는 Q-8 보고 표에 적는다.
 - **G2(빈 프레임)** · 참고로만 적는다. 우리 본보기도 시작 0.4초가 단색이다(첫 작업 영상 0~11프레임). '점 → 화면 전체 배경'이나 '덮고 바꾸기' 전환도 단색 프레임을 일부러 만든다. 그래서 G2 를 게이트로 읽으면 거짓 FAIL 이 난다.
 - **쓰지 않는 것** · G3 의 "마지막 숏 25% 이하", MOTION 띠, `--strict` 다. 우리는 컷 대신 사물 전환으로 장면을 잇기 때문에 거짓 FAIL 이 난다.

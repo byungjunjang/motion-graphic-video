@@ -14,7 +14,7 @@ HTML 한 파일이 시간 t 의 화면을 계산하고, Chrome 이 프레임을 
 
 [![모션그래픽 스타일 레퍼런스 카탈로그](docs/media/catalog.jpg)](https://motion-reference-catalog.vercel.app/)
 
-설치 없이 브라우저에서 바로 볼 수 있습니다. 모션그래픽 레퍼런스 227편을 톤 24개로 묶었습니다.
+설치 없이 브라우저에서 바로 볼 수 있습니다. 모션그래픽 레퍼런스 216편을 톤 24개로 묶었습니다.
 
 - 톤마다 맞는 콘텐츠, 색·질감, 소리, 움직임, 쓰지 않는 것을 정리했습니다.
 - 카드에 마우스를 올리면 레퍼런스 영상이 재생됩니다. 실자료나 AI 이미지가 필요한 항목은 카드에 표시합니다.
@@ -34,7 +34,7 @@ HTML 한 파일이 시간 t 의 화면을 계산하고, Chrome 이 프레임을 
 
 - 사람이 고르는 곳은 두 곳뿐입니다. 선택과 승인 사이의 제작 작업은 에이전트가 진행합니다.
 - 같은 t 에는 항상 같은 화면이 나옵니다. 그래서 프레임을 순서 없이 나눠 찍어도 결과가 같습니다.
-- 레퍼런스는 공개된 모션그래픽 예시와 표현 기법 데모를 모은 색인(약 1,000건)에서 찾습니다. 영상을 보고 톤을 판정한 항목만 후보로 나옵니다. 문장과 브랜드 이름은 옮기지 않고 구조·박자·전환·타이포 처리만 참고합니다.
+- 레퍼런스는 공개된 모션그래픽 예시와 표현 기법 데모를 모은 색인(약 1,100건)에서 찾습니다. 영상을 보고 톤을 판정한 항목만 후보로 나옵니다. 문장과 브랜드 이름은 옮기지 않고 구조·박자·전환·타이포 처리만 참고합니다.
 
 ## 필요한 것
 
@@ -44,7 +44,7 @@ HTML 한 파일이 시간 t 의 화면을 계산하고, Chrome 이 프레임을 
 | 필수 | Node.js 24 이상 | 렌더러, 확인 화면 |
 | 필수 | Google Chrome (시스템 설치) | 프레임 촬영 |
 | 필수 | ffmpeg | 영상·소리 합성 |
-| 필수 | Python 3 | 소리 합성 (`scripts/mix.py`) |
+| 필수 | Python 3 | 소리 섞기, 렌더 측정 (`scripts/mix.py`, `scripts/look.py`) |
 | 선택 | Python 패키지 `numpy` `pillow` `scipy` | 음악·효과음 합성, 음악 박자 분석, AI 이미지 배경 지우기 |
 | 권장 | ElevenLabs 커넥터 (Claude·Codex · 크리에이티브판, [연결 방법](#elevenlabs-연결-권장)) | 내레이션·음악·효과음 생성. 내레이션은 이 커넥터로만 만듭니다. **크레딧이 듭니다** |
 | 선택 | [Codex CLI](https://github.com/openai/codex) + ChatGPT 로그인 | AI 일러스트 생성. **ChatGPT 요금제 한도에서 나갑니다** |
@@ -52,7 +52,7 @@ HTML 한 파일이 시간 t 의 화면을 계산하고, Chrome 이 프레임을 
 
 ElevenLabs 커넥터가 없어도 영상을 만들 수 있습니다. 배경음악과 효과음은 `scripts/synth.py` 가 코드로 합성합니다(numpy 필요, 비용 없음). 이때 내레이션은 넣지 않고 화면 문구로 전달합니다. 가진 음원 파일을 넣거나 소리 없이 만들 수도 있습니다.
 
-macOS (Apple Silicon) 에서 확인했습니다. 스크립트에 Windows 대응 코드가 있지만 이 공개본으로는 시험하지 않았습니다.
+macOS (Apple Silicon) 와 Windows 에서 확인했습니다.
 
 ## 설치
 
@@ -144,16 +144,21 @@ url = "https://api.elevenlabs.io/v1/mcp-creative"
   motion-video/        영상 제작 단계 (0~8단계) 와 레퍼런스 문서
   motion-catalog/      카탈로그에서 스타일을 먼저 고르는 흐름
   codex-image/         AI 이미지 생성 스킬 (MIT)
+.agents/skills/        Codex 용 진입 파일
 scripts/
   refs.mjs             레퍼런스 색인·검색·후보 비교 화면
   catalog.mjs          톤별 카탈로그 화면
   storyboard.mjs       스토리보드 확인 화면
+  lint-storyboard.mjs  스토리보드 규칙 검사
+  review-server.mjs    확인 화면을 띄우고 답을 받는 로컬 서버
+  run-log.mjs          영상마다 실행 기록 (run-log.json)
   render.mjs           프레임 촬영, 검수 시트, 결정성 비교
   synth.py             배경음악·효과음 코드 합성 (ElevenLabs 가 없을 때)
   mix.py               소리 섞기 → mp4
   audio-probe.py       길이·무음·박자 측정
   look.py              렌더 측정 (검수 시트·길이·끝 정지·음량)
   key.py               AI 이미지의 마젠타 바탕 지우기
+  sync_codex_skills.py Codex 진입 파일 갱신
 references/            분석 노트, 톤 판정 (색인 파일은 처음 실행할 때 만들어집니다)
 templates/starter/     새 영상의 본보기
 vendor/                three.js, 손그림 키트, 3D 재질 키트, 종이 질감
