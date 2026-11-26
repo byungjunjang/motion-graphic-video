@@ -10664,5 +10664,64 @@
   "note": "바랜 종이에 잉크 선·해칭 기계 도판 3장, 구르는 숫자판, 빨간 펜",
   "date": "2026-11-23",
   "confidence": "mid"
+ },
+ "pm:techhalla-90b8ec": {
+  "tones": [
+   "kinetic-type",
+   "hud"
+  ],
+  "by": "frames4",
+  "note": "검은 바탕 거대 흰 글자와 잔상, 라임·마젠타 포인트, 코너 괄호·고정폭 메타 줄·코드 상자",
+  "date": "2026-11-25",
+  "confidence": "high",
+  "flags": [
+   "실존"
+  ]
+ },
+ "pm:jake11moran-f60e35": {
+  "tones": [
+   "minimal-ui",
+   "kinetic-type"
+  ],
+  "by": "frames4",
+  "note": "흐린 유화 바탕화면 위 데스크톱 앱 창들과 노치 이름 띠·커서, 흐림에서 또렷해지는 흰 문구와 체크 목록",
+  "date": "2026-11-25",
+  "confidence": "mid",
+  "flags": [
+   "실존"
+  ]
+ },
+ "pm:ryan-morr-ccc796": {
+  "tones": [
+   "minimal-ui",
+   "cinematic-3d"
+  ],
+  "by": "frames4",
+  "note": "어두운 그레인 공간에서 닫히는 노트북 3D, 기울어진 다크 앱 카드와 산세리프·빨간 이탤릭 카피, 줄에 매달려 빛나는 빨간 로고",
+  "date": "2026-11-25",
+  "confidence": "mid",
+  "flags": [
+   "실존"
+  ]
+ },
+ "pm:aichrislee-a6cb42": {
+  "tones": [
+   "kinetic-type",
+   "cartoon"
+  ],
+  "by": "frames4",
+  "note": "쇼릴: 노랑·빨강·파랑 원색 바탕에 흰 굵은 글자, 사각 격자·방사선 무늬, 검은 외곽선 큐브, 색종이 입자. 첫 장면은 프롬프트 입력 창",
+  "date": "2026-11-25",
+  "confidence": "mid"
+ },
+ "cv:motion-showreel-grows-a-red-dot-cluster-on-cream": {
+  "tones": [
+   "particle",
+   "editorial"
+  ],
+  "by": "frames4",
+  "note": "쇼릴: 검정·크림·노랑 단색 바탕에 빨간 점 고리, 검은 점 나선 무리, 줄무늬 관이 모양을 바꿈. 코너 괄호와 박자·시간 메타 줄",
+  "date": "2026-11-25",
+  "confidence": "mid"
  }
 }

@@ -464,6 +464,16 @@ function verify() {
   writeFileSync(VIDEOS_PATH, JSON.stringify(VIDEOS, null, 1));
   const ex = Object.values(VIDEOS).filter((v) => v.excluded).length;
   console.log(`새로 확인 ${todo.length}개 · 제외 누적 ${ex}개 → ${VIDEOS_PATH}`);
+  warnTwinDrops(entries);
+}
+
+// 재색인으로 대표 id 가 바뀌면 사용자가 리뷰에서 뺀 영상이 새 id 로 돌아온다. 예전 id 는 alsoIn 으로 내려간다.
+// 그 쌍둥이가 user review: drop 인데 아직 리뷰 전(판정 없음 또는 new: true)인 사용 항목을 알린다. 빼는 것은 사용자가 정한다.
+// 출처 영상 없음 같은 출처별 제외는 다른 출처에서는 영상이 열릴 수 있어 보지 않는다.
+function warnTwinDrops(entries) {
+  for (const e of entries.filter((e) => !VIDEOS[e.id]?.excluded && (!LABELS[e.id] || LABELS[e.id].new)))
+    for (const t of (e.alsoIn ?? []).filter((t) => VIDEOS[t]?.reason === "user review: drop"))
+      console.error(`경고: ${e.id} 는 ${t} 와 같은 영상이다. ${t} 는 ${VIDEOS[t].checked} 사용자 리뷰에서 뺐다`);
 }
 
 // 전문을 출처에서 직접 읽는다. 첫 출처가 막혔거나 목록에서 빠졌으면 같은 영상의 다른 출처(alsoIn)에서 읽는다.
@@ -575,6 +585,7 @@ function unlabeled(opts) {
   else if (opts.limit) rows = rows.slice(0, opts.limit);
   for (const e of rows) console.log(`${e.id}\t${e.poster}\t${cut(e.title, 60)}`);
   console.error(`${rows.length}개 · 포스터 판정 ${Object.keys(LABELS).length}개 저장됨`);
+  warnTwinDrops(entries);
 }
 
 // 기법(am:)은 후보로 내는 레퍼런스가 아니다. 그래서 톤별 레퍼런스 수와 상태(충분·적음·거의 없음)에 넣지 않고 "기법" 칸에 따로 센다.

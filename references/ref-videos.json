@@ -7052,8 +7052,14 @@
   }
  },
  "cv:motion-showreel-grows-a-red-dot-cluster-on-cream": {
-  "via": "source",
-  "checked": "2026-10-23"
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "쇼릴 틀을 줄이거나 바꿔 쓴 것",
+  "checked": "2026-11-25",
+  "was": {
+   "via": "source",
+   "checked": "2026-10-23"
+  }
  },
  "lo:caption-news": {
   "via": "source",
@@ -8352,19 +8358,43 @@
   "checked": "2026-11-23"
  },
  "pm:techhalla-90b8ec": {
-  "via": "source",
-  "checked": "2026-11-24"
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "같은 영상을 2026-10-20 리뷰에서 뺐음 (gh:techhalla-498547)",
+  "checked": "2026-11-25",
+  "was": {
+   "via": "source",
+   "checked": "2026-11-24"
+  }
  },
  "pm:jake11moran-f60e35": {
-  "via": "source",
-  "checked": "2026-11-24"
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "같은 영상을 2026-10-20 리뷰에서 뺐음 (gh:jake11moran-414633)",
+  "checked": "2026-11-25",
+  "was": {
+   "via": "source",
+   "checked": "2026-11-24"
+  }
  },
  "pm:ryan-morr-ccc796": {
-  "via": "source",
-  "checked": "2026-11-24"
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "같은 영상을 2026-10-20 리뷰에서 뺐음 (gh:ryan-morr-666741)",
+  "checked": "2026-11-25",
+  "was": {
+   "via": "source",
+   "checked": "2026-11-24"
+  }
  },
  "pm:aichrislee-a6cb42": {
-  "via": "source",
-  "checked": "2026-11-24"
+  "excluded": true,
+  "reason": "user review: drop",
+  "why": "같은 영상을 2026-10-20 리뷰에서 뺐음 (gh:aichrislee-961335)",
+  "checked": "2026-11-25",
+  "was": {
+   "via": "source",
+   "checked": "2026-11-24"
+  }
  }
 }
