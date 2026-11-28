@@ -21,7 +21,7 @@ Claude Code 와 Codex 가 따르는 문서다. 영상 작업을 시작할 때(mv
 | Python 3 | `python3 --version` (Windows 는 `python --version`) | `brew install python` | `winget install Python.Python.3.12` | `sudo apt install python3 python3-pip` |
 | 프로젝트 의존성 | `node_modules/playwright-core` 폴더가 있는가 | 저장소 루트에서 `npm ci` | 같음 | 같음 |
 
-- 렌더러(`scripts/render.mjs`)는 시스템에 설치한 Chrome 을 쓴다(`channel: 'chrome'`). Chrome 을 띄우지 못하면 경고를 내고 Edge(`channel: 'msedge'`)로 찍는다. Chromium 으로 대신하지 않는다. Chrome 이 없으면 Edge 가 있어도 위 표대로 Chrome 을 설치한다. 한 영상을 찍다가 브라우저가 바뀌면 프레임을 처음부터 다시 찍는다.
+- 렌더러(`scripts/render.mjs`)는 시스템에 설치한 Chrome 을 쓴다(`channel: 'chrome'`). Chrome 을 띄우지 못하면 경고를 내고 Edge(`channel: 'msedge'`)로, Edge 도 없으면 Playwright Chromium 으로 찍는다. Chromium 은 `npx playwright-core install chromium` 으로 사용자 캐시에 받는다(관리자 권한이 필요 없다). Chromium 에는 H.264·AAC 코덱이 없어 화면 안의 mp4 `<video>` 가 재생되지 않는다. Edge·Chromium 은 비상용이다. Chrome 이 없으면 위 표대로 Chrome 을 설치하고, Chrome 설치가 막힐 때만 Chromium 을 받는다. 한 영상을 찍다가 브라우저가 바뀌면 프레임을 처음부터 다시 찍는다.
 - macOS 에 `brew` 가 없으면 Homebrew 설치는 관리자 비밀번호가 필요하다. 사용자에게 https://brew.sh 의 설치 명령을 실행하게 한다. 끝났다고 하면 이어서 설치한다.
 - Windows 에 `winget` 이 없으면 사용자에게 Microsoft Store 의 "앱 설치 관리자"를 설치하게 한다.
 - `winget` 으로 설치한 뒤 명령을 찾지 못하면 새 터미널에서 다시 확인한다. 그래도 없으면 설치 경로를 찾아 전체 경로로 실행한다.

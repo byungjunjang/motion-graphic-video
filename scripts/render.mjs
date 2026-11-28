@@ -27,10 +27,13 @@ const outDir = mkdtempSync(resolve(dir, 'renders', snaps ? '.snaps-' : '.frames-
 if (/src=["']beats\.js["']/.test(readFileSync(resolve(dir, 'src/index.html'), 'utf8')) && !existsSync(resolve(dir, 'src/beats.js')))
   console.warn('src/beats.js 가 아직 없다. 박자 맞춤 없이 찍는다 (콘솔의 404 는 무시해도 된다). 음악을 만든 뒤 audio-probe.py --onsets --write 로 만들고 다시 찍는다.');
 
-// Chrome 이 없으면 Edge 로 찍는다. 같은 영상의 프레임은 한 브라우저로만 찍는다
-const browser = await chromium.launch({ channel: 'chrome', headless: true }).catch(async e => {
+// Chrome → Edge → Playwright Chromium 순서로 띄운다. 같은 영상의 프레임은 한 브라우저로만 찍는다
+const browser = await chromium.launch({ channel: 'chrome', headless: true }).catch(e => {
   console.warn(`Chrome 을 띄우지 못했다. Edge 로 찍는다 · ${e.message.split('\n')[0]}`);
   return chromium.launch({ channel: 'msedge', headless: true });
+}).catch(e => {
+  console.warn(`Edge 도 띄우지 못했다. Playwright Chromium 으로 찍는다 (화면 안 mp4 <video> 는 재생되지 않는다) · ${e.message.split('\n')[0]}`);
+  return chromium.launch({ headless: true });
 });
 let opened = false;
 const open = async () => {
